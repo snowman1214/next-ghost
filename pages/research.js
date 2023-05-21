@@ -30,7 +30,7 @@ export default function Research() {
                       <span className="line line-1">Secure AI Systems</span>
                     </div>
                     <div className="line-wrapper text-right">
-                      <span className="line line-2">Ensuring Their Private Deployment</span>
+                      <span className="line line-2">Ensuring Their Privacy</span>
                     </div>
                   </h1>
 
