@@ -24,17 +24,17 @@ export default function Home() {
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">
-                        Pioneering in the field of AI <a href="research">research</a> and <br />
+                        Pioneering AI <a href="research">research</a> and <br />
                       </span>
                     </div>
                     <div className="line-wrapper text-right">
                       <span className="line line-2">
-                        <a href="product">products</a> we prioritize  <br />
+                        <a href="product">products</a> that put privacy  <br />
                       </span>
                     </div>
                     <div className="line-wrapper ">
                       <span className="line line-3">
-                       safety as the frontier of our products
+                       safety as the frontier
                         <br />
                       </span>
                     </div>
