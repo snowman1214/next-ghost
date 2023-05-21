@@ -55,7 +55,7 @@ export default function Home() {
                         sizes="(max-width: 699px) 100vw, 50vw"
                         src="../asserts/images/Claude_CARD_2023-03-105755.png?w=1312&amp;h=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678490184&amp;s=ffaae3d3ba0ead9f397cfd3752386425"
                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_CARD_2023-03-10.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678490184&amp;s=deaa00588011529f176b7310201f8b2b 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_CARD_2023-03-10.png?w=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678490184&amp;s=4c432669772c23886a880a435bd7b942 1312w"
-                        alt="Claude CARD 2023 03 10"
+                        alt="SuisseGPT CARD 2023 03 10"
                         style={{ objectPosition: "50% 50%" }}
                       />
                     </div>
@@ -63,7 +63,7 @@ export default function Home() {
                   <div className="cta s:col-start-7 s:col-span-6">
                     <div className="cta-wrapper s:grid s:grid-5">
                       <div className="heading s:col-start-1 s:col-span-5">
-                        <h2>Introducing Claude</h2>
+                        <h2>Introducing SuisseGPT</h2>
                       </div>
                       <div className="description text-b1 s:col-start-1 s:col-span-4">
                         <p>
