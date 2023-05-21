@@ -27,7 +27,7 @@ export default function Research() {
                     data-triggers="splitWords"
                   >
                     <div className="line-wrapper ">
-                      <span className="line line-1">Constructing Secure AI Systems</span>
+                      <span className="line line-1">Secure AI Systems</span>
                     </div>
                     <div className="line-wrapper text-right">
                       <span className="line line-2">Ensuring Their Private Deployment</span>
