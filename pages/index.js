@@ -24,7 +24,7 @@ export default function Home() {
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">
-                        Pioneering AI <a href="research">research</a> & <br />
+                        Pioneering AI <a href="research">research</a> and <br />
                       </span>
                     </div>
                     <div className="line-wrapper text-right">
@@ -74,7 +74,7 @@ export default function Home() {
                       <div className="s:col-start-1 s:col-span-5">
                         <a
                           className="btn-primary"
-                          href="product.html"
+                          href="product"
                           aria-label="Meet SuisseGPT"
                         >
                           <span className="btn-label">
@@ -123,7 +123,7 @@ export default function Home() {
                       <h3>Interested in building the future of safe AI?</h3>
                       <a
                         className="btn-primary"
-                        href="careers.html"
+                        href="careers"
                         aria-label="Work With Us"
                       >
                         <span className="btn-label">
