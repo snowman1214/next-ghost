@@ -2,11 +2,11 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="core-header">
+    <header className="core-header" style={{ pointerEvents: "auto" }}>
       <div className="wrapper">
-        <a className="core-logo-link" href="index.html" aria-label="Home">
+        <Link href="">
           <div className="logo-lottie"></div>
-        </a>
+        </Link>
         <button className="btn-core-mobile" aria-label="Navigation menu">
           <svg
             width="40"

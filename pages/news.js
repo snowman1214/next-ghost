@@ -5,6 +5,7 @@ export default function News() {
   return (
     <>
       <Header />
+      <div className="page-dom-content" style={{ pointerEvents: "auto" }}></div>
       <Footer />
     </>
   );
