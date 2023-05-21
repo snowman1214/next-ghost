@@ -3038,7 +3038,7 @@ input[type=checkbox]:disabled,input[type=radio]:disabled {
 }
 
 .h1,h1 {
-  font-size: clamp(2.5rem,5vw,5.5rem);
+  font-size: clamp(2.5rem,5vw,4.5rem);
   letter-spacing: -.03em;
   line-height: 95%
 }
