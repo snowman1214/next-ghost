@@ -46,7 +46,7 @@ const Header = () => {
         <div className="core-mobile-nav wrapper xs:grid xs:grid-2">
           <div className="controls xs:grid xs:grid-2 xs:col-start-1 xs:col-span-2">
             <div className="logo-mark xs:col-start-1 xs:col-span-1">
-              <a href="index.html">
+              <a href="index">
                 <svg
                   width="46"
                   height="32"
@@ -82,19 +82,19 @@ const Header = () => {
                 <Link href="/product">Product</Link>
               </li>
               <li>
-                <a href="research.html">Research</a>
+                <a href="research">Research</a>
               </li>
               <li>
                 <a href="index-2.html">Index</a>
               </li>
               <li>
-                <a href="company.html">Company</a>
+                <a href="company">Company</a>
               </li>
               <li>
                 <a href="indexfb19.html?subjects=announcements">News</a>
               </li>
               <li>
-                <a href="careers.html">Careers</a>
+                <a href="careers">Careers</a>
               </li>
             </ul>
             <ul className="footer-additional">
@@ -103,7 +103,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://twitter.com/AnthropicAI"
+                  href="https://twitter.com/usedemand"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -112,7 +112,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/company/anthropicresearch"
+                  href="https://www.linkedin.com/company/demand"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -121,7 +121,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://legal.anthropic.com/#terms"
+                  href="https://usedemand.com/#terms"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -130,7 +130,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://legal.anthropic.com/#privacy"
+                  href="https://usedemand.com/#privacy"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -145,7 +145,7 @@ const Header = () => {
             </ul>
           </div>
           <div className="footer-bottom xs:col-start-1 xs:col-span-2">
-            <div className="copyright">&copy; 2023 Anthropic PBC</div>
+            <div className="copyright">&copy; 2023 SuisseBlocks Group AG</div>
           </div>
         </div>
       </div>

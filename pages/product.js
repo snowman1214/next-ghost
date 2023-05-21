@@ -29,7 +29,7 @@ export default function Product() {
                           <div className="heading h0">
                             Meet
                             <br />
-                            Claude
+                            SuisseGPT
                           </div>
                         </div>
                       </div>
@@ -66,13 +66,13 @@ export default function Product() {
                           data-triggers="inViewOnce"
                           target="_blank"
                           rel="noopener"
-                          aria-label="Try Claude in Slack"
+                          aria-label="Try SuisseGPT on Demand"
                         >
                           <span className="btn-label">
-                            Try Claude in Slack
+                            Try SuisseGPT on Demand
                             <span
                               className="btn-anim"
-                              title="Try Claude in Slack"
+                              title="Try SuisseGPT on Demand"
                               aria-hidden="true"
                             ></span>
                           </span>
@@ -95,7 +95,7 @@ export default function Product() {
                         sizes="100vw"
                         src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner8198.png?w=1920&amp;h=750&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=f126c7f71416e711da9a57662c6b8060"
                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=37eb0c28c093427bc82d7b1f608a3e91 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner.png?w=1440&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=27318a958bc4dc69c14686a069a28a88 1440w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner.png?w=1920&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=ebcb9dfc932d0c286683f21f3f2bb846 1920w"
-                        alt="Claude Banner"
+                        alt="SuisseGPT Banner"
                         style={{ objectPosition: "50% 50%" }}
                       />
                     </div>
@@ -114,7 +114,7 @@ export default function Product() {
                       >
                         <div className="quote-wrapper stagger-item s:col-start-1 s:col-span-4">
                           <blockquote className="h4">
-                            Since deploying Claude in our product, we&#039;re
+                            Since deploying SuisseGPT in our product, we&#039;re
                             seeing higher user engagement, stronger user
                             feedback and we&#039;re closing more deals.
                           </blockquote>
@@ -132,7 +132,7 @@ export default function Product() {
                         </div>
                         <div className="quote-wrapper stagger-item s:col-start-5 s:col-span-4">
                           <blockquote className="h4">
-                            Anthropic has already been a great partner, working
+                            Suisseblocks has already been a great partner, working
                             closely with us to improve the quality of DuckAssist
                             answers while also meeting our strict privacy
                             requirements.
@@ -153,7 +153,7 @@ export default function Product() {
                         </div>
                         <div className="quote-wrapper stagger-item s:col-start-9 s:col-span-4">
                           <blockquote className="h4">
-                            Users describe Claude’s answers as detailed and
+                            Users describe SuisseGPT’s answers as detailed and
                             easily understood, and they like that exchanges feel
                             like natural conversation.
                           </blockquote>
@@ -199,7 +199,7 @@ export default function Product() {
                                 Skilled, flexible, customizable
                               </div>
                               <p className="text-b2 spacer-small-mt">
-                                Claude can be a delightful company
+                                SuisseGPT can be a delightful company
                                 representative, a research assistant, a creative
                                 partner, a task automator, and more.
                                 Personality, tone, and behavior can all be
@@ -226,7 +226,7 @@ export default function Product() {
                                 Easy integration via standard APIs
                               </div>
                               <p className="text-b2 spacer-small-mt">
-                                Claude can be incorporated into any product or
+                                SuisseGPT can be incorporated into any product or
                                 toolchain you’re building with minimal effort.
                               </p>
                             </div>
@@ -249,8 +249,8 @@ export default function Product() {
                               <div className="h2">Helpful and trustworthy</div>
                               <p className="text-b2 spacer-small-mt">
                                 Thanks to Constitutional AI and harmlessness
-                                training, you can trust Claude to represent your
-                                company and its needs. Claude has been trained
+                                training, you can trust SuisseGPT to represent your
+                                company and its needs. SuisseGPT has been trained
                                 to handle even unpleasant or malicious
                                 conversational partners with grace.
                               </p>
@@ -273,7 +273,7 @@ export default function Product() {
                             <div className="list-content order-1">
                               <div className="h2">Available 24/7</div>
                               <p className="text-b2 spacer-small-mt">
-                                Claude is always available, whenever you or your
+                                SuisseGPT is always available, whenever you or your
                                 customers need, with servers that are designed
                                 to scale and meet demanding workloads.
                               </p>
@@ -287,7 +287,7 @@ export default function Product() {
                       className="content-block b-tabbedSlider  "
                     >
                       <div className="block-content">
-                        <h2 className="heading">Put Claude to work</h2>
+                        <h2 className="heading">Put SuisseGPT to work</h2>
                         <div className="tabs-wrapper">
                           <div className="tabs spacer-medium-mt">
                             <button className="btn-tab active" data-index="1">
@@ -335,10 +335,10 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      Claude ensures speedy and
+                                      SuisseGPT ensures speedy and
                                       friendly resolution to customer service
                                       requests, saving costs and increasing
-                                      customer satisfaction.  Claude can also be
+                                      customer satisfaction.  SuisseGPT can also be
                                       taught when to hand off tasks to a human
                                       CSR, enabling your team to focus on the
                                       most complex challenges.
@@ -359,14 +359,14 @@ export default function Product() {
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Legal042c.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678729370&amp;s=30ed5f57cc0c0f5f28d1983e8de3f82c"
                                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Legal.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678729370&amp;s=d68ff747c0cae4335d4703a687d9d9d4 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Legal.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678729370&amp;s=8d271f33eb39568cf0bcbcf4f7808767 1056w"
-                                        alt="Claude Work Legal"
+                                        alt="SuisseGPT Work Legal"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
                                     </div>
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      Claude is able to parse legal documents
+                                      SuisseGPT is able to parse legal documents
                                       and answer questions about them. Lawyers
                                       can reduce costs and focus on higher level
                                       work.
@@ -387,14 +387,14 @@ export default function Product() {
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Coaching4722.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302483&amp;s=64c0d2db90d59863e032a7775fe57e78"
                                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Coaching.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302483&amp;s=bab7c3a4c086a74e79b183ce0f839f68 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Coaching.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302483&amp;s=24f1b856f5f6379b4ddf4b4cd3f21d52 1056w"
-                                        alt="Claude Work Coaching"
+                                        alt="SuisseGPT Work Coaching"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
                                     </div>
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      Claude can be an always-available active
+                                      SuisseGPT can be an always-available active
                                       listening companion for personal growth as
                                       well as career development, providing a
                                       space to listen or give advice.
@@ -415,14 +415,14 @@ export default function Product() {
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Search8275.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302461&amp;s=020d7e50a32bd3ee3f7e9700b22c98b9"
                                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Search.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302461&amp;s=69ec5e0edd61e5678002c2e59af25ba2 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Search.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302461&amp;s=ba6521ff8943c378bf504168cbba1b35 1056w"
-                                        alt="Claude Work Search"
+                                        alt="SuisseGPT Work Search"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
                                     </div>
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      Claude is able to integrate seamlessly
+                                      SuisseGPT is able to integrate seamlessly
                                       into web search as well as private search
                                       over knowledge bases, synthesizing search
                                       results triggered by user questions into
@@ -444,14 +444,14 @@ export default function Product() {
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Back-Officefb69.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302487&amp;s=3c3aba5b4ffc68590ae8b932c8489f68"
                                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Back-Office.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302487&amp;s=4b31d90376b0683736a993565f10d5b1 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Back-Office.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302487&amp;s=d4edbf998135e27021445bd8d3a90e4b 1056w"
-                                        alt="Claude Work Back Office"
+                                        alt="SuisseGPT Work Back Office"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
                                     </div>
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      Claude is able to handle a wide range of
+                                      SuisseGPT is able to handle a wide range of
                                       rote office work. It can extract relevant
                                       information from emails and documents,
                                       categorize and summarize survey responses,
@@ -474,18 +474,18 @@ export default function Product() {
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Saleseded.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302467&amp;s=b5ffb711c91cf6ef06dbcba99f0cd33b"
                                         srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Sales.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302467&amp;s=c124b9f7e5fb79a0bb07c7d08c47d338 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Sales.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302467&amp;s=4acdeb1a41772adad05d7ade48593943 1056w"
-                                        alt="Claude Work Sales"
+                                        alt="SuisseGPT Work Sales"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
                                     </div>
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      Claude can act as an always-on and
+                                      SuisseGPT can act as an always-on and
                                       enthusiastic virtual sales representative,
                                       answering customer questions and guiding
                                       them towards products that meet their
-                                      needs. Customize Claude with your brand's
+                                      needs. Customize SuisseGPT with your brand's
                                       personality and tone.
                                     </p>
                                   </div>
@@ -504,10 +504,10 @@ export default function Product() {
                       <div className="block-content">
                         <div className="top-content">
                           <h2 className="heading">
-                            Build with Claude&#039;s skills
+                            Build with SuisseGPT&#039;s skills
                           </h2>
                           <div className="description text-b1">
-                            Claude’s skills can be combined to simplify even the
+                            SuisseGPT’s skills can be combined to simplify even the
                             most complex tasks
                           </div>
                         </div>
@@ -524,7 +524,7 @@ export default function Product() {
                                   sizes="100vw"
                                   src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Text2cfd.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302206&amp;s=840937b978f46f11cca51a4286f6c920"
                                   srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Text.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302206&amp;s=c03420529b3f127dd81e787d80e004a0 192w"
-                                  alt="Claudes Skills Text"
+                                  alt="SuisseGPT Skills Text"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
                               </div>
@@ -537,7 +537,7 @@ export default function Product() {
                             <div className="description text-b2">
                               Whether you&#039;re dealing with documents,
                               emails, FAQs, chat transcripts, records, or
-                              something else, Claude is here to help. Claude can
+                              something else, SuisseGPT is here to help. SuisseGPT can
                               edit, rewrite, summarize, classNameify, extract
                               structured data, do Q&amp;A based on the content,
                               and more.
@@ -555,7 +555,7 @@ export default function Product() {
                                   sizes="100vw"
                                   src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Conversationsa912.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302207&amp;s=b60e651383ed1e680da8a771e49d65a1"
                                   srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Conversations.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302207&amp;s=440f328e11f803dde140e47357f28496 192w"
-                                  alt="Claudes Skills Conversations"
+                                  alt="SuisseGPT Skills Conversations"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
                               </div>
@@ -566,9 +566,9 @@ export default function Product() {
                             </div>
 
                             <div className="description text-b2">
-                              Claude can take on a variety of roles in a
+                              SuisseGPT can take on a variety of roles in a
                               dialogue. Provide details on the role and an FAQ
-                              for common questions, and Claude will engage in
+                              for common questions, and SuisseGPT will engage in
                               relevant, naturalistic back-and-forth
                               conversation.
                             </div>
@@ -586,7 +586,7 @@ export default function Product() {
                                   sizes="100vw"
                                   src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers4195.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302209&amp;s=f8a64c41a20146a8332578c26a88b1d4"
                                   srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302209&amp;s=2e28e4861331f33650a4b3d3a339695e 192w"
-                                  alt="Claudes Skills Answers"
+                                  alt="SuisseGPT Skills Answers"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
                               </div>
@@ -595,10 +595,10 @@ export default function Product() {
                             <div className="heading h4">Get answers</div>
 
                             <div className="description text-b2">
-                              Claude has extensive general knowledge honed from
+                              SuisseGPT has extensive general knowledge honed from
                               its vast training corpus, with detailed background
                               on technical, scientific, and cultural knowledge.
-                              Claude can speak a variety of common languages, as
+                              SuisseGPT can speak a variety of common languages, as
                               well as programming languages.
                             </div>
                           </div>
@@ -615,7 +615,7 @@ export default function Product() {
                                   sizes="100vw"
                                   src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers-18591.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302210&amp;s=0f90180af314f94da3c3f3cab9e2d7e0"
                                   srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers-1.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302210&amp;s=4235d9a0f529afd12d67d5c20e682ffc 192w"
-                                  alt="Claudes Skills Answers 1"
+                                  alt="SuisseGPT Skills Answers 1"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
                               </div>
@@ -624,7 +624,7 @@ export default function Product() {
                             <div className="heading h4">Automate workflows</div>
 
                             <div className="description text-b2">
-                              Claude can handle a variety of basic instructions
+                              SuisseGPT can handle a variety of basic instructions
                               and logical scenarios, including formatting
                               outputs as desired, following if-then statements,
                               and making a series of logical evaluations in a
@@ -659,7 +659,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                Is Claude secure with my enterprise data?
+                                Is SuisseGPT secure with my enterprise data?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -700,7 +700,7 @@ export default function Product() {
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  Yes, Claude uses industry-standard best
+                                  Yes, SuisseGPT uses industry-standard best
                                   practices for data handling and retention. See
                                   our{" "}
                                   <a
@@ -772,7 +772,7 @@ export default function Product() {
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
                                   Our API is designed to be a backend that
-                                  incorporates Claude into any application
+                                  incorporates SuisseGPT into any application
                                   you’ve developed. Your application sends text
                                   to our API, then receives a response via{" "}
                                   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events">
@@ -801,7 +801,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                What versions of Claude are available?
+                                What versions of SuisseGPT are available?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -842,16 +842,16 @@ export default function Product() {
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  We currently offer two versions of Claude.
+                                  We currently offer two versions of SuisseGPT.
                                 </p>
                                 <p>
-                                  Claude - our most powerful model, which excels
+                                  SuisseGPT - our most powerful model, which excels
                                   at a wide range of tasks from sophisticated
                                   dialogue and creative content generation to
                                   detailed instruction following.
                                 </p>
                                 <p>
-                                  Claude Instant - a faster and cheaper yet
+                                  SuisseGPT Instant - a faster and cheaper yet
                                   still very capable model, which can handle a
                                   range of tasks including casual dialogue, text
                                   analysis, summarization, and document
@@ -940,7 +940,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                What languages does Claude support?
+                                What languages does SuisseGPT support?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -981,10 +981,10 @@ export default function Product() {
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  Claude has the most training in English, but
+                                  SuisseGPT has the most training in English, but
                                   also performs well in a range of other common
                                   languages, and still has some ability to
-                                  communicate in less common languages. Claude
+                                  communicate in less common languages. SuisseGPT
                                   also has extensive knowledge of common{" "}
                                   <em>programming</em> languages!
                                 </p>
@@ -1004,7 +1004,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                Can Claude access the internet?
+                                Can SuisseGPT access the internet?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -1045,9 +1045,9 @@ export default function Product() {
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  No. Claude is designed to be self-contained,
+                                  No. SuisseGPT is designed to be self-contained,
                                   and will respond without searching the
-                                  internet. You can, however, provide Claude
+                                  internet. You can, however, provide SuisseGPT
                                   with text from the internet and ask it to
                                   perform tasks with that content.
                                 </p>
@@ -1183,16 +1183,16 @@ export default function Product() {
                                 <p>
                                   Helpful, Honest, and Harmless (HHH) are three
                                   components of building AI systems (like
-                                  Claude) that are aligned with people’s
+                                  SuisseGPT) that are aligned with people’s
                                   interests.
                                   <br />
-                                  <br />- Helpful: Claude wants to help the user
+                                  <br />- Helpful: SuisseGPT wants to help the user
                                   <br />
-                                  <br />- Honest: Claude shares information it
+                                  <br />- Honest: SuisseGPT shares information it
                                   believes to be true, and avoids made-up
                                   information
                                   <br />
-                                  <br />- Harmless: Claude will not cooperate in
+                                  <br />- Harmless: SuisseGPT will not cooperate in
                                   aiding the user in harmful activities
                                 </p>
                                 <p>
@@ -1227,7 +1227,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                How do you further customize Claudeʼs behavior?
+                                How do you further customize SuisseGPT behavior?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -1268,7 +1268,7 @@ export default function Product() {
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  Claude’s behavior can be extensively modified
+                                  SuisseGPT’s behavior can be extensively modified
                                   using prompting. Prompts can be used to
                                   explain the desired role, task, and background
                                   knowledge, as well as a few examples of
@@ -1290,7 +1290,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                Can Claude models be finetuned?
+                                Can SuisseGPT models be finetuned?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -1365,7 +1365,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                How long is Claudeʼs context window?
+                                How long is SuisseGPT context window?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -1427,7 +1427,7 @@ export default function Product() {
                               className="faq-label s:grid s:grid-12"
                             >
                               <div className="faq-title h4 s:col-start-1 s:col-span-10">
-                                Can Claude do embeddings?
+                                Can SuisseGPT do embeddings?
                               </div>
 
                               <span className="faq-icon s:col-start-11 s:col-span-2">
@@ -1521,7 +1521,7 @@ export default function Product() {
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Claude, now in Slack
+                          SuisseGPT, now on Demand
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -1539,7 +1539,7 @@ export default function Product() {
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Introducing Claude
+                          Introducing SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -1556,12 +1556,12 @@ export default function Product() {
                 <div className="wrapper s:grid s:grid-12">
                   <div className="s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6">
                     <div data-triggers="splitWords">
-                      <h2 className="heading">Add Claude to your team</h2>
+                      <h2 className="heading">Add SuisseGPT to your team</h2>
                     </div>
 
                     <div className="contentFade" data-triggers="inViewOnce">
                       <p className="description text-b1">
-                        Try Claude and see how AI can add value to your team
+                        Try SuisseGPT and see how AI can add value to your team
                         today.
                       </p>
                     </div>

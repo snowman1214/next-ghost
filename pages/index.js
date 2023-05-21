@@ -24,17 +24,17 @@ export default function Home() {
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">
-                        AI <a href="research.html">research</a> and <br />
+                        Pioneering in the field of AI <a href="research">research</a> and <br />
                       </span>
                     </div>
                     <div className="line-wrapper text-right">
                       <span className="line line-2">
-                        <a href="product.html">products</a> that put <br />
+                        <a href="product">products</a> we prioritize  <br />
                       </span>
                     </div>
                     <div className="line-wrapper ">
                       <span className="line line-3">
-                        safety at the frontier
+                       safety as the frontier of our products
                         <br />
                       </span>
                     </div>
@@ -75,13 +75,13 @@ export default function Home() {
                         <a
                           className="btn-primary"
                           href="product.html"
-                          aria-label="Meet Claude"
+                          aria-label="Meet SuisseGPT"
                         >
                           <span className="btn-label">
-                            Meet Claude
+                            Meet SuisseGPT
                             <span
                               className="btn-anim"
-                              title="Meet Claude"
+                              title="Meet SuisseGPT"
                               aria-hidden="true"
                             ></span>
                           </span>
