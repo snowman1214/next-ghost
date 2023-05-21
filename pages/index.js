@@ -24,7 +24,7 @@ export default function Home() {
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">
-                        Pioneering AI <a href="research">research</a> and <br />
+                        Pioneering AI <a href="research">research</a> & <br />
                       </span>
                     </div>
                     <div className="line-wrapper text-right">
