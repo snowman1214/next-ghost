@@ -67,8 +67,7 @@ export default function Home() {
                       </div>
                       <div className="description text-b1 s:col-start-1 s:col-span-4">
                         <p>
-                          A next-generation AI assistant for your tasks, no
-                          matter the scale
+                          An advanced AI assistant tailored to accommodate your tasks, irrespective of their magnitude.
                         </p>
                       </div>
                       <div className="s:col-start-1 s:col-span-5">
@@ -97,7 +96,7 @@ export default function Home() {
                       data-triggers="inViewOnce"
                       data-trigger-start="top 100%"
                     >
-                      <h3>Core Views on AI Safety: When, Why, What, and How</h3>
+                      <h3>Fundamental Perspectives on AI Safety: The Timing, Rationale, Objectives, and Implementation.</h3>
                       <a
                         className="btn-primary"
                         href="index/core-views-on-ai-safety.html"
