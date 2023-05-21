@@ -119,7 +119,7 @@ export default function Home() {
                       data-triggers="inViewOnce"
                       data-trigger-start="top 100%"
                     >
-                      <h3>Interested in building the future of safe AI?</h3>
+                      <h3>Are you keen on contributing to the development of a secure AI future?</h3>
                       <a
                         className="btn-primary"
                         href="careers"
