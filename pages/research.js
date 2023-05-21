@@ -27,21 +27,16 @@ export default function Research() {
                     data-triggers="splitWords"
                   >
                     <div className="line-wrapper ">
-                      <span className="line line-1">Make safe AI systems</span>
+                      <span className="line line-1">Constructing Secure AI Systems</span>
                     </div>
                     <div className="line-wrapper text-right">
-                      <span className="line line-2">Deploy them reliably</span>
+                      <span className="line line-2">Ensuring Their Private Deployment</span>
                     </div>
                   </h1>
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      We develop large-scale AI systems so that we can study
-                      their safety properties at the technological frontier,
-                      where new problems are most likely to arise. We use these
-                      insights to create safer, steerable, and more reliable
-                      models, and to generate systems that we deploy externally,
-                      like Claude.
+                      We devote our efforts to the development of large-scale AI systems to scrutinize their safety attributes at the leading edge of technology, where the emergence of new issues is most probable. These insights serve to produce safer, more controllable, and reliable models. Furthermore, they facilitate the creation of systems that we deploy externally, like SuisseGPT.
                     </p>
                   </div>
 
@@ -55,7 +50,7 @@ export default function Research() {
                         className="btn-label"
                         aria-label="See Research Principles"
                       >
-                        See Research Principles
+                        Refer to our Research Principles
                         <span
                           className="btn-anim"
                           title="See Research Principles"
@@ -206,8 +201,8 @@ export default function Research() {
                       </div>
 
                       <div className="heading h2 s:col-start-2 s:col-span-10 m:col-start-3 m:col-span-8">
-                        Training a Helpful and Harmless Assistant with
-                        Reinforcement Learning from Human Feedback
+                        Cultivating a Safe and Beneficial Assistant through Reinforcement Learning from Human
+
                       </div>
 
                       <p className="short-description text-b2 s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
