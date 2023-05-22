@@ -28,7 +28,7 @@ export default function Careers() {
                       <span className="line line-1">Join the team</span>
                     </div>
                     <div className="line-wrapper text-right">
-                      <span className="line line-2">making AI safe</span>
+                      <span className="line line-2">scaling AI for B2B</span>
                     </div>
                   </h1>
 
