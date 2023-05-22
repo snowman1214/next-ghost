@@ -125,18 +125,15 @@ export default function Product() {
                             </div>
                             <div>
                               <div className="text-caption">
-                                <strong>Richard Robinson</strong>
+                                <strong>Loredana Qvist</strong>
                               </div>
-                              <div className="text-caption">CEO, Robin AI</div>
+                              <div className="text-caption">CEO, Demand</div>
                             </div>
                           </div>
                         </div>
                         <div className="quote-wrapper stagger-item s:col-start-5 s:col-span-4">
                           <blockquote className="h4">
-                            Suisseblocks has already been a great partner, working
-                            closely with us to improve the quality of DuckAssist
-                            answers while also meeting our strict privacy
-                            requirements.
+                            Suisseblocks has already been a great partner, helped us scope real estate investment faster and find the right deals in the market in record time.
                           </blockquote>
                           <div className="attribution spacer-micro-mt">
                             <div className="hyphen">
@@ -144,19 +141,17 @@ export default function Product() {
                             </div>
                             <div>
                               <div className="text-caption">
-                                <strong>Steve Fischer</strong>
+                                <strong>Robert Shemin</strong>
                               </div>
                               <div className="text-caption">
-                                Chief Business Officer, DuckDuckGo
+                                Chief Investment Officer, Realprop
                               </div>
                             </div>
                           </div>
                         </div>
                         <div className="quote-wrapper stagger-item s:col-start-9 s:col-span-4">
                           <blockquote className="h4">
-                            Users describe SuisseGPT’s answers as detailed and
-                            easily understood, and they like that exchanges feel
-                            like natural conversation.
+                            SuisseGPT's ability to sort through complex deals in no time, sentiment analasis has increased productivity by 10X.
                           </blockquote>
                           <div className="attribution spacer-micro-mt">
                             <div className="hyphen">
@@ -164,10 +159,10 @@ export default function Product() {
                             </div>
                             <div>
                               <div className="text-caption">
-                                <strong>Autumn Besselman</strong>
+                                <strong>Kai Nowosel</strong>
                               </div>
                               <div className="text-caption">
-                                Head of People and Comms, Quora
+                                Chief Procurement Officer, Accenture
                               </div>
                             </div>
                           </div>
