@@ -60,6 +60,7 @@ export default function Home() {
                       />
                     </div>
                   </div>
+
                   <div className="cta s:col-start-7 s:col-span-6">
                     <div className="cta-wrapper s:grid s:grid-5">
                       <div className="heading s:col-start-1 s:col-span-5">
