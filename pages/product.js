@@ -221,10 +221,10 @@ export default function Product() {
                             </div>
                             <div className="list-content order-1">
                               <div className="h2">
-                                Reliable and Dependable
+                                Effortless Integration Through Standard APIs
                               </div>
                               <p className="text-b2 spacer-small-mt">
-                                Thanks to the implementation of Constitutional AI and harmlessness training, you can trust SuisseGPT to accurately represent your company and its needs. SuisseGPT has been programmed to gracefully handle even potentially disagreeable or harmful conversational scenarios.
+                                With minimal effort, SuisseGPT can be integrated into any product or toolchain you are developing.
                               </p>
                             </div>
                           </div>
@@ -243,10 +243,10 @@ export default function Product() {
                               </div>
                             </div>
                             <div className="list-content order-2">
-                              <div className="h2">Availability Round the Clock</div>
+                              <div className="h2">Reliable and dependable</div>
                               <p className="text-b2 spacer-small-mt">
-                                SuisseGPT is perpetually available to you or your customers as required, supported by servers designed to scale and meet demanding workloads.
-                                Utilize the Power of SuisseGPT
+                                Thanks to the implementation of Constitutional AI and harmlessness training, you can trust SuisseGPT to accurately represent your company and its needs. SuisseGPT has been programmed to gracefully handle even potentially disagreeable or harmful conversational scenarios.
+
 
                               </p>
                             </div>
