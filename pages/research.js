@@ -2,13 +2,11 @@ import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
 import { Animation } from "./_document";
 import { useEffect } from "react";
-import { Plugin } from "./_document";
 import { Script } from "./_document";
 
 export default function Research() {
   useEffect(() => {
     Animation();
-    Plugin();
     setTimeout(() => {
       Script();
     }, 200);
@@ -16,7 +14,7 @@ export default function Research() {
   return (
     <>
       <Header />
-      <div className="page-dom-content" style={{ pointerEvents: "auto" }}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="research">
             <div className="page-container">
@@ -24,7 +22,7 @@ export default function Research() {
                 <div className="b-hero-cta s:grid s:grid-12">
                   <h1
                     className="heading s:col-start-3 s:col-span-8 "
-                    data-triggers="splitWords"
+                    data-triggers=""
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">Make safe AI systems</span>

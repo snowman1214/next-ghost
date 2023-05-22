@@ -6,13 +6,12 @@ import { useEffect } from "react";
 
 export default function Product() {
   useEffect(() => {
-    Animation();
     Script();
   }, []);
   return (
     <>
       <Header />
-      <div className="page-dom-content" style={{ pointerEvents: "auto" }}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="product">
             <div className="page-container">
@@ -22,7 +21,7 @@ export default function Product() {
                     <div className="s:grid s:grid-12">
                       <div className="s:col-start-4 s:col-span-6">
                         <div
-                          data-triggers="splitWords"
+                          data-triggers=""
                           data-trigger-stagger="0.2"
                           data-trigger-stagger-from="start"
                         >

@@ -22,7 +22,7 @@ export default function Careers() {
                 <div className="b-hero-cta s:grid s:grid-12">
                   <h1
                     className="heading s:col-start-3 s:col-span-8 "
-                    data-triggers="splitWords"
+                    data-triggers=""
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">Join the team</span>

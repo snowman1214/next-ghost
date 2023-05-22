@@ -6,15 +6,15 @@ import { Script } from "./_document";
 
 export default function Company() {
   useEffect(() => {
-    Animation();
-    setTimeout(() => {
-      Script();
-    }, 200);
+    // Animation();
+    // setTimeout(() => {
+    Script();
+    // }, 200);
   }, []);
   return (
     <>
       <Header />
-      <div className="page-dom-content" style={{ pointerEvents: "auto" }}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="company">
             <div className="page-container">
@@ -22,9 +22,9 @@ export default function Company() {
                 <div className="b-hero-cta s:grid s:grid-12">
                   <h1
                     className="heading s:col-start-3 s:col-span-8 "
-                    data-triggers="splitWords"
+                    data-triggers=""
                   >
-                    <div className="line-wrapper ">
+                    <div className="line-wrapper">
                       <span className="line line-1">Making AI systems</span>
                     </div>
                     <div className="line-wrapper text-right">

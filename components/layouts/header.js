@@ -1,13 +1,23 @@
 import Link from "next/link";
+import { useEffect, useState } from "react";
 
 const Header = () => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  const ChangeState = () => {
+    setIsMobile(!isMobile);
+  };
   return (
-    <header className="core-header" style={{ pointerEvents: "auto" }}>
+    <header className="core-header">
       <div className="wrapper">
-        <Link href="">
+        <Link href="/">
           <div className="logo-lottie"></div>
         </Link>
-        <button className="btn-core-mobile" aria-label="Navigation menu">
+        <button
+          className="btn-core-mobile"
+          onClick={() => ChangeState()}
+          aria-label="Navigation menu"
+        >
           <svg
             width="40"
             height="40"
@@ -43,7 +53,10 @@ const Header = () => {
             </button>
           </div>
         </nav>
-        <div className="core-mobile-nav wrapper xs:grid xs:grid-2">
+        <div
+          className="core-mobile-nav wrapper xs:grid xs:grid-2"
+          style={isMobile ? { display: "block" } : { display: "none" }}
+        >
           <div className="controls xs:grid xs:grid-2 xs:col-start-1 xs:col-span-2">
             <div className="logo-mark xs:col-start-1 xs:col-span-1">
               <a href="index.html">
@@ -61,7 +74,10 @@ const Header = () => {
                 </svg>
               </a>
             </div>
-            <button className="btn-close-mobile-nav xs:col-start-2 xs:col-span-1">
+            <button
+              className="btn-close-mobile-nav xs:col-start-2 xs:col-span-1"
+              onClick={() => ChangeState()}
+            >
               <svg
                 width="40"
                 height="40"
