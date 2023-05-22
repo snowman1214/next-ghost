@@ -8694,7 +8694,7 @@ export const Script = () => {
               scrolled: !1,
               coreHeader: document.querySelector(".core-header"),
               coreNav: null,
-              logoLottie: document.querySelector(".logo-lottie"),
+              // logoLottie: document.querySelector(".logo-lottie"),
               coreFooter: document.querySelector(".core-footer"),
               coreFooterWrapper: document.querySelector(
                 ".core-footer .wrapper"
@@ -15787,17 +15787,17 @@ export const Script = () => {
                         ? (this.announcement.style.display = "flex")
                         : (this.announcement.style.display = "none");
                     }
-                    Aa.logoLottie.lottieAnimation &&
-                      Aa.width > 870 &&
-                      Aa.logoLottie.lottieAnimation.currentRawFrame > 0 &&
-                      (Aa.logoLottie.lottieAnimation.setDirection(-1),
-                      Aa.logoLottie.lottieAnimation.play()),
+                    // Aa.logoLottie.lottieAnimation &&
+                    Aa.width > 870 &&
+                      // Aa.logoLottie.lottieAnimation.currentRawFrame > 0 &&
+                      // (Aa.logoLottie.lottieAnimation.setDirection(-1),
+                      // Aa.logoLottie.lottieAnimation.play()),
                       window.firstLoad &&
-                        Si.to(Aa.cover, {
-                          yPercent: -100,
-                          duration: 0.6,
-                          ease: "expo.inOut",
-                        });
+                      Si.to(Aa.cover, {
+                        yPercent: -100,
+                        duration: 0.6,
+                        ease: "expo.inOut",
+                      });
                   },
                 },
                 {
@@ -15864,23 +15864,23 @@ export const Script = () => {
                 {
                   key: "updateHeader",
                   value: function () {
-                    Aa.width > 870
-                      ? Aa.currentScroll >= 1 && !Aa.scrolled
-                        ? ((Aa.scrolled = !0),
-                          Aa.logoLottie.lottieAnimation &&
-                            (Aa.logoLottie.lottieAnimation.setDirection(1),
-                            Aa.logoLottie.lottieAnimation.play()))
-                        : Aa.currentScroll < 1 &&
-                          Aa.scrolled &&
-                          ((Aa.scrolled = !1),
-                          Aa.logoLottie.lottieAnimation &&
-                            (Aa.logoLottie.lottieAnimation.setDirection(-1),
-                            Aa.logoLottie.lottieAnimation.play()))
-                      : Aa.logoLottie.lottieAnimation.currentRawFrame < 18 &&
-                        (Aa.logoLottie.lottieAnimation.setDirection(1),
-                        setTimeout(function () {
-                          Aa.logoLottie.lottieAnimation.play();
-                        }, 400));
+                    // Aa.width > 870
+                    // ? Aa.currentScroll >= 1 && !Aa.scrolled
+                    // ? ((Aa.scrolled = !0),
+                    // Aa.logoLottie.lottieAnimation &&
+                    // (Aa.logoLottie.lottieAnimation.setDirection(1),
+                    // Aa.logoLottie.lottieAnimation.play()))
+                    // : Aa.currentScroll < 1 &&
+                    // Aa.scrolled &&
+                    // ((Aa.scrolled = !1),
+                    // Aa.logoLottie.lottieAnimation &&
+                    // (Aa.logoLottie.lottieAnimation.setDirection(-1),
+                    // Aa.logoLottie.lottieAnimation.play()))
+                    // : Aa.logoLottie.lottieAnimation.currentRawFrame < 18 &&
+                    // (Aa.logoLottie.lottieAnimation.setDirection(1),
+                    // setTimeout(function () {
+                    // Aa.logoLottie.lottieAnimation.play();
+                    // }, 400));
                   },
                 },
                 {
@@ -16297,15 +16297,15 @@ export const Script = () => {
                   key: "init",
                   value: function () {
                     var t = this;
-                    Aa.logoLottie &&
-                      (Aa.logoLottie.lottieAnimation = ka().loadAnimation({
-                        container: Aa.logoLottie,
-                        renderer: "svg",
-                        loop: !1,
-                        autoplay: !1,
-                        path: "./lottie/logo.min.json",
-                      })),
-                      (Aa.coreNav = new Ka()),
+                    // Aa.logoLottie &&
+                    // (Aa.logoLottie.lottieAnimation = ka().loadAnimation({
+                    // container: Aa.logoLottie,
+                    // renderer: "svg",
+                    // loop: !1,
+                    // autoplay: !1,
+                    // path: "./lottie/logo.min.json",
+                    // })),
+                    (Aa.coreNav = new Ka()),
                       this.initTaxi(),
                       "complete" === document.readyState
                         ? this.siteLoaded()

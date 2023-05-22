@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Header from "@/components/layouts/header";
 import Footer from "@/components/layouts/footer";
 import { useEffect, useState } from "react";
@@ -8,7 +9,6 @@ export default function News() {
   const [isListView, setIsListView] = useState(true);
 
   useEffect(() => {
-    Animation();
     Script();
   }, []);
 
@@ -316,9 +316,9 @@ export default function News() {
                       data-triggers="inViewOnce"
                     >
                       <div className="post-col post-col-1 s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4">
-                        <a
+                        <Link
                           className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="https://www.anthropic.com/index/zoom-partnership-and-investment"
+                          href="/zoom"
                           data-id="144538"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -355,7 +355,7 @@ export default function News() {
                               56 sec read
                             </div>
                           </div>
-                        </a>
+                        </Link>
                         <a
                           className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
                           href="https://www.anthropic.com/index/partnering-with-scale"
@@ -521,9 +521,9 @@ export default function News() {
                             </div>
                           </div>
                         </a>
-                        <a
+                        <Link
                           className="post post-22  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="https://www.anthropic.com/index/anthropic-raises-series-b-to-build-safe-reliable-ai"
+                          href="/anthropic"
                           data-id="1117"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -543,7 +543,7 @@ export default function News() {
                               <span className="is-bullet">●</span>2 min read
                             </div>
                           </div>
-                        </a>
+                        </Link>
                         <a
                           className="post post-25  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                           href="https://www.anthropic.com/index/predictability-and-surprise-in-large-generative-models"
@@ -591,9 +591,9 @@ export default function News() {
                         </a>
                       </div>
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
-                        <a
+                        <Link
                           className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                          href="https://www.anthropic.com/index/100k-context-windows"
+                          href="/context"
                           data-id="144353"
                           data-categories="product, announcements"
                           style={{ display: "block" }}
@@ -629,7 +629,7 @@ export default function News() {
                               <span className="is-bullet">●</span>1 min read
                             </div>
                           </div>
-                        </a>
+                        </Link>
                         <a
                           className="post post-6  s:col-start-7 s:col-span-6 m:col-start-9 m:col-span-4"
                           href="https://www.anthropic.com/index/an-ai-policy-tool-for-today-ambitiously-invest-in-nist"
@@ -1099,9 +1099,9 @@ export default function News() {
                       className="block-content post-content is-masonry s:grid s:grid-12 spacer-medium-mt contentFadeUp is-inview"
                       data-triggers="inViewOnce"
                     >
-                      <a
+                      <Link
                         className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                        href="https://www.anthropic.com/index/zoom-partnership-and-investment"
+                        href="/zoom"
                         data-id="144538"
                         data-categories="company, announcements"
                         style={{ display: "block" }}
@@ -1138,7 +1138,7 @@ export default function News() {
                             56 sec read
                           </div>
                         </div>
-                      </a>
+                      </Link>
                       <a
                         className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
                         href="https://www.anthropic.com/index/partnering-with-scale"
@@ -1304,9 +1304,9 @@ export default function News() {
                           </div>
                         </div>
                       </a>
-                      <a
+                      <Link
                         className="post post-22  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                        href="https://www.anthropic.com/index/anthropic-raises-series-b-to-build-safe-reliable-ai"
+                        href="/anthropic"
                         data-id="1117"
                         data-categories="company, announcements"
                         style={{ display: "block" }}
@@ -1326,7 +1326,7 @@ export default function News() {
                             <span className="is-bullet">●</span>2 min read
                           </div>
                         </div>
-                      </a>
+                      </Link>
                       <a
                         className="post post-25  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                         href="https://www.anthropic.com/index/predictability-and-surprise-in-large-generative-models"
@@ -1373,9 +1373,9 @@ export default function News() {
                         </div>
                       </a>
 
-                      <a
+                      <Link
                         className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                        href="https://www.anthropic.com/index/100k-context-windows"
+                        href="/context"
                         data-id="144353"
                         data-categories="product, announcements"
                         style={{ display: "block" }}
@@ -1411,7 +1411,7 @@ export default function News() {
                             <span className="is-bullet">●</span>1 min read
                           </div>
                         </div>
-                      </a>
+                      </Link>
                       <a
                         className="post post-6  s:col-start-7 s:col-span-6 m:col-start-9 m:col-span-4"
                         href="https://www.anthropic.com/index/an-ai-policy-tool-for-today-ambitiously-invest-in-nist"

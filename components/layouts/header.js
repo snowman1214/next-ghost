@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import logo from "./logo.svg";
+import Image from "next/image";
 
 const Header = () => {
   const [isMobile, setIsMobile] = useState(false);
@@ -11,7 +13,9 @@ const Header = () => {
     <header className="core-header">
       <div className="wrapper">
         <Link href="/">
-          <div className="logo-lottie"></div>
+          <div className="logo">
+            <Image src={logo} alt="dd"></Image>
+          </div>
         </Link>
         <button
           className="btn-core-mobile"
