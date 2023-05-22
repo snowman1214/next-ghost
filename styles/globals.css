@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 @charset "UTF-8";button[type=submit].ff-loading {
   align-items: center;
   display: inline-flex;
@@ -7846,4 +7845,3 @@ html.is-modal-open .modal-content {
       max-height: calc(var(--vh) - 108px)
   }
 }
->>>>>>> e3d7bcc1aa23ec6665cf56831c0153761be140fe
