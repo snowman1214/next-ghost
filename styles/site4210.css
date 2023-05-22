@@ -2017,7 +2017,7 @@ h6 a:hover {
 
 .h1,
 h1 {
-    font-size: clamp(2.5rem, 5vw, 5.5rem);
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
     letter-spacing: -.03em;
     line-height: 95%
 }
@@ -7103,6 +7103,3 @@ html.is-modal-open .modal-content {
     }
 }
 
-.logo-lottie svg:first-child g:first-child {
-    /* display: none; */
-}
