@@ -1,11 +1,16 @@
 import Link from "next/link";
+import logo from "./logo.svg";
+import Image from "next/image";
 
 const Footer = () => {
   return (
     <footer className="core-footer">
       <div className="wrapper xs:grid xs:grid-2 s:grid-12">
         <div className="logo-mark xs:col-start-1 xs:col-span-1">
-          <a href="index.html" aria-label="AI logo mark">
+          <a href="index" aria-label="AI logo mark">
+            <div className="logo">
+              <Image src={logo} alt="dd"></Image>
+            </div>
             <svg
               width="46"
               height="32"
@@ -27,9 +32,6 @@ const Footer = () => {
             </li>
             <li>
               <Link href="/research">Research</Link>
-            </li>
-            <li>
-              <Link href="/">Index</Link>
             </li>
             <li>
               <Link href="/company">Company</Link>
