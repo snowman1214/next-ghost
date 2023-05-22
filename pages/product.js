@@ -36,8 +36,9 @@ export default function Product() {
                       <div className="s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
                         <div className="contentFade" data-triggers="inViewOnce">
                           <p className="description text-b1">
-                            A next-generation AI assistant for your tasks, no
-                            matter the scale
+                            A State-of-the-art AI Assistant Tailored to Your Tasks, Regardless of Their Magnitude
+                            Versatile, Adaptable, and Personalizable
+
                           </p>
                         </div>
                       </div>
@@ -61,7 +62,7 @@ export default function Product() {
                           </span>
                         </button>
                         <a
-                          href="https://slackbot.anthropic.com/slack/install"
+                          href="https://usedemand.com/pricing"
                           className="cta-2 btn-secondary btn-light contentFadeUp"
                           data-triggers="inViewOnce"
                           target="_blank"
@@ -196,14 +197,11 @@ export default function Product() {
                             </div>
                             <div className="list-content order-2">
                               <div className="h2">
-                                Skilled, flexible, customizable
+                                Proficient, adaptable, personalized
                               </div>
                               <p className="text-b2 spacer-small-mt">
-                                SuisseGPT can be a delightful company
-                                representative, a research assistant, a creative
-                                partner, a task automator, and more.
-                                Personality, tone, and behavior can all be
-                                customized to your needs.
+
+                                SuisseGPT excels as a delightful corporate representative, a diligent research assistant, an innovative creative collaborator, a proficient task automator, and beyond. Its personality, tone, and behavior can be seamlessly tailored to meet your specific requirements and preferences.
                               </p>
                             </div>
                           </div>
@@ -223,11 +221,10 @@ export default function Product() {
                             </div>
                             <div className="list-content order-1">
                               <div className="h2">
-                                Easy integration via standard APIs
+                                Reliable and Dependable
                               </div>
                               <p className="text-b2 spacer-small-mt">
-                                SuisseGPT can be incorporated into any product or
-                                toolchain you’re building with minimal effort.
+                                Thanks to the implementation of Constitutional AI and harmlessness training, you can trust SuisseGPT to accurately represent your company and its needs. SuisseGPT has been programmed to gracefully handle even potentially disagreeable or harmful conversational scenarios.
                               </p>
                             </div>
                           </div>
@@ -246,13 +243,11 @@ export default function Product() {
                               </div>
                             </div>
                             <div className="list-content order-2">
-                              <div className="h2">Helpful and trustworthy</div>
+                              <div className="h2">Availability Round the Clock</div>
                               <p className="text-b2 spacer-small-mt">
-                                Thanks to Constitutional AI and harmlessness
-                                training, you can trust SuisseGPT to represent your
-                                company and its needs. SuisseGPT has been trained
-                                to handle even unpleasant or malicious
-                                conversational partners with grace.
+                                SuisseGPT is perpetually available to you or your customers as required, supported by servers designed to scale and meet demanding workloads.
+                                Utilize the Power of SuisseGPT
+
                               </p>
                             </div>
                           </div>
@@ -271,11 +266,10 @@ export default function Product() {
                               </div>
                             </div>
                             <div className="list-content order-1">
-                              <div className="h2">Available 24/7</div>
+                              <div className="h2">Availability Round the Clock</div>
                               <p className="text-b2 spacer-small-mt">
-                                SuisseGPT is always available, whenever you or your
-                                customers need, with servers that are designed
-                                to scale and meet demanding workloads.
+                                SuisseGPT is perpetually available to you or your customers as required, supported by servers designed to scale and meet demanding workloads.
+                                Utilize the Power of SuisseGPT
                               </p>
                             </div>
                           </div>
@@ -335,13 +329,7 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT ensures speedy and
-                                      friendly resolution to customer service
-                                      requests, saving costs and increasing
-                                      customer satisfaction.  SuisseGPT can also be
-                                      taught when to hand off tasks to a human
-                                      CSR, enabling your team to focus on the
-                                      most complex challenges.
+                                      SuisseGPT assures quick and cordial responses to customer service requests, thereby reducing costs and enhancing customer satisfaction. SuisseGPT is capable of learning when to escalate tasks to a human CSR, allowing your team to concentrate on the more intricate challenges.
                                     </p>
                                   </div>
                                 </div>

@@ -206,13 +206,12 @@ export default function Research() {
                       </div>
 
                       <p className="short-description text-b2 s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
-                        Our second AI alignment paper, exploring how to train a
-                        general language assistant to be helpful, but without
-                        providing harmful advice or exhibiting bad behaviors.
+                        This represents our second paper on AI alignment, delving into the methods of training a general language assistant to be useful, while ensuring it refrains from giving potentially harmful advice or demonstrating detrimental behaviors.
+
                       </p>
 
                       <div className="post-timestamp text-label s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
-                        Apr 12, 2022
+                        May 22, 2023
                       </div>
                     </div>
                   </a>
