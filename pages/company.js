@@ -42,7 +42,7 @@ export default function Company() {
                   <div className="cta-wrapper s:col-start-1 s:col-span-12 spacer-medium-mt">
                     <a
                       className="btn-primary"
-                      href="careers.html"
+                      href="careers"
                       aria-label="Join Us"
                     >
                       <span className="btn-label">
@@ -374,7 +374,7 @@ export default function Company() {
 
                     <div className="s:col-start-1 s:col-span-12">
                       <a
-                        href="careers.html"
+                        href="careers"
                         className="cta-1 btn-primary btn-light contentFadeUp"
                         data-triggers="inViewOnce"
                         aria-label="Join Us"
