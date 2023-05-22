@@ -597,7 +597,7 @@ export default function Careers() {
                           <div className="h4">Remote work</div>
                           <p className="text-b2 spacer-micro-mt">
                             SuisseGPT staff all come to the office regularly.
-                            Most staff live in the Bay Area, though a few live
+                            Most staff live in the Zug Area, though a few live
                             further away and come in for one week a month. We
                             also understand that moving can take time, so as a
                             transitional phase some folks start while fully
