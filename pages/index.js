@@ -53,8 +53,8 @@ export default function Home() {
                       <img
                         className=""
                         sizes="(max-width: 699px) 100vw, 50vw"
-                        src="../asserts/images/Claude_CARD_2023-03-105755.png?w=1312&amp;h=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678490184&amp;s=ffaae3d3ba0ead9f397cfd3752386425"
-                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_CARD_2023-03-10.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678490184&amp;s=deaa00588011529f176b7310201f8b2b 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_CARD_2023-03-10.png?w=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678490184&amp;s=4c432669772c23886a880a435bd7b942 1312w"
+                        src="swiss.png"
+                        srcSet="swiss.png"
                         alt="SuisseGPT CARD 2023 10"
                         style={{ objectPosition: "50% 50%" }}
                       />
