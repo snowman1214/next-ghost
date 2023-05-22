@@ -354,10 +354,7 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT is able to parse legal documents
-                                      and answer questions about them. Lawyers
-                                      can reduce costs and focus on higher level
-                                      work.
+                                      SuisseGPT is equipped to analyze legal documents and answer questions about them, enabling lawyers to minimize costs and concentrate on more strategic tasks.
                                     </p>
                                   </div>
                                 </div>
@@ -382,10 +379,8 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT can be an always-available active
-                                      listening companion for personal growth as
-                                      well as career development, providing a
-                                      space to listen or give advice.
+                                      As an ever-ready active listening companion, SuisseGPT can aid personal growth as well as career development, providing a platform to either listen or offer advice.
+
                                     </p>
                                   </div>
                                 </div>
@@ -410,11 +405,7 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT is able to integrate seamlessly
-                                      into web search as well as private search
-                                      over knowledge bases, synthesizing search
-                                      results triggered by user questions into
-                                      natural language answers.
+                                      SuisseGPT can seamlessly integrate with web search and private search across knowledge bases, transforming search results triggered by user queries into natural language answers.
                                     </p>
                                   </div>
                                 </div>
@@ -439,12 +430,7 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT is able to handle a wide range of
-                                      rote office work. It can extract relevant
-                                      information from emails and documents,
-                                      categorize and summarize survey responses,
-                                      and generally wrangle reams of text with
-                                      high speed and accuracy.
+                                      SuisseGPT can handle an array of routine office tasks. It can extract pertinent information from emails and documents, categorize and summarize survey responses, and generally manage large volumes of text swiftly and accurately.
                                     </p>
                                   </div>
                                 </div>
@@ -469,12 +455,8 @@ export default function Product() {
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT can act as an always-on and
-                                      enthusiastic virtual sales representative,
-                                      answering customer questions and guiding
-                                      them towards products that meet their
-                                      needs. Customize SuisseGPT with your brand's
-                                      personality and tone.
+                                      As an always-on virtual sales representative, SuisseGPT can answer customer queries and guide them towards products that cater to their needs. SuisseGPT can be customized to reflect your brand's unique personality and tone.
+
                                     </p>
                                   </div>
                                 </div>
@@ -492,11 +474,10 @@ export default function Product() {
                       <div className="block-content">
                         <div className="top-content">
                           <h2 className="heading">
-                            Build with SuisseGPT&#039;s skills
+                            Build With the Skills of SuisseGPT
                           </h2>
                           <div className="description text-b1">
-                            SuisseGPT’s skills can be combined to simplify even the
-                            most complex tasks
+                            SuisseGPT’s abilities can be amalgamated to simplify even the most intricate tasks.
                           </div>
                         </div>
                         <div className="list-wrapper">
@@ -519,16 +500,10 @@ export default function Product() {
                             </div>
 
                             <div className="heading h4">
-                              Process mountains of text
+                              Manage Volumes of Text
                             </div>
 
-                            <div className="description text-b2">
-                              Whether you&#039;re dealing with documents,
-                              emails, FAQs, chat transcripts, records, or
-                              something else, SuisseGPT is here to help. SuisseGPT can
-                              edit, rewrite, summarize, classNameify, extract
-                              structured data, do Q&amp;A based on the content,
-                              and more.
+                            <div className="description text-b2">SuisseGPT is your solution for managing documents, emails, FAQs, chat transcripts, records, or any other text. SuisseGPT can edit, rewrite, summarize, classify, extract structured data, and conduct Q&A based on the content.
                             </div>
                           </div>
                           <div className="list list-2">
@@ -550,15 +525,11 @@ export default function Product() {
                             </div>
 
                             <div className="heading h4">
-                              Have natural conversations
+                              Engage in Natural Conversations
                             </div>
 
                             <div className="description text-b2">
-                              SuisseGPT can take on a variety of roles in a
-                              dialogue. Provide details on the role and an FAQ
-                              for common questions, and SuisseGPT will engage in
-                              relevant, naturalistic back-and-forth
-                              conversation.
+                              SuisseGPT can play various roles in a dialogue. Provide details about the role and FAQs for common queries, and SuisseGPT will participate in meaningful and natural conversations.
                             </div>
                           </div>
 
@@ -580,14 +551,10 @@ export default function Product() {
                               </div>
                             </div>
 
-                            <div className="heading h4">Get answers</div>
+                            <div className="heading h4">Procure Answers</div>
 
                             <div className="description text-b2">
-                              SuisseGPT has extensive general knowledge honed from
-                              its vast training corpus, with detailed background
-                              on technical, scientific, and cultural knowledge.
-                              SuisseGPT can speak a variety of common languages, as
-                              well as programming languages.
+                              SuisseGPT boasts a wide range of general knowledge derived from its extensive training corpus, encompassing technical, scientific, and cultural knowledge. SuisseGPT is proficient in numerous common languages as well as programming languages.
                             </div>
                           </div>
 
@@ -612,11 +579,7 @@ export default function Product() {
                             <div className="heading h4">Automate workflows</div>
 
                             <div className="description text-b2">
-                              SuisseGPT can handle a variety of basic instructions
-                              and logical scenarios, including formatting
-                              outputs as desired, following if-then statements,
-                              and making a series of logical evaluations in a
-                              single prompt.
+                              SuisseGPT is adept at handling basic instructions and logical scenarios, which include formatting outputs as needed, following if-then statements, and conducting a series of logical evaluations in a single prompt.
                             </div>
                           </div>
                         </div>

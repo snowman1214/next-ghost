@@ -28,14 +28,14 @@ export default function Company() {
                       <span className="line line-1">Making AI systems</span>
                     </div>
                     <div className="line-wrapper text-right">
-                      <span className="line line-2">you can rely on</span>
+                      <span className="line line-2">to 10x your company</span>
                     </div>
                   </h1>
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      Anthropic is an AI safety and research company. We build
-                      reliable, interpretable, and steerable AI systems.
+                      SuisseGPT is a pioneering company in AI safety and research. Our expertise lies in building AI systems that are dependable, understandable, and easily directed.
+
                     </p>
                   </div>
 
@@ -65,60 +65,42 @@ export default function Company() {
                     data-trigger-start="top 100%"
                   >
                     <div className="block-label h3 s:col-start-1 s:col-span-4">
-                      Our Purpose
+                      Our Mission
                     </div>
 
                     <div className="block-content s:col-start-5 s:col-span-8">
                       <h2>
-                        We believe AI will have a vast impact on the world.
-                        Anthropic is dedicated to building systems that people
-                        can rely on and generating research about the
-                        opportunities and risks of AI.
+                        We are confident that AI will immensely transform our world. SuisseGPT is devoted to creating systems that individuals can rely on, while conducting research on the opportunities and risks that AI presents.
                       </h2>
 
                       <div className="block-lists s:grid s:grid-8">
                         <div className="post s:col-start-1 s:col-span-4">
-                          <div className="h4">We Build Safer Systems</div>
+                          <div className="h4">Constructing Safer Systems</div>
                           <p className="text-b2 spacer-micro-mt">
-                            We aim to build frontier AI systems that are
-                            reliable, interpretable, and steerable. We conduct
-                            frontier research, develop and apply a variety of
-                            safety techniques, and deploy the resulting systems
-                            via a set of partnerships and products.
+                            Our goal is to construct cutting-edge AI systems that are reliable, comprehensible, and easily steered. We conduct advanced research, develop and apply a host of safety techniques, and deploy the resultant systems via a network of partnerships and products.
                           </p>
                         </div>
 
                         <div className="post s:col-start-5 s:col-span-4">
-                          <div className="h4">Safety Is a Science</div>
+                          <div className="h4">Safety as a Science</div>
                           <p className="text-b2 spacer-micro-mt">
-                            We treat AI safety as a systematic science,
-                            conducting research, applying it to our products,
-                            feeding those insights back into our research, and
-                            regularly sharing what we learn with the world along
-                            the way.
+                            We regard AI safety as a rigorous scientific discipline. We conduct research, incorporate our findings into our products, relay these insights back into our research, and regularly share our acquired knowledge with the world.
                           </p>
                         </div>
 
                         <div className="post s:col-start-1 s:col-span-4">
-                          <div className="h4">Interdisciplinary</div>
+                          <div className="h4">Interdisciplinary Approach</div>
                           <p className="text-b2 spacer-micro-mt">
-                            Anthropic is a collaborative team of researchers,
-                            engineers, policy experts, business leaders and
-                            operators, who bring our experience from many
-                            different domains to our work.
+                            SuisseGPT brings together a cooperative team of researchers, engineers, policy experts, business leaders, and operators, each contributing their unique experience from various domains to our work.
                           </p>
                         </div>
 
                         <div className="post s:col-start-5 s:col-span-4">
                           <div className="h4">
-                            AI Companies are One Piece of a Big Puzzle
+                            A Single Piece in the Larger AI Puzzle
                           </div>
                           <p className="text-b2 spacer-micro-mt">
-                            AI has the potential to fundamentally change how the
-                            world works. We view ourselves as just one piece of
-                            this evolving puzzle. We collaborate with civil
-                            society, government, academia, nonprofits and
-                            industry to promote safety industry-wide.
+                            We recognize that AI has the potential to drastically reshape the world. We perceive ourselves as one piece of this evolving puzzle, collaborating with civil society, government, academia, nonprofits, and industry to encourage safety in AI across the board.
                           </p>
                         </div>
                       </div>
@@ -131,15 +113,12 @@ export default function Company() {
                     data-triggers="inViewOnce"
                   >
                     <div className="block-label h3 s:col-start-1 s:col-span-4">
-                      The Team
+                      Our Team
                     </div>
 
                     <div className="block-content s:col-start-1 s:col-span-12 m:col-start-5 m:col-span-8">
                       <p className="text-b1">
-                        We’re a team of researchers, engineers, policy experts
-                        and operational leaders, with experience spanning a
-                        variety of disciplines, all working together to build
-                        reliable and understandable AI systems.
+                        Comprised of researchers, engineers, policy experts, and operational leaders, our team boasts experience from a wide range of disciplines. Together, we work towards building reliable and comprehensible AI systems.
                       </p>
 
                       <div className="block-lists s:grid s:grid-12 m:grid-8">
@@ -166,11 +145,7 @@ export default function Company() {
                               Research
                             </div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              We conduct frontier AI research across a variety
-                              of modalities, and explore novel and emerging
-                              safety research areas from interpretability to RL
-                              from human feedback to policy and societal impacts
-                              analysis.
+                              We conduct groundbreaking AI research across diverse modalities and delve into innovative and emerging safety research areas, including interpretability, RL from human feedback, policy, and societal impacts analysis.
                             </p>
                           </div>
                         </div>
@@ -196,10 +171,8 @@ export default function Company() {
                           <div className="block-list-info">
                             <div className="block-list-heading h3">Policy</div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              We think about the impacts of our work and strive
-                              to communicate what we’re seeing at the frontier
-                              to policymakers and civil society in the US and
-                              abroad to help promote safe and reliable AI.
+                              We contemplate the effects of our work and aim to convey our findings from the frontlines to policymakers and civil society both domestically and internationally, to foster the development of safe and reliable AI.
+
                             </p>
                           </div>
                         </div>
@@ -225,10 +198,7 @@ export default function Company() {
                           <div className="block-list-info">
                             <div className="block-list-heading h3">Product</div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              We translate our research into tangible, practical
-                              tools like Claude that benefit businesses,
-                              nonprofits and civil society groups and their
-                              clients and people around the globe.
+                              We convert our research into practical, beneficial tools, such as SuisseGPT, which assist businesses, nonprofits, civil society groups, and their clients, impacting people worldwide.
                             </p>
                           </div>
                         </div>
@@ -256,12 +226,7 @@ export default function Company() {
                               Operations
                             </div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              Our people, finance, legal, and recruiting teams
-                              are the human engines that make Anthropic go.
-                              We’ve had previous careers at NASA, startups, and
-                              the armed forces and our diverse experiences help
-                              make Anthropic a great place to work (and we love
-                              plants!).
+                              Our people, finance, legal, and recruiting teams serve as the human powerhouses driving SuisseGPT. With past experiences from institutions like Demand, startups, and the armed forces, our diverse backgrounds contribute to making SuisseGPT a fantastic place to work (and we are plant enthusiasts!).
                             </p>
                           </div>
                         </div>
@@ -284,60 +249,33 @@ export default function Company() {
 
                       <div className="post">
                         <div className="h4">01</div>
-                        <div className="h3">Here for the mission</div>
+                        <div className="h3">Mission Driven</div>
                         <p className="text-b2 spacer-micro-mt">
-                          Anthropic exists for our mission: to ensure
-                          transformative AI helps people and society flourish.
-                          Progress this decade may be rapid, and we expect
-                          increasingly capable systems to pose novel challenges.
-                          We pursue our mission by building frontier systems,
-                          studying their behaviors, working to responsibly
-                          deploy them, and regularly sharing our safety
-                          insights. We collaborate with other projects and
-                          stakeholders seeking a similar outcome.
+                          SuisseGPT is committed to its mission: ensuring that transformative AI enriches the lives of people and society. We anticipate rapid progress in this decade, with increasingly competent systems presenting new challenges. We strive to fulfill our mission by constructing advanced systems, studying their behaviors, responsibly deploying them, and regularly sharing our safety insights. We also work in harmony with other projects and stakeholders with similar objectives.
                         </p>
                       </div>
 
                       <div className="post">
                         <div className="h4">02</div>
-                        <div className="h3">Unusually high trust</div>
+                        <div className="h3">Opt for Simple Solutions</div>
                         <p className="text-b2 spacer-micro-mt">
-                          Our company is an unusually high trust environment: we
-                          assume good faith, disagree kindly, and prioritize
-                          honesty. We expect emotional maturity and intellectual
-                          openness. At its best, our trust enables us to make
-                          better decisions as an organization than any one of us
-                          could as individuals.
+                          We advocate for trying the simplest solution before opting for clever, novel ones. We embrace practicality - realistic approaches that acknowledge trade-offs. We value empiricism - learning what genuinely works through trial - and apply this to our research, engineering, and collaboration. We strive to be transparent about our understanding and knowledge gaps.
                         </p>
                       </div>
 
                       <div className="post">
                         <div className="h4">03</div>
-                        <div className="h3">One big team</div>
+                        <div className="h3">Exceptionally High Trust</div>
                         <p className="text-b2 spacer-micro-mt">
-                          Collaboration is central to our work, culture, and
-                          value proposition. While we have many teams at
-                          Anthropic, we feel the broader sense in which we are
-                          all on the same team working together towards the
-                          mission. Leadership sets the strategy, with broad
-                          input from everyone, and trusts each piece of the
-                          organization to pursue these goals in their unique
-                          style. Individuals commonly contribute to work across
-                          many different areas.
+                          We foster a work environment characterized by exceptionally high trust: we assume goodwill, engage in respectful disagreements, and prioritize honesty. We expect emotional maturity and intellectual openness. At its best, this trust enables us to make superior organizational decisions than any one of us could individually.
                         </p>
                       </div>
 
                       <div className="post">
                         <div className="h4">04</div>
-                        <div className="h3">Do the simple thing that works</div>
+                        <div className="h3">One Cohesive Team</div>
                         <p className="text-b2 spacer-micro-mt">
-                          We celebrate trying the simple thing before the
-                          clever, novel thing. We embrace pragmatism - sensible,
-                          practical approaches that acknowledge tradeoffs. We
-                          love empiricism - finding out what actually works by
-                          trying it - and apply this to our research, our
-                          engineering and our collaboration. We aim to be open
-                          about what we understand and what we don’t.
+                          Collaboration forms the bedrock of our work, culture, and value proposition. Despite having various teams within SuisseGPT, we foster the broader sense of unity, working together towards our mission. Leadership establishes the strategy, with wide-ranging input from everyone, and trusts each part of the organization to pursue these goals in their unique style. It's commonplace for individuals to contribute across diverse areas, further promoting a holistic, team-based approach.
                         </p>
                       </div>
                     </div>
@@ -373,7 +311,7 @@ export default function Company() {
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Zoom Partnership and Investment in Anthropic
+                          Demand Partnership with SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -392,7 +330,7 @@ export default function Company() {
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Claude’s Constitution
+                          SuisseGPT’s Constitution
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -411,7 +349,7 @@ export default function Company() {
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Partnering with Scale to Bring Generative AI to
+                          Partnering with Suisseblovks to Bring Generative AI to
                           Enterprises
                         </div>
 
