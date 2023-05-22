@@ -25,21 +25,16 @@ export default function Research() {
                     data-triggers=""
                   >
                     <div className="line-wrapper ">
-                      <span className="line line-1">Make safe AI systems</span>
+                      <span className="line line-1">Secure AI Systems</span>
                     </div>
                     <div className="line-wrapper text-right">
-                      <span className="line line-2">Deploy them reliably</span>
+                      <span className="line line-2">Ensuring Their Privacy</span>
                     </div>
                   </h1>
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      We develop large-scale AI systems so that we can study
-                      their safety properties at the technological frontier,
-                      where new problems are most likely to arise. We use these
-                      insights to create safer, steerable, and more reliable
-                      models, and to generate systems that we deploy externally,
-                      like Claude.
+                      We devote our efforts to the development of large-scale AI systems to scrutinize their safety attributes at the leading edge of technology, where the emergence of new issues is most probable. These insights serve to produce safer, more controllable, and reliable models. Furthermore, they facilitate the creation of systems that we deploy externally, like SuisseGPT.
                     </p>
                   </div>
 
@@ -53,7 +48,7 @@ export default function Research() {
                         className="btn-label"
                         aria-label="See Research Principles"
                       >
-                        See Research Principles
+                        Refer to our Research Principles
                         <span
                           className="btn-anim"
                           title="See Research Principles"
@@ -85,10 +80,9 @@ export default function Research() {
                   <div className="panel" tabIndex="-1">
                     <div className="principle">
                       <h4>01</h4>
-                      <h3>AI as a Systematic Science</h3>
+                      <h3>AI as a Methodical Discipline</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        Inspired by the universality of scaling in statistical
-                        physics, we develop{" "}
+                        Drawing inspiration from the universal scaling phenomena observed in statistical physics, we undertake the development of.{" "}
                         <a
                           href="https://arxiv.org/abs/2001.08361"
                           target="_blank"
@@ -96,32 +90,15 @@ export default function Research() {
                         >
                           scaling laws
                         </a>{" "}
-                        to help us do systematic, empirically-driven research.
-                        We search for simple relations among data, compute,
-                        parameters, and performance of large-scale networks.
-                        Then we leverage these relations to train networks more
-                        efficiently and predictably, and to evaluate our own
-                        progress. We’re also investigating what scaling laws for
-                        the safety of AI systems might look like, and this will
-                        inform our future research.
+                        To facilitate systematic and empirically-driven research, our efforts are focused on identifying and establishing simple relationships among data, computations, parameters, and the performance of large-scale networks. By leveraging these relationships, we aim to enhance the efficiency and predictability of network training, as well as evaluate our advancements more effectively. Furthermore, we are actively exploring scaling laws pertaining to the safety of AI systems, as this exploration will significantly influence our future research endeavors.
                       </p>
                     </div>
 
                     <div className="principle">
                       <h4>02</h4>
-                      <h3>Safety and Scaling</h3>
+                      <h3>Resilience and Expansion</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        At Anthropic we believe safety research is most useful
-                        when performed on highly capable models. Every year, we
-                        see larger neural networks which perform better than
-                        those that came before. These larger networks also bring
-                        new safety challenges. We study and engage with the
-                        safety issues of large models so that we can find ways
-                        to make them more reliable, share what we learn, and
-                        improve safe deployment outcomes across the field. Our
-                        immediate focus is prototyping systems that pair these
-                        safety techniques with tools for analyzing text and
-                        code.
+                        At SuisseGPT, we prioritize safety research conducted on highly advanced models. With each passing year, we witness the emergence of larger neural networks that outperform their predecessors. However, these increased capabilities also introduce novel safety challenges. We diligently investigate and actively address the safety concerns associated with large models, aiming to enhance their reliability. Furthermore, we share our findings with the wider community and strive to improve the outcomes of safe deployment practices across the field. Currently, our primary focus revolves around prototyping systems that combine these safety techniques with text analysis tools, enabling comprehensive safety evaluation and analysis.
                       </p>
                     </div>
 
@@ -129,14 +106,7 @@ export default function Research() {
                       <h4>03</h4>
                       <h3>Tools and Measurements</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        We believe critically evaluating the potential societal
-                        impacts of our work is a key pillar of research. Our
-                        approach centers on building tools and measurements to
-                        evaluate and understand the capabilities, limitations,
-                        and potential for societal impact of our AI systems. A
-                        good way to understand our research direction here is to
-                        read about some of the work we’ve led or collaborated on
-                        in this space:{" "}
+                        We consider the critical evaluation of the societal implications of our work to be a fundamental principle of our research. Our approach revolves around the development of tools and metrics that enable us to comprehensively assess and comprehend the capabilities, constraints, and potential societal impacts of our AI systems. To gain insight into our research direction in this regard, we encourage you to explore some of the projects we have led or collaborated on in this domain. These initiatives shed light on our commitment to understanding and addressing the broader societal implications of AI technology.:{" "}
                         <a
                           href="https://arxiv.org/abs/2005.04305"
                           target="_blank"
@@ -176,16 +146,7 @@ export default function Research() {
                       <h4>04</h4>
                       <h3>Focused, Collaborative Research Efforts</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        We highly value collaboration on projects, and aim for a
-                        mixture of top-down and bottom-up research planning. We
-                        always aim to ensure we have a clear, focused research
-                        agenda, but we put a lot of emphasis on including
-                        everyone — researchers, engineers, societal impact
-                        experts and policy analysts — in determining that
-                        direction. We look to collaborate with other labs and
-                        researchers, as we believe the best research into
-                        characterizing these systems will come from a broad
-                        community of researchers working together.
+                        Collaboration is of utmost importance to us in our project endeavors, and we strive to strike a balance between top-down and bottom-up research planning approaches. While maintaining a clear and focused research agenda, we place significant emphasis on inclusivity by involving a diverse group of stakeholders, including researchers, engineers, experts in societal impact, and policy analysts, in determining the direction of our work. We actively seek collaborations with other laboratories and researchers, recognizing that the most comprehensive and insightful research on characterizing these systems arises from a broad and interconnected community of researchers working together.
                       </p>
                     </div>
                   </div>
@@ -204,18 +165,17 @@ export default function Research() {
                       </div>
 
                       <div className="heading h2 s:col-start-2 s:col-span-10 m:col-start-3 m:col-span-8">
-                        Training a Helpful and Harmless Assistant with
-                        Reinforcement Learning from Human Feedback
+                        Cultivating a Safe and Beneficial Assistant through Reinforcement Learning from Human
+
                       </div>
 
                       <p className="short-description text-b2 s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
-                        Our second AI alignment paper, exploring how to train a
-                        general language assistant to be helpful, but without
-                        providing harmful advice or exhibiting bad behaviors.
+                        This represents our second paper on AI alignment, delving into the methods of training a general language assistant to be useful, while ensuring it refrains from giving potentially harmful advice or demonstrating detrimental behaviors.
+
                       </p>
 
                       <div className="post-timestamp text-label s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
-                        Apr 12, 2022
+                        May 22, 2023
                       </div>
                     </div>
                   </a>
