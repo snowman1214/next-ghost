@@ -7104,5 +7104,5 @@ html.is-modal-open .modal-content {
 }
 
 .logo-lottie svg:first-child g:first-child {
-    display: none;
+    /* display: none; */
 }
