@@ -5783,7 +5783,7 @@ body:not(.loading) .b-assetCta {
 }
 
 .b-featuredPost .featured-post-wrapper:focus.bg-book-cloth,.b-featuredPost .featured-post-wrapper:hover.bg-book-cloth {
-  background-color: #d2886f
+  background-color: #61aaf2
 }
 
 .b-featuredPost .featured-post-wrapper:focus .asset-container img,.b-featuredPost .featured-post-wrapper:hover .asset-container img {
