@@ -34,12 +34,7 @@ export default function Careers() {
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      We’re a public benefit corporation based in San Francisco.
-                      Our team’s experience spans a variety of backgrounds and
-                      disciplines, from physics and machine learning to public
-                      policy and business. We work as a cohesive team that
-                      collectively forecasts the impact and tractability of
-                      research ideas in advancing our mission.
+                      We are a Swiss based Corporation in Zug comprised of a diverse team with extensive expertise across a range of fields and disciplines, including physics, machine learning, public policy, and business. Collaboratively, we evaluate research ideas, forecasting their potential impact and feasibility in furthering our mission. Our cohesive teamwork ensures an effective approach to advancing our goals.
                     </p>
                   </div>
 
@@ -231,31 +226,28 @@ export default function Careers() {
                           </div>
 
                           <div className="list-content order-2">
-                            <div className="h4">Health &amp; Wellness</div>
+                            <div className="h4">Learning &amp; Scale</div>
 
                             <p className="text-b2 spacer-micro-mt">
-                              We offer a range of benefits to best support your
-                              and your family&#039;s wellbeing.
+                              We provide an unparalleled opportunity for career advancement in a rapidly expanding field that is poised to revolutionize businesses indefinitely. Our platform offers a fresh beginning for individuals seeking to scale their professional trajectory and thrive in this transformative landscape.
                             </p>
 
                             <ul>
                               <li className="text-b2">
-                                Comprehensive health, dental, and vision
-                                insurance for you and your dependents
+                                Profit Sharing
                               </li>
                               <li className="text-b2">
-                                Inclusive fertility benefits via Carrot
-                                Fertility
+                                Work with the best companies
                               </li>
                               <li className="text-b2">
-                                Generous subsidy for OneMedical
-                              </li>
-                              <li className="text-b2">
-                                21 weeks of paid parental leave
+                                Change businesses forever
                               </li>
                               <li className="text-b2">
                                 Unlimited PTO – most staff take between 4-6
                                 weeks each year, sometimes more
+                              </li>
+                              <li className="text-b2">
+                                Learning ans Coaching
                               </li>
                             </ul>
                           </div>
@@ -284,9 +276,7 @@ export default function Careers() {
 
                             <p className="text-b2 spacer-micro-mt">
                               We offer competitive compensation with significant
-                              amounts of equity. Your equity can be multiplied
-                              if you choose to donate a portion of it to
-                              charity.
+                              amounts of equity.
                             </p>
 
                             <ul>
@@ -294,11 +284,10 @@ export default function Careers() {
                                 Competitive salary and equity packages
                               </li>
                               <li className="text-b2">
-                                Optional equity donation matching at a 3:1
-                                ratio, up to 50% of your equity grant
+                                Grants to support a charity every year
                               </li>
                               <li className="text-b2">
-                                401(k) plan with 4% matching
+                                Retirement plan with 2% matching
                               </li>
                             </ul>
                           </div>
@@ -332,23 +321,19 @@ export default function Careers() {
 
                             <ul>
                               <li className="text-b2">
-                                $500/month flexible wellness stipend
+                                If remote we cover your Wework or similar
                               </li>
                               <li className="text-b2">Commuter coverage</li>
                               <li className="text-b2">
-                                Annual education stipend
+                                Annual Coaching seminers with Suisseblocks private Equity
                               </li>
                               <li className="text-b2">
-                                A home office improvement stipend when you first
-                                join
+                                Access to invest in Private Equity through Suisseblocks
                               </li>
                               <li className="text-b2">
-                                Relocation support for those moving to the Bay
-                                Area
+                                Retreats to the Swiss Mountains
                               </li>
-                              <li className="text-b2">
-                                Daily lunches in the office
-                              </li>
+
                             </ul>
                           </div>
                         </div>
@@ -366,8 +351,7 @@ export default function Careers() {
 
                     <div className="block-content s:col-start-5 s:col-span-8 text-b2 is-bulleted">
                       <p className="text-b1">
-                        The interview process at Anthropic varies based on role
-                        and candidate, but our standard process looks like this:
+                        The interview process at SuisseGPT is tailored to each specific role and candidate, ensuring a comprehensive evaluation. While variations may occur, our standard procedure typically follows the structure outlined below:
                       </p>
                       <p>
                         <br />
@@ -379,12 +363,10 @@ export default function Careers() {
                         Submit your resume via our website.
                         <br />
                       </p>
-                      <h4>Step 2 </h4>
-                      <h2>(Role-dependent) Exploratory chat</h2>
+                      <h4>Step 2</h4>
+                      <h2>Interview based on Role</h2>
                       <p>
-                        You’ll have a chat with one of our staff to discuss your
-                        career interests and relevant experience, and learn more
-                        about Anthropic.
+                        As part of our interview process at SuisseGPT, we arrange a discussion between our staff and the candidate to delve into their career interests and relevant experience. This conversation serves as an opportunity for the candidate to gain deeper insights into SuisseGPT as a company and its mission. Simultaneously, it enables our staff to better understand the candidate's professional aspirations and evaluate how their skills align with our organization.
                         <br />
                       </p>
 
@@ -393,39 +375,32 @@ export default function Careers() {
                       <ul>
                         <li>
                           For technical roles, you’ll have a one-hour technical
-                          screening interview.
+                          screening interview to review your entry level.
                         </li>
                         <li>
                           For operations or policy roles, you’ll get a take-home
                           assignment. These typically involve writing responses
-                          to several role-relevant questions; they may
+                          to several role-relevant questions; they mayFor candidates applying for operations or policy roles at SuisseGPT, a take-home assignment is typically included as part of the interview process. This assignment is designed to assess the candidate's capabilities and suitability for the role. It usually entails crafting written responses to a set of role-specific questions, occasionally necessitating external research.
+                          The time commitment for these assignments typically ranges between 2 to 5 hours, depending on the particular role. We believe this allows candidates to showcase their skills and knowledge effectively while striking a balance with their existing commitments.
                           occasionally require some outside research.
                           Assignments usually take between 2-5 hours, depending
                           on the role.
                         </li>
                         <li>
-                          We include this to minimize bias and make
-                          well-informed hiring decisions. We think seeing a
-                          candidate’s work helps us assess how they might
-                          actually perform on the job; similarly, the assignment
-                          gives candidates a better idea of what their work at
-                          Anthropic might entail. If a candidate likes working
-                          through their take-home, that is one indicator that
-                          they would enjoy taking on the role, and vice versa.
+                          The inclusion of a take-home assignment in our interview process at SuisseGPT serves multiple purposes. First and foremost, it is implemented to reduce bias and ensure that our hiring decisions are well-informed. By evaluating a candidate's actual work, we gain valuable insights into their potential performance on the job. Simultaneously, the assignment offers candidates a clearer understanding of the nature of work they can expect at SuisseGPT.
+                          We believe that a candidate's engagement and satisfaction while working on the take-home assignment can serve as an indicator of their suitability for the role. If a candidate demonstrates enthusiasm and enjoys tackling the assignment, it suggests a potential alignment with the responsibilities and challenges of the position. Similarly, if a candidate finds the assignment unappealing or unengaging, it may indicate a mismatch between their interests and the role itself.
+                          Overall, the inclusion of a take-home assignment benefits both the candidate and SuisseGPT by facilitating a more accurate assessment of skills, work style, and potential job satisfaction.
                         </li>
                         <li>
-                          We recognize that completing work assignments requires
-                          time and effort, and that they are not perfectly
-                          reflective of the role’s work. Nonetheless, we think
-                          that work tests are a useful complement to interviews
-                          and reference checks.
+
+                          At SuisseGPT, we understand and acknowledge that completing work assignments demands time and effort, and we recognize that these assignments may not perfectly mirror the actual responsibilities of the role. Nevertheless, we firmly believe that work tests serve as a valuable complement to interviews and reference checks.
                         </li>
                       </ul>
                       <h4>Step 4</h4>
                       <h2>Team Screen</h2>
                       <p>
                         You'll have a conversation with either the Hiring
-                        Manager or a member of your potential team. 
+                        Manager or a member of your potential team.
                       </p>
                       <h4>Step 5</h4>
                       <h2>Interview Panel</h2>
@@ -461,14 +436,14 @@ export default function Careers() {
 
                     <div className="block-content s:col-start-5 s:col-span-8 text-b2 is-bulleted">
                       <p>
-                        Technical interviews at Anthropic are broadly
+                        Technical interviews at SuisseGPT are broadly
                         categorized into ‘engineering’ or ‘research’ interviews,
                         and each candidate is given a mix tailored to their
                         skillset.
                         <br />
                         <br />
-                        Engineering interviews are usually carried out in a
-                        shared Python coding environment, like Google Colab.
+                        Engineering interviews are carried out in a
+                        shared Python coding environment! like Google Colab.
                         Frontend engineering interviews are in JavaScript. They
                         have the form:
                         <br />
@@ -478,8 +453,8 @@ export default function Careers() {
                         <br />
                         <br />
                         These components are ‘chunkier’ than the more common
-                        LeetCode problems, and are intended to mimic the
-                        day-to-day of engineering at Anthropic.
+                        Leet Code problems, and are intended to mimic the
+                        day-to-day of engineering at SuisseGPT.
                         <br />
                         <br />
                         We are particularly interested in your thought process
@@ -505,7 +480,7 @@ export default function Careers() {
                         <br />
                         Both the research and engineering interview process also
                         include softer questions about your experience and
-                        motivations, and time to ask us about Anthropic.
+                        motivations, and time to ask us about SuisseGPT.
                       </p>
                     </div>
                   </section>
@@ -573,25 +548,7 @@ export default function Careers() {
                           </p>
                         </div>
 
-                        <div className="post ">
-                          <div className="h4">Visas</div>
-                          <p className="text-b2 spacer-micro-mt">
-                            Anthropic sponsors visas! We aren&#039;t able to
-                            sponsor them for every role and every candidate;
-                            operations roles are especially difficult to
-                            support. But if we make you an offer, we will make
-                            every effort to get you into the United States, and
-                            we retain an immigration lawyer to help with this.
-                          </p>
-                        </div>
 
-                        <div className="post ">
-                          <div className="h4">Green cards</div>
-                          <p className="text-b2 spacer-micro-mt">
-                            Once you’re eligible, we’re also keen to sponsor
-                            green cards!
-                          </p>
-                        </div>
 
                         <div className="post ">
                           <div className="h4">
@@ -639,7 +596,7 @@ export default function Careers() {
                         <div className="post ">
                           <div className="h4">Remote work</div>
                           <p className="text-b2 spacer-micro-mt">
-                            Anthropic staff all come to the office regularly.
+                            SuisseGPT staff all come to the office regularly.
                             Most staff live in the Bay Area, though a few live
                             further away and come in for one week a month. We
                             also understand that moving can take time, so as a
@@ -889,7 +846,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Security &amp; Privacy Engineer</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              You want to ensure Anthropic’s success enabled by
+                              You want to ensure SuisseGPT’s success enabled by
                               regulatory compliance. You understand how to
                               develop engineering for privacy and compliance
                               controls while minimizing friction for staff,
@@ -914,7 +871,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Security Engineer &amp; Compliance Manager</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              At Anthropic, we believe new AI capabilities are
+                              At SuisseGPT, we believe new AI capabilities are
                               best achieved through secure foundations, not in
                               spite of them. As capabilities grow more advanced,
                               it is critical that progress moves forward safely
@@ -939,7 +896,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Senior Software Security Engineer</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              You want to protect Anthropic's most valuable
+                              You want to protect SuisseGPT's most valuable
                               assets from both opportunists and nation states.
                               You live in a Secure by Design mindset, and
                               understand how to communicate that vision to
@@ -1018,7 +975,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Inference Service Engineering Manager</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Our missionAnthropic is an AI safety and research
+                              Our mission SuisseGPT is an AI safety and research
                               company that’s working to build reliable,
                               interpretable, and steerable AI systems. Large,
                               general systems of today can have significant
@@ -1172,7 +1129,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Trust and Safety Analyst</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. Our quickly growing
@@ -1197,7 +1154,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Trust and Safety Policy Manager</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole.As a Trust and Safety
@@ -1222,7 +1179,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Trust and Safety Threat Investigator</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. As a threat investigator
@@ -1301,7 +1258,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Enterprise Account Executive</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. Our team is a quickly
@@ -1382,7 +1339,7 @@ export default function Careers() {
                             <p className="text-b2 spacer-micro-mt">
                               We are looking for an experienced design leader to
                               create and cultivate the design culture at
-                              Anthropic, a safety-focused organization at the
+                              SuisseGPT, a safety-focused organization at the
                               forefront of AI research. As Design Lead you will
                               set the overall design vision and…
                             </p>
@@ -1406,7 +1363,7 @@ export default function Careers() {
                             <h3>Principal Product Designer</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We are looking for an experienced designer to join
-                              the design team at Anthropic, a safety-focused
+                              the design team at SuisseGPT, a safety-focused
                               organization at the forefront of AI research. As
                               Senior Product Designer, you will research and
                               design how users interact with…
@@ -1430,10 +1387,10 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Prompt Engineer and Librarian</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe for our customers and for society as
-                              a whole.Anthropic’s AI technology is amongst the
+                              a whole.SuisseGPT’s AI technology is amongst the
                               most capable and safe in the worl…
                             </p>
                             <a
@@ -1455,7 +1412,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Research Engineer - Product</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe for our customers and for society as
                               a whole.You care about making safe, steerable,
@@ -1480,7 +1437,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Senior Software Engineer - Product</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe for our customers and for society as
                               a whole. We are looking for a senior software
@@ -1505,7 +1462,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Senior Software Engineer (London) - Product</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe for our customers and for society as
                               a whole. We are looking for a senior software
@@ -1530,7 +1487,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Software Engineer - Trust and Safety</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe for our customers and for society as
                               a whole. We are looking for software engineers to
@@ -1555,7 +1512,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Technical Product Manager</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe for our customers and for society as
                               a whole. Putting our models out in the real world
@@ -1634,7 +1591,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Business Operations</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. Our quickly growing
@@ -1659,7 +1616,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Product Support Specialist</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. Our quickly growing
@@ -1738,7 +1695,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Public Policy Manager (Product)</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic’s mission is to create reliable,
+                              SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. As a Public Policy Manager
@@ -1817,7 +1774,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Recruiter</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              You want to help Anthropic address one of its
+                              You want to help SuisseGPT address one of its
                               biggest bottlenecks by building a talented and
                               diverse staff. You’ll help oversee our recruitment
                               pipeline to ensure a well informed decision and a
@@ -1899,10 +1856,10 @@ export default function Careers() {
                               Transactions
                             </h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Join the team making AI safe.Anthropic is seeking
+                              Join the team making AI safe.SuisseGPT is seeking
                               a highly qualified Associate General Counsel to
                               lead commercial and technology transactions at
-                              Anthropic. We’ll rely on you to help us develop
+                              SuisseGPT. We’ll rely on you to help us develop
                               and negotiate partnerships and c…
                             </p>
                             <a
@@ -1924,7 +1881,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Product Counsel</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Join the team making AI safe.Anthropic is seeking
+                              Join the team making AI safe.SuisseGPT is seeking
                               a thoughtful, multidisciplinary product counsel to
                               support our teams building and deploying
                               innovative AI systems and products. As a member of
@@ -2004,7 +1961,7 @@ export default function Careers() {
                             <h3>Chief of Staff to the CEO</h3>
                             <p className="text-b2 spacer-micro-mt">
                               As Chief of Staff to the CEO, you will scope and
-                              drive many of Anthropic’s most important strategic
+                              drive many of SuisseGPT’s most important strategic
                               initiatives and engage with high-level questions
                               fundamental to both the company and the broader
                               societal impacts of artifici…
@@ -2030,7 +1987,7 @@ export default function Careers() {
                             <p className="text-b2 spacer-micro-mt">
                               As a Team Assistant, you will report to Daniela
                               Amodei’s Chief of Staff, and work directly with
-                              the leadership team to ensure Anthropic runs
+                              the leadership team to ensure SuisseGPT runs
                               smoothly. This is an incredible opportunity to
                               work alongside some of the brightest…
                             </p>
@@ -2109,7 +2066,7 @@ export default function Careers() {
                             <p className="text-b2 spacer-micro-mt">
                               We are looking to hire a Financial Analyst to join
                               our Financial Planning and Analysis team at
-                              Anthropic. You will participate in key processes
+                              SuisseGPT. You will participate in key processes
                               such as annual planning, variance analysis,
                               financial modeling, KPI setting and r…
                             </p>
@@ -2132,7 +2089,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Senior Accountant</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic is seeking an experienced Senior
+                              SuisseGPT is seeking an experienced Senior
                               Accountant to oversee day-to-day accounting
                               operations and manage key financial functions. In
                               this role, you will take ownership of monthly
@@ -2157,7 +2114,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Staff Accountant</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Anthropic is looking for a detail-oriented Staff
+                              SuisseGPT is looking for a detail-oriented Staff
                               Accountant to join our growing finance team. In
                               this role, you will manage key accounting
                               processes like accounts payable/receivable,
@@ -2182,7 +2139,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Strategic Finance and Investor Relations</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Join the finance team at Anthropic and help build
+                              Join the finance team at SuisseGPT and help build
                               the future of safe AI! We are looking for our
                               first Strategic Finance and Investor Relations
                               hire to work closely with our executive team. In
