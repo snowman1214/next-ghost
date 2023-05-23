@@ -12,17 +12,17 @@ export default function Home() {
     }, 200);
   }, []);
 
-  const animation = () => {
-    setTimeout(() => {
-      document.querySelector("h1.heading .line-first").style.opacity = "1";
-    }, 200);
-    setTimeout(() => {
-      document.querySelector("h1.heading .line-second").style.opacity = "1";
-    }, 350);
-    setTimeout(() => {
-      document.querySelector("h1.heading .line-third").style.opacity = "1";
-    }, 500);
-  };
+  //   const animation = () => {
+  //     setTimeout(() => {
+  //       document.querySelector("h1.heading .line-first").style.opacity = "1";
+  //     }, 200);
+  //     setTimeout(() => {
+  //       document.querySelector("h1.heading .line-second").style.opacity = "1";
+  //     }, 350);
+  //     setTimeout(() => {
+  //       document.querySelector("h1.heading .line-third").style.opacity = "1";
+  //     }, 500);
+  //   };
 
   return (
     <>
@@ -38,7 +38,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
         }}
       />
       <Header />
-      <div className="page-dom-content" onLoad={() => animation()}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="home">
             <div className="page-container">
@@ -46,7 +46,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                 <div className="b-hero-staggered s:grid s:grid-12">
                   <h1
                     className="heading s:col-start-3 s:col-span-8"
-                    data-triggers=""
+                    data-triggers="splitWords"
                   >
                     <div className="line-wrapper line-first">
                       <span className="line line-1">

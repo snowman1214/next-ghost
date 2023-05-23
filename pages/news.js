@@ -15,6 +15,12 @@ export default function News() {
     }, 200);
   }, []);
 
+  const animation = () => {
+    setTimeout(() => {
+      document.querySelector(".news-heading").style.opacity = "1";
+    }, 200);
+  };
+
   const toggleView = () => {
     setIsListView(!isListView);
   };
@@ -33,7 +39,7 @@ Learn the latest about SuisseGPT and our research."
         }}
       />
       <Header />
-      <div className="page-dom-content ">
+      <div className="page-dom-content " onLoad={() => animation()}>
         <main data-taxi="">
           <article data-taxi-view="default" data-handle="index">
             <div className="page-container">
@@ -42,7 +48,7 @@ Learn the latest about SuisseGPT and our research."
                 data-triggers=""
                 data-trigger-stagger="0.2"
               >
-                <h2 className="page-heading">Index</h2>
+                <h2 className="page news-heading">Index</h2>
               </div>
 
               <div
