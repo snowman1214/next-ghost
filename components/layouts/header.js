@@ -68,6 +68,9 @@ const Header = () => {
 
           <div className="controls xs:grid xs:grid-2 xs:col-start-1 xs:col-span-2">
             <div className="logo-mark xs:col-start-1 xs:col-span-1">
+              <div className="logo">
+                <Image src={logomobile} alt="dd"></Image>
+              </div>
               <a href="index">
                 <svg
                   width="46"
