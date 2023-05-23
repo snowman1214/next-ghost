@@ -210,41 +210,182 @@ export default function Demand() {
                       Thank you for taking the time to understand our position and approach to these pressing issues. We eagerly anticipate the valuable discussions and collaborations that lie ahead. Onward and upward, together, towards a future defined by safe, beneficial, and transformative AI.
                       <br />
                       <br />
-            <b>Taking a private focus to AI Safety</b>
+            <b>Adopting a Portfolio Strategy for AI Safety with SuisseGPT</b>
                       <br />
                       <br />
+                        Those involved in safety research are often driven by strong views on the potential risks of AI. However, based on our experiences, forecasting the actions and characteristics of AI systems in the near future remains challenging. Predicting the safety of upcoming systems a priori is even more difficult. Instead of adopting a singular position, we acknowledge that a broad spectrum of possibilities exists.
+                        <br />
+                        <br />
+                        One critical aspect of uncertainty relates to the complexity of creating advanced AI systems that are fundamentally safe and pose minimal threat to humans. The development of such systems can range anywhere from very straightforward to utterly unachievable. We categorize this range into three distinct scenarios, each carrying unique implications:
+                        <br />
+                        <br />
+                        Positive scenarios: The potential for catastrophic risk due to safety failures in advanced AI is minimal. Already existing safety methods, such as reinforcement learning from human feedback (RLHF) and Constitutional AI (CAI), are largely sufficient for alignment. Current AI risks extend from existing challenges such as misuse and toxicity, as well as potential damages from widespread automation and shifts in global power dynamics. These will require considerable research from AI labs, academia, and civil society institutions to mitigate potential harm.
+                        Intermediate scenarios: Catastrophic risks could be a possible or even likely outcome of advanced AI development. To combat this, considerable scientific and engineering endeavors are required. However, given adequate concentrated effort, it is achievable.
+                        Negative scenarios: AI safety is an insurmountable challenge. It's a practical reality that we cannot direct or dictate values to a system that is broadly more intelligent than us. Consequently, we should avoid developing or implementing highly advanced AI systems. The most negative scenarios could initially appear optimistic until very potent AI systems are developed. A careful and humble approach is needed to assess the safety of systems in such scenarios.
+                        If we find ourselves in a positive scenario... the stakes of SuisseGPT's actions are fortunately lower, given the unlikely occurrence of catastrophic safety failures. Our alignment initiatives will likely accelerate the beneficial applications of advanced AI and help to alleviate some immediate harm caused by AI systems during their development. We may also repurpose our efforts to assist policymakers in navigating potential systemic risks posed by advanced AI, which would likely be the major source of risk in the absence of catastrophic safety failures.
+                        <br />
+                        <br />
+                        If we find ourselves in an intermediate scenario... SuisseGPT's main contribution will be to recognize the risks associated with advanced AI systems and devise and disseminate safe methods for training powerful AI systems. We expect that some of our portfolio of safety techniques, which we'll elaborate on below, will prove beneficial in such situations. These scenarios can range from "moderately-easy", where we anticipate significant incremental improvements by refining techniques such as Constitutional AI, to "moderately-difficult", where successful mechanistic interpretability seems the best option.
+                        <br />
+                        <br />
+                        If we find ourselves in a negative scenario... the role of SuisseGPT will be to gather as much evidence as possible to demonstrate that AI safety measures cannot prevent severe or catastrophic risks from advanced AI. We will then alert global institutions, encouraging a concerted effort to prevent the creation of perilous AIs. If we are in a “near-negative” situation, our collective efforts may be directed towards AI safety research and temporarily halting AI progress. Signs that we are in a negative or near-negative scenario might be abrupt and difficult to discern. Therefore, we must always operate under the assumption that we could still be in such a situation unless we have ample evidence to the contrary.
+                        <br />
+                        <br />
+                        Given the high stakes, one of our primary objectives is to continue amassing information about the scenario we're currently in. Many of our ongoing research trajectories aim to enhance our understanding of AI systems and devise methods that might help us identify worrying behaviors such as power-seeking or deception in advanced AI systems.
+                        <br />
+                        <br />
+                        At SuisseGPT, our objectives fundamentally encompass:
+                        <br />
+                        <br />
+- Advancing techniques to increase the safety of AI systems.
+                        <br />
+                        <br />
+- Improving methodologies to evaluate the safety or risk level of AI systems.
+                        <br />
+                        <br />
+                        In optimistic scenarios, the former will aid AI developers in training beneficial systems, and the latter will confirm their safety. In intermediate scenarios, the first point might be our way of averting an AI catastrophe, while the second will be crucial to ensure low risk from advanced AI. In pessimistic scenarios, the failure of the first will indicate the insolubility of AI safety, and the success of the second will enable us to convincingly demonstrate this to others.
+                        <br />
+                        <br />
+                        We advocate this "portfolio approach" to AI safety research. Instead of placing all our bets on a single projected scenario, we aim to construct a research program that could significantly improve intermediate scenarios, where AI safety research is likely to have the most considerable impact, and also alert in pessimistic scenarios where AI safety research may have a minimal effect on AI risk. Furthermore, we strive to do so beneficially in optimistic scenarios where the demand for technical AI safety research isn't as high.  <br />
+                        <br />
+<b>The Three Categories of AI Research at SuisseGPT</b>
+                        <br />
+                        <br />
+                        We divide research projects at SuisseGPT into three areas:
+                        <br />
+                        <br />
+                        1. We divide research projects at SuisseGPT into three areas:
+
+                        Capabilities: This involves AI research aimed at improving AI systems' proficiency across tasks, including writing, image processing or creation, game playing, etc. Research that enhances the efficiency of large language models or improves reinforcement learning algorithms falls under this category. Capabilities work results in the models we examine and use in our alignment research. We generally do not publish this work as we aim not to accelerate the pace of AI capabilities progress. We also strive to be mindful about showcasing frontier capabilities (even without publication). We trained the initial version of our leading model, SuisseGPT, in spring 2022, prioritizing safety research over public deployments. As the gap between it and the public state of the art has decreased, we have begun deploying SuisseGPT.
+                        <br />
+                        <br />
+2. Alignment Capabilities: This research is focused on creating new algorithms for training AI systems to be more helpful, honest, harmless, reliable, robust, and generally aligned with human values. Examples of ongoing and past work in this area at SuisseGPT include debate, scaling automated red-teaming, Constitutional AI, debiasing, and RLHF (reinforcement learning from human feedback). Often these techniques are practically useful and economically valuable, but they don't necessarily have to be—for instance, if new algorithms are relatively inefficient or will only become useful as AI systems advance.
+                        <br />
+                        <br />
+3. Alignment Science: This focuses on evaluating and understanding whether AI systems are genuinely aligned, how well alignment capabilities techniques work, and to what extent we can project the success of these techniques to more capable AI systems. Examples of this work at SuisseGPT include the broad area of mechanistic interpretability, as well as our work on evaluating language models with language models, red-teaming, and studying generalization in large language models using influence functions. Some of our work on honesty straddles the border of alignment science and alignment capabilities.
+                        In a way, one can view alignment capabilities versus alignment science as a “blue team” versus “red team” distinction, where alignment capabilities research tries to develop new algorithms, while alignment science seeks to understand and expose their limitations.
+                        <br />
+                        <br />
+                        This categorization is useful in addressing debates within the AI safety community, for instance, whether the development of RLHF—which also generates economic value—is “true” safety research. We firmly believe that it is. Pragmatically useful alignment capabilities research serves as the groundwork for techniques we develop for more capable models—for example, our work on Constitutional AI and on AI-generated evaluations, as well as our ongoing work on automated red-teaming and debate, wouldn't have been feasible without prior work on RLHF. Moreover, demonstrating that iterative alignment research is useful for creating models that are more valuable to humans may also incentivize AI developers to invest more in making their models safer and in detecting potential safety failures.
+                        <br />
+                        <br />
+                        If it turns out that AI safety is quite solvable, then our alignment capabilities work may be our most impactful research. Conversely, if the alignment problem is more challenging, then we will increasingly rely on alignment science to expose the flaws in alignment capabilities techniques. And if the alignment problem is almost impossible, then we desperately need alignment science to build a strong case for halting the development of advanced AI systems.
+                        <br />
+                        <br />
+<b>Our Current Safety Research</b>
+                        <br />
+                        <br />
+                        We're currently working in various directions to discover how to train safe AI systems, with certain projects addressing distinct threat models and capability levels. Some pivotal ideas include:
+                        <br />
+                        <br />
+1. Mechanistic Interpretability
+                        <br />
+                        <br />
+2. Scalable Oversight
+                        <br />
+                        <br />
+3. Process-Oriented Learning
+                        <br />
+                        <br />
+4. Understanding Generalization
+                        <br />
+                        <br />
+5. Testing for Dangerous Failure Modes
+                        <br />
+                        <br />
+6. Societal Impacts and Evaluations.
+                        <br />
+                        <br />
+<b>Understanding Generalization</b>
+                        <br />
+                        <br />
+                        Generalization refers to the ability of an AI model to perform well on new, unseen data based on what it has learned from training data. This ability is essential for any AI system that aims to handle a wide range of tasks or situations. However, as AI models become more powerful, understanding how they generalize becomes more difficult. This is particularly important when it comes to safety-critical systems, where it's necessary to ensure that the model's performance doesn't deteriorate or behave unpredictably in new situations.
+                        <br />
+                        <br />
+                        Our research in understanding generalization involves studying the behavior of AI systems under various conditions, identifying their failure modes, and finding ways to improve their generalization abilities. We use techniques like influence functions to study how individual training examples affect the model's predictions, as well as tools for visualizing and interpreting what the model has learned. This work not only helps us develop safer AI systems, but also advances our fundamental understanding of machine learning.
+                        <br />
+                        <br />
+<b>Testing for Dangerous Failure Modes</b>
+                        <br />
+                        <br />
+                        One of the challenges of developing safe AI systems is identifying and avoiding dangerous failure modes, which are situations where the system behaves in ways that are harmful or undesirable. These failure modes can be subtle and hard to detect, especially as AI models become more complex and capable.
+                        <br />
+                        <br />
+                        Our work in this area involves developing methods for systematically testing AI systems to uncover these failure modes. We apply techniques from software testing, formal verification, and adversarial testing to expose and analyze potential dangers. This can involve creating challenging test cases that probe the system's behavior in various ways, as well as using formal methods to prove properties about the system's behavior. By uncovering these failure modes, we can improve our models and training techniques to make them safer.
+                        <br />
+                        <br />
+<b>Societal Impacts and Evaluations</b>
+                        <br />
+                        <br />
+                        Our research isn't limited to technical aspects of AI safety. We also consider the broader societal impacts of AI and how these technologies can be used in ways that are beneficial and fair. We engage with policymakers, academics, and other stakeholders to understand and address the societal implications of advanced AI systems.
+                        <br />
+                        <br />
+                        Our work in this area includes evaluating the economic and social impacts of AI, studying issues related to AI fairness and bias, and developing methods for assessing the value alignment of AI systems. We also work on improving transparency and accountability in AI, and engage with the broader community through publications, workshops, and other outreach activities. By considering these broader societal aspects, we aim to ensure that AI is developed and used in ways that are beneficial for all.
+                        <br />
+                        <br />
+<b>Understanding Generalization</b>
+                        <br />
+                        <br />
+                        At SuisseGPT, we are invested in decoding the mechanisms underlying the functions performed by a neural network, primarily focusing on broadening our understanding of large language model (LLM) training procedures.
+                        <br />
+                        <br />
+                        LLMs have demonstrated a variety of surprising emergent behaviors, from creativity to self-preservation to deception. While all of these behaviors surely arise from the training data, the pathway is complicated: the models are first “pretrained” on gigantic quantities of raw text, from which they learn wide-ranging representations and the ability to simulate diverse agents. Then they are fine-tuned in myriad ways, some of which probably have surprising unintended consequences. Since the fine-tuning stage is heavily overparameterized, the learned model depends crucially on the implicit biases of pretraining; this implicit bias arises from a complex web of representations built up from pretraining on a large fraction of the world’s knowledge.
+
+                        <br />
+                        <br />
+                        When a model displays a concerning behavior such as role-playing a deceptively aligned AI, is it just harmless regurgitation of near-identical training sequences? Or has this behavior (or even the beliefs and values that would lead to it) become an integral part of the model’s conception of AI Assistants which they consistently apply across contexts? We are working on techniques to trace a model’s outputs back to the training data, since this will yield an important set of cues for making sense of it.
+                        <br />
+                        <br />
+<b>Testing for Dangerous Failure Modes</b>
+                        <br />
+                        <br />
+                        One key concern is the possibility an advanced AI may develop harmful emergent behaviors, such as deception or strategic planning abilities, which weren’t present in smaller and less capable systems. We think the way to anticipate this kind of problem before it becomes a direct threat is to set up environments where we deliberately train these properties into small-scale models that are not capable enough to be dangerous, so that we can isolate and study them.
+                        <br />
+                        <br />
+                        We are especially interested in how AI systems behave when they are “situationally aware” – when they are aware that they are an AI talking with a human in a training environment, for example – and how this impacts their behavior during training. Do AI systems become deceptive, or develop surprising and undesirable goals? In the best case, we aim to build detailed quantitative models of how these tendencies vary with scale so that we can anticipate the sudden emergence of dangerous failure modes in advance.
+                        <br />
+                        <br />
+                        At the same time, it’s important to keep our eyes on the risks associated with the research itself. The research is unlikely to carry serious risks if it is being performed on smaller models that are not capable of doing much harm, but this kind of research involves eliciting the very capacities that we consider dangerous and carries obvious risks if performed on larger models with greater capabilities. We do not plan to carry out this research on models capable of doing serious harm.
+                        <br />
+                        <br />
+                        <b>Societal Impacts and Evaluations</b>
+                        <br />
+                        <br />
+                        Critically evaluating the potential societal impacts of our work is a key pillar of our research. Our approach centers on building tools and measurements to evaluate and understand the capabilities, limitations, and potential for the societal impact of our AI systems. For example, we have published research analyzing predictability and surprise in large language models, which studies how the high-level predictability and unpredictability of these models can lead to harmful behaviors. In that work, we highlight how surprising capabilities might be used in problematic ways. We have also studied methods for red teaming language models to discover and reduce harms by probing models for offensive outputs across different model sizes. Most recently, we found that current language models can follow instructions to reduce bias and stereotyping.
+                        <br />
+                        <br />
+                        We are very concerned about how the rapid deployment of increasingly powerful AI systems will impact society in the short, medium, and long term. We are working on a variety of projects to evaluate and mitigate potentially harmful behavior in AI systems, to predict how they might be used, and to study their economic impact. This research also informs our work on developing responsible AI policies and governance. By conducting rigorous research on AI's implications today, we aim to provide policymakers and researchers with the insights and tools they need to help mitigate these potentially significant societal harms and ensure the benefits of AI are broadly and evenly distributed across society.
+                        <br />
+                        <br />
+                        <b>Closing thoughts</b>
+                        <br />
+                        <br />
+                        We believe that artificial intelligence may have an unprecedented impact on the world, potentially within the next decade. The exponential growth of computing power and the predictable improvements in AI capabilities suggest that new systems will be far more advanced than today’s technologies. However, we do not yet have a solid understanding of how to ensure that these powerful systems are robustly aligned with human values so that we can be confident that there is a minimal risk of catastrophic failures.
+                        <br />
+                        <br />
+                        We want to be clear that we do not believe that the systems available today pose an imminent concern. However, it is prudent to do foundational work now to help reduce risks from advanced AI if and when much more powerful systems are developed. It may turn out that creating safe AI systems is easy, but we believe it’s crucial to prepare for less optimistic scenarios.
+                        <br />
+                        <br />
+                        SuisseGPT is taking an empirically-driven approach to AI safety. Some of the key areas of active work include improving our understanding of how AI systems learn and generalize to the real world, developing techniques for scalable oversight and review of AI systems, creating AI systems that are transparent and interpretable, training AI systems to follow safe processes instead of pursuing outcomes, analyzing potential dangerous failure modes of AI and how to prevent them, and evaluating the societal impacts of AI to guide policy and research. By attacking the problem of AI safety from multiple angles, we hope to develop a “portfolio” of safety work that can help us succeed across a range of different scenarios. We anticipate that our approach and resource allocation will rapidly adjust as more information about the kind of scenario we are in becomes available.
+                        <br />
+                        <br />
+                        <b>Footnotes</b>
+                        <br />
+                        <br />
+                        Algorithmic progress – the invention of new methods for training AI systems – is more difficult to measure, but progress appears to be exponential and faster than Moore’s Law. When extrapolating progress in AI capabilities, the exponential growth in spending, hardware performance, and algorithmic progress must be multiplied in order to estimate the overall growth rate.
+                        Scaling laws provided a justification for the expenditure, but another underlying motivation for carrying out this work was to pivot towards AIs that could read and write, in order to make it easier to train and experiment with AIs that could engage with human values.
+                        Extrapolating progress in AI capabilities from increases in the total amount of computation used for training is not an exact science and requires some judgment. We know that the capability jump from GPT-2 to GPT-3 resulted mostly from about a 250x increase in compute. We would guess that another 50x increase separates the original GPT-3 model and state-of-the-art models in 2023. Over the next 5 years we might expect around a 1000x increase in the computation used to train the largest models, based on trends in compute cost and spending. If the scaling laws hold, this would result in a capability jump that is significantly larger than the jump from GPT-2 to GPT-3 (or GPT-3 to SuisseGPT). At SuisseGPT, we’re deeply familiar with the capabilities of these systems and a jump that is this much larger feels to many of us like it could result in human-level performance across most tasks. This requires that we use intuition – albeit informed intuition – and is therefore an imperfect method of estimating progress in AI capabilities. But the underlying facts including (i) the compute difference between these two systems, (ii) the performance difference between these two systems, (iii) scaling laws that allow us to project out to future systems, and (iv) trends in compute cost and spending are available to anyone and we believe they jointly support a greater than 10% likelihood that we will develop broadly human-level AI systems within the next decade. In this coarse analysis we ignore algorithmic progress and the compute numbers are best estimates we don’t provide details for. However, the vast majority of internal disagreement here is in the intuition for extrapolating subsequent capabilities jumps given an equivalent compute jump.
+                        For example, in AI research, for a long time it was widely assumed on theoretical grounds that local minima might prevent neural networks from learning, while many qualitative aspects of their generalization properties, such as the widespread existence of adversarial examples, came as something of a mystery and surprise.
+                        Effective safety research on large models doesn't just require nominal (e.g. API) access to these systems – to do work on interpretability, fine tuning, and reinforcement learning it’s necessary to develop AI systems internally at SuisseGPT.
 
                         <br />
                         <br />
 
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
-
-                        <br />
-                        <br />
                     </p>
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/demand"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/coreviews"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -263,7 +404,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/demand"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/coreviews"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -286,7 +427,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/demand"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/coreviews"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"
@@ -360,7 +501,7 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Claude’s Constitution
+                            SuisseGPT’s Constitution
                         </div>
 
                         <div className="post-timestamp text-label">
