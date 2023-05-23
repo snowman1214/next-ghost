@@ -101,7 +101,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                         </p>
                       </div>
                       <div className="s:col-start-1 s:col-span-5">
-                        <a
+                        <link
                           className="btn-primary"
                           href="https://beta.suissegpt.ai/product"
                           aria-label="Meet SuisseGPT"
@@ -114,7 +114,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                               aria-hidden="true"
                             ></span>
                           </span>
-                        </a>
+                        </link>
                       </div>
                     </div>
                   </div>
