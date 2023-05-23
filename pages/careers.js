@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
+import { NextSeo } from 'next-seo';
 
 export default function Careers() {
   useEffect(() => {
@@ -13,6 +14,16 @@ export default function Careers() {
   }, []);
   return (
     <>
+      <NextSeo
+          title="SuisseGPT - Build the future of AI with SuisseGPT"
+          description="SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team."
+          openGraph={{
+            url: 'http://suissegpt.ai',
+            title: 'SuisseGPT - Build the future of AI with SuisseGPT',
+            description: 'SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team.',
+
+          }}
+      />
       <Header />
       <div className="page-dom-content">
         <main data-taxi>

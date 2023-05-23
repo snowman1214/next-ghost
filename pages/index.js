@@ -4,6 +4,7 @@ import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import Link from "next/link";
+import { NextSeo } from "next-seo";
 
 export default function Home() {
   useEffect(() => {
@@ -12,6 +13,17 @@ export default function Home() {
   }, []);
   return (
     <>
+      <NextSeo
+        title="SuisseGPT - Private AI models for the modern Enterprise"
+        description="
+Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title: "SuisseGPT - Private AI models for the modern Enterprise",
+          description:
+            "Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
+        }}
+      />
       <Header />
       <div className="page-dom-content">
         <main data-taxi>

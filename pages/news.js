@@ -4,6 +4,7 @@ import Footer from "@/components/layouts/footer";
 import { useEffect, useState } from "react";
 import { Script } from "./_document";
 import { Animation } from "./_document";
+import { NextSeo } from 'next-seo';
 
 export default function News() {
   const [isListView, setIsListView] = useState(true);
@@ -18,6 +19,17 @@ export default function News() {
 
   return (
     <>
+      <NextSeo
+          title="News from SuisseGPT - Private AI models for the modern Enterprise"
+          description="
+Learn the latest about SuisseGPT and our research."
+          openGraph={{
+            url: 'http://suissegpt.ai',
+            title: 'News from SuisseGPT - Private AI models for the modern Enterprise',
+            description: 'Learn the latest about SuisseGPT and our research.',
+
+          }}
+      />
       <Header />
       <div className="page-dom-content ">
         <main data-taxi="">
@@ -523,7 +535,7 @@ export default function News() {
                         </a>
                         <Link
                           className="post post-22  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="/anthropic"
+                          href="/demand"
                           data-id="1117"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -1306,7 +1318,7 @@ export default function News() {
                       </a>
                       <Link
                         className="post post-22  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                        href="/anthropic"
+                        href="/demand"
                         data-id="1117"
                         data-categories="company, announcements"
                         style={{ display: "block" }}
