@@ -47,7 +47,7 @@ export default function Demand() {
 
                     <div className="post-timestamp spacer-medium-mt text-label">
                       May 25, 2023
-                      <span className="is-bullet">●</span>2 min read
+                      <span className="is-bullet">●</span>10 min read
                     </div>
                   </div>
 
