@@ -3,6 +3,7 @@ import Footer from "@/components/layouts/footer";
 import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
+import Link from "next/link";
 
 export default function Home() {
   useEffect(() => {
@@ -24,17 +25,19 @@ export default function Home() {
                   >
                     <div className="line-wrapper ">
                       <span className="line line-1">
-                        Pioneering AI <a href="research">research</a> & <br />
+                        Pioneering AI <Link href="/research">research</Link> &{" "}
+                        <br />
                       </span>
                     </div>
                     <div className="line-wrapper text-right">
                       <span className="line line-2">
-                        <a href="product">products</a> that put privacy  <br />
+                        <Link href="product">products</Link> that put privacy{" "}
+                        <br />
                       </span>
                     </div>
                     <div className="line-wrapper ">
                       <span className="line line-3">
-                       safety as the frontier
+                        safety as the frontier
                         <br />
                       </span>
                     </div>
@@ -68,7 +71,8 @@ export default function Home() {
                       </div>
                       <div className="description text-b1 s:col-start-1 s:col-span-4">
                         <p>
-                          An advanced AI assistant tailored to accommodate your tasks, irrespective of their magnitude.
+                          An advanced AI assistant tailored to accommodate your
+                          tasks, irrespective of their magnitude.
                         </p>
                       </div>
                       <div className="s:col-start-1 s:col-span-5">
@@ -97,7 +101,10 @@ export default function Home() {
                       data-triggers="inViewOnce"
                       data-trigger-start="top 100%"
                     >
-                      <h3>Fundamental Perspectives on AI Safety: The Timing, Rationale, Objectives, and Implementation.</h3>
+                      <h3>
+                        Fundamental Perspectives on AI Safety: The Timing,
+                        Rationale, Objectives, and Implementation.
+                      </h3>
                       <a
                         className="btn-primary"
                         href="index/core-views-on-ai-safety.html"
@@ -120,7 +127,10 @@ export default function Home() {
                       data-triggers="inViewOnce"
                       data-trigger-start="top 100%"
                     >
-                      <h3>Are you keen on contributing to the development of a secure AI future?</h3>
+                      <h3>
+                        Are you keen on contributing to the development of a
+                        secure AI future?
+                      </h3>
                       <a
                         className="btn-primary"
                         href="careers"
