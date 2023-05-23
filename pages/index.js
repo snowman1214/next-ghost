@@ -1,6 +1,5 @@
 import Header from "@/components/layouts/header";
 import Footer from "@/components/layouts/footer";
-import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import Link from "next/link";
@@ -12,6 +11,19 @@ export default function Home() {
       Script();
     }, 200);
   }, []);
+
+  const animation = () => {
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-first").style.opacity = "1";
+    }, 200);
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-second").style.opacity = "1";
+    }, 350);
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-third").style.opacity = "1";
+    }, 500);
+  };
+
   return (
     <>
       <NextSeo
@@ -26,29 +38,29 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
         }}
       />
       <Header />
-      <div className="page-dom-content">
+      <div className="page-dom-content" onLoad={() => animation()}>
         <main data-taxi>
           <article data-taxi-view="default" data-handle="home">
             <div className="page-container">
               <div className="home-container wrapper">
                 <div className="b-hero-staggered s:grid s:grid-12">
                   <h1
-                    className="heading s:col-start-3 s:col-span-8 "
+                    className="heading s:col-start-3 s:col-span-8"
                     data-triggers=""
                   >
-                    <div className="line-wrapper ">
+                    <div className="line-wrapper line-first">
                       <span className="line line-1">
                         Pioneering AI <Link href="/research">research</Link> &{" "}
                         <br />
                       </span>
                     </div>
-                    <div className="line-wrapper text-right">
+                    <div className="line-wrapper line-second text-right">
                       <span className="line line-2">
                         <Link href="product">products</Link> that put privacy{" "}
                         <br />
                       </span>
                     </div>
-                    <div className="line-wrapper ">
+                    <div className="line-wrapper line-third">
                       <span className="line line-3">
                         safety as the frontier
                         <br />
@@ -63,7 +75,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                   <div className="asset-container s:col-start-1 s:col-span-6">
                     <div
                       className="lazyPicture aspect-ratio "
-                      style={{ "--aspect": "100%" }}
+                      style={{ Aspect: "100%" }}
                       data-scroll
                     >
                       <img

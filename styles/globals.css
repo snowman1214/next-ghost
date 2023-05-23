@@ -7846,3 +7846,7 @@ html.is-modal-open .modal-content {
       max-height: calc(var(--vh) - 108px)
   }
 }
+h1.heading div {
+  opacity: 0;
+  transition: all 0.4s;
+}

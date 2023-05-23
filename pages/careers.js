@@ -1,31 +1,37 @@
 import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
-import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
-import { NextSeo } from 'next-seo';
+import { NextSeo } from "next-seo";
 
 export default function Careers() {
   useEffect(() => {
-    Animation();
     setTimeout(() => {
       Script();
     }, 200);
   }, []);
+  const animation = () => {
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-first").style.opacity = "1";
+    }, 200);
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-second").style.opacity = "1";
+    }, 350);
+  };
   return (
     <>
       <NextSeo
-          title="SuisseGPT - Build the future of AI with SuisseGPT"
-          description="SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team."
-          openGraph={{
-            url: 'http://suissegpt.ai',
-            title: 'SuisseGPT - Build the future of AI with SuisseGPT',
-            description: 'SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team.',
-
-          }}
+        title="SuisseGPT - Build the future of AI with SuisseGPT"
+        description="SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team."
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title: "SuisseGPT - Build the future of AI with SuisseGPT",
+          description:
+            "SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team.",
+        }}
       />
       <Header />
-      <div className="page-dom-content">
+      <div className="page-dom-content" onLoad={() => animation()}>
         <main data-taxi>
           <article data-taxi-view="default" data-handle="careers">
             <div className="page-container">
@@ -35,17 +41,24 @@ export default function Careers() {
                     className="heading s:col-start-3 s:col-span-8 "
                     data-triggers=""
                   >
-                    <div className="line-wrapper ">
+                    <div className="line-wrapper line-first">
                       <span className="line line-1">Join the team</span>
                     </div>
-                    <div className="line-wrapper text-right">
+                    <div className="line-wrapper text-right line-second">
                       <span className="line line-2">scaling AI for B2B</span>
                     </div>
                   </h1>
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      We are a Swiss based Corporation in Zug comprised of a diverse team with extensive expertise across a range of fields and disciplines, including physics, machine learning, public policy, and business. Collaboratively, we evaluate research ideas, forecasting their potential impact and feasibility in furthering our mission. Our cohesive teamwork ensures an effective approach to advancing our goals.
+                      We are a Swiss based Corporation in Zug comprised of a
+                      diverse team with extensive expertise across a range of
+                      fields and disciplines, including physics, machine
+                      learning, public policy, and business. Collaboratively, we
+                      evaluate research ideas, forecasting their potential
+                      impact and feasibility in furthering our mission. Our
+                      cohesive teamwork ensures an effective approach to
+                      advancing our goals.
                     </p>
                   </div>
 
@@ -240,13 +253,17 @@ export default function Careers() {
                             <div className="h4">Learning &amp; Scale</div>
 
                             <p className="text-b2 spacer-micro-mt">
-                              We provide an unparalleled opportunity for career advancement in a rapidly expanding field that is poised to revolutionize businesses indefinitely. Our platform offers a fresh beginning for individuals seeking to scale their professional trajectory and thrive in this transformative landscape.
+                              We provide an unparalleled opportunity for career
+                              advancement in a rapidly expanding field that is
+                              poised to revolutionize businesses indefinitely.
+                              Our platform offers a fresh beginning for
+                              individuals seeking to scale their professional
+                              trajectory and thrive in this transformative
+                              landscape.
                             </p>
 
                             <ul>
-                              <li className="text-b2">
-                                Profit Sharing
-                              </li>
+                              <li className="text-b2">Profit Sharing</li>
                               <li className="text-b2">
                                 Work with the best companies
                               </li>
@@ -257,9 +274,7 @@ export default function Careers() {
                                 Unlimited PTO – most staff take between 4-6
                                 weeks each year, sometimes more
                               </li>
-                              <li className="text-b2">
-                                Learning ans Coaching
-                              </li>
+                              <li className="text-b2">Learning ans Coaching</li>
                             </ul>
                           </div>
                         </div>
@@ -336,15 +351,16 @@ export default function Careers() {
                               </li>
                               <li className="text-b2">Commuter coverage</li>
                               <li className="text-b2">
-                                Annual Coaching seminers with Suisseblocks private Equity
+                                Annual Coaching seminers with Suisseblocks
+                                private Equity
                               </li>
                               <li className="text-b2">
-                                Access to invest in Private Equity through Suisseblocks
+                                Access to invest in Private Equity through
+                                Suisseblocks
                               </li>
                               <li className="text-b2">
                                 Retreats to the Swiss Mountains
                               </li>
-
                             </ul>
                           </div>
                         </div>
@@ -362,7 +378,11 @@ export default function Careers() {
 
                     <div className="block-content s:col-start-5 s:col-span-8 text-b2 is-bulleted">
                       <p className="text-b1">
-                        The interview process at SuisseGPT is tailored to each specific role and candidate, ensuring a comprehensive evaluation. While variations may occur, our standard procedure typically follows the structure outlined below:
+                        The interview process at SuisseGPT is tailored to each
+                        specific role and candidate, ensuring a comprehensive
+                        evaluation. While variations may occur, our standard
+                        procedure typically follows the structure outlined
+                        below:
                       </p>
                       <p>
                         <br />
@@ -377,7 +397,15 @@ export default function Careers() {
                       <h4>Step 2</h4>
                       <h2>Interview based on Role</h2>
                       <p>
-                        As part of our interview process at SuisseGPT, we arrange a discussion between our staff and the candidate to delve into their career interests and relevant experience. This conversation serves as an opportunity for the candidate to gain deeper insights into SuisseGPT as a company and its mission. Simultaneously, it enables our staff to better understand the candidate's professional aspirations and evaluate how their skills align with our organization.
+                        As part of our interview process at SuisseGPT, we
+                        arrange a discussion between our staff and the candidate
+                        to delve into their career interests and relevant
+                        experience. This conversation serves as an opportunity
+                        for the candidate to gain deeper insights into SuisseGPT
+                        as a company and its mission. Simultaneously, it enables
+                        our staff to better understand the candidate's
+                        professional aspirations and evaluate how their skills
+                        align with our organization.
                         <br />
                       </p>
 
@@ -391,20 +419,55 @@ export default function Careers() {
                         <li>
                           For operations or policy roles, you’ll get a take-home
                           assignment. These typically involve writing responses
-                          to several role-relevant questions; they mayFor candidates applying for operations or policy roles at SuisseGPT, a take-home assignment is typically included as part of the interview process. This assignment is designed to assess the candidate's capabilities and suitability for the role. It usually entails crafting written responses to a set of role-specific questions, occasionally necessitating external research.
-                          The time commitment for these assignments typically ranges between 2 to 5 hours, depending on the particular role. We believe this allows candidates to showcase their skills and knowledge effectively while striking a balance with their existing commitments.
-                          occasionally require some outside research.
-                          Assignments usually take between 2-5 hours, depending
-                          on the role.
+                          to several role-relevant questions; they mayFor
+                          candidates applying for operations or policy roles at
+                          SuisseGPT, a take-home assignment is typically
+                          included as part of the interview process. This
+                          assignment is designed to assess the candidate's
+                          capabilities and suitability for the role. It usually
+                          entails crafting written responses to a set of
+                          role-specific questions, occasionally necessitating
+                          external research. The time commitment for these
+                          assignments typically ranges between 2 to 5 hours,
+                          depending on the particular role. We believe this
+                          allows candidates to showcase their skills and
+                          knowledge effectively while striking a balance with
+                          their existing commitments. occasionally require some
+                          outside research. Assignments usually take between 2-5
+                          hours, depending on the role.
                         </li>
                         <li>
-                          The inclusion of a take-home assignment in our interview process at SuisseGPT serves multiple purposes. First and foremost, it is implemented to reduce bias and ensure that our hiring decisions are well-informed. By evaluating a candidate's actual work, we gain valuable insights into their potential performance on the job. Simultaneously, the assignment offers candidates a clearer understanding of the nature of work they can expect at SuisseGPT.
-                          We believe that a candidate's engagement and satisfaction while working on the take-home assignment can serve as an indicator of their suitability for the role. If a candidate demonstrates enthusiasm and enjoys tackling the assignment, it suggests a potential alignment with the responsibilities and challenges of the position. Similarly, if a candidate finds the assignment unappealing or unengaging, it may indicate a mismatch between their interests and the role itself.
-                          Overall, the inclusion of a take-home assignment benefits both the candidate and SuisseGPT by facilitating a more accurate assessment of skills, work style, and potential job satisfaction.
+                          The inclusion of a take-home assignment in our
+                          interview process at SuisseGPT serves multiple
+                          purposes. First and foremost, it is implemented to
+                          reduce bias and ensure that our hiring decisions are
+                          well-informed. By evaluating a candidate's actual
+                          work, we gain valuable insights into their potential
+                          performance on the job. Simultaneously, the assignment
+                          offers candidates a clearer understanding of the
+                          nature of work they can expect at SuisseGPT. We
+                          believe that a candidate's engagement and satisfaction
+                          while working on the take-home assignment can serve as
+                          an indicator of their suitability for the role. If a
+                          candidate demonstrates enthusiasm and enjoys tackling
+                          the assignment, it suggests a potential alignment with
+                          the responsibilities and challenges of the position.
+                          Similarly, if a candidate finds the assignment
+                          unappealing or unengaging, it may indicate a mismatch
+                          between their interests and the role itself. Overall,
+                          the inclusion of a take-home assignment benefits both
+                          the candidate and SuisseGPT by facilitating a more
+                          accurate assessment of skills, work style, and
+                          potential job satisfaction.
                         </li>
                         <li>
-
-                          At SuisseGPT, we understand and acknowledge that completing work assignments demands time and effort, and we recognize that these assignments may not perfectly mirror the actual responsibilities of the role. Nevertheless, we firmly believe that work tests serve as a valuable complement to interviews and reference checks.
+                          At SuisseGPT, we understand and acknowledge that
+                          completing work assignments demands time and effort,
+                          and we recognize that these assignments may not
+                          perfectly mirror the actual responsibilities of the
+                          role. Nevertheless, we firmly believe that work tests
+                          serve as a valuable complement to interviews and
+                          reference checks.
                         </li>
                       </ul>
                       <h4>Step 4</h4>
@@ -453,10 +516,10 @@ export default function Careers() {
                         skillset.
                         <br />
                         <br />
-                        Engineering interviews are carried out in a
-                        shared Python coding environment! like Google Colab.
-                        Frontend engineering interviews are in JavaScript. They
-                        have the form:
+                        Engineering interviews are carried out in a shared
+                        Python coding environment! like Google Colab. Frontend
+                        engineering interviews are in JavaScript. They have the
+                        form:
                         <br />
                         Here’s a description of a component from our stack.
                         Could you re-implement a toy version of it for me in one
@@ -558,8 +621,6 @@ export default function Careers() {
                             We do not provide feedback on resumes or interviews.
                           </p>
                         </div>
-
-
 
                         <div className="post ">
                           <div className="h4">

@@ -1,6 +1,5 @@
 import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
-import { Animation } from "./_document";
 import { Script } from "./_document";
 import { useEffect } from "react";
 import { NextSeo } from "next-seo";

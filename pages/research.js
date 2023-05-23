@@ -1,17 +1,23 @@
 import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
-import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
 
 export default function Research() {
   useEffect(() => {
-    Animation();
     setTimeout(() => {
       Script();
     }, 200);
   }, []);
+  const animation = () => {
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-first").style.opacity = "1";
+    }, 200);
+    setTimeout(() => {
+      document.querySelector("h1.heading .line-second").style.opacity = "1";
+    }, 350);
+  };
   return (
     <>
       <NextSeo
@@ -27,7 +33,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
         }}
       />
       <Header />
-      <div className="page-dom-content">
+      <div className="page-dom-content" onLoad={() => animation()}>
         <main data-taxi>
           <article data-taxi-view="default" data-handle="research">
             <div className="page-container">
@@ -37,10 +43,10 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                     className="heading s:col-start-3 s:col-span-8 "
                     data-triggers=""
                   >
-                    <div className="line-wrapper ">
+                    <div className="line-wrapper line-first">
                       <span className="line line-1">Secure AI Systems</span>
                     </div>
-                    <div className="line-wrapper text-right">
+                    <div className="line-wrapper line-second text-right">
                       <span className="line line-2">
                         Ensuring Their Privacy
                       </span>
