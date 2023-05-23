@@ -175,8 +175,8 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="../optimise2.assets-servd.host/anthropic-website/production/images/Company_Technology_4_3%402X9b8e.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250580&amp;s=d36904b4b63535054486c9090e247608"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Technology_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250580&amp;s=f44fde1e4901d576e7f5a531a42bb902 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Technology_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250580&amp;s=ee164775903d8c24d854e1f11de9a257 1152w"
+                                src="research.png"
+                                srcSet="research.png 1024w, research.png 1152w"
                                 alt="Company Technology 4 3 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />

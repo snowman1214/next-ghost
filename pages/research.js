@@ -232,7 +232,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
 
                 <div className="b-featuredPost ">
                   <a
-                    href="index/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback.html"
+                    href="https://suissegpt.ai/coreviews"
                     className="featured-post-wrapper bg-book-cloth"
                   >
                     <div className="post-info s:grid s:grid-12">
