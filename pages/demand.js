@@ -2,25 +2,27 @@ import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
-import { NextSeo } from 'next-seo';
-
+import { NextSeo } from "next-seo";
 
 export default function Demand() {
   useEffect(() => {
-    Script();
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
   return (
     <>
       <NextSeo
-          title="SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT"
-          description="
+        title="SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT"
+        description="
 Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy"
-          openGraph={{
-            url: 'http://suissegpt.ai',
-            title: 'SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT',
-            description: 'Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy.',
-
-          }}
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title:
+            "SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT",
+          description:
+            "Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy.",
+        }}
       />
       <Header />
       <div className="page-dom-content">
@@ -31,23 +33,19 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                 <div className="wrapper s:grid s:grid-12">
                   <div className="post-heading s:col-start-2 s:col-span-10 m:col-start-3 m:col-span-8 l:col-start-4 l:col-span-6">
                     <div className="post-detail-types-subjects">
-                      <a
-                        href="/#"
-                        className="btn-secondary btn-chip"
-                      >
+                      <a href="/#" className="btn-secondary btn-chip">
                         Company
                       </a>
 
-                      <a
-                        href="/#"
-                        className="btn-secondary btn-chip"
-                      >
+                      <a href="/#" className="btn-secondary btn-chip">
                         Announcements
                       </a>
                     </div>
 
                     <h2 className="spacer-medium-mt">
-                      SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy
+                      SuisseGPT and Demand Announce Strategic Partnership to
+                      Launch DemandGPT: The Leading AI for Go-to-Market and
+                      Sales Strategy
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
@@ -58,34 +56,75 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
 
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
                     <p className="text-b2">
-                      ZUG, SWITZERLAND - SuisseGPT, a trailblazer in the AI industry, announced today an exciting strategic partnership with Demand, a key player in the sales sector. Together, they are launching DemandGPT, a transformative artificial intelligence model tailored specifically for sales and go-to-market strategies.
-
-
+                      ZUG, SWITZERLAND - SuisseGPT, a trailblazer in the AI
+                      industry, announced today an exciting strategic
+                      partnership with Demand, a key player in the sales sector.
+                      Together, they are launching DemandGPT, a transformative
+                      artificial intelligence model tailored specifically for
+                      sales and go-to-market strategies.
                       <br />
                       <br />
-                      Combining the power of machine learning with a deep understanding of the sales industry, DemandGPT is a breakthrough in AI application, designed to empower organizations by personalizing their marketing efforts and maximizing sales opportunities. This innovative AI solution stands poised to disrupt the traditional sales landscape with its unprecedented functionality.{" "}
-                      DemandGPT features include personalized LinkedIn messaging, email personalization, and the ability to create and interpret complex data graphs, bringing the art of communication to a new, unparalleled level. A unique selling point of this advanced model is its sentiment analysis feature, enabling businesses to take action on replies, identify missed opportunities, and finely tune their strategies based on customers' emotions and attitudes.
+                      Combining the power of machine learning with a deep
+                      understanding of the sales industry, DemandGPT is a
+                      breakthrough in AI application, designed to empower
+                      organizations by personalizing their marketing efforts and
+                      maximizing sales opportunities. This innovative AI
+                      solution stands poised to disrupt the traditional sales
+                      landscape with its unprecedented functionality. DemandGPT
+                      features include personalized LinkedIn messaging, email
+                      personalization, and the ability to create and interpret
+                      complex data graphs, bringing the art of communication to
+                      a new, unparalleled level. A unique selling point of this
+                      advanced model is its sentiment analysis feature, enabling
+                      businesses to take action on replies, identify missed
+                      opportunities, and finely tune their strategies based on
+                      customers' emotions and attitudes.
                       <br />
                       <br />
-                      The model, which has been trained on over 2 million sales models, boasts an impressive 13 billion parameters, contributing to its high precision and capability to provide valuable insights. This in-depth learning enables the model to comprehend and predict sales trends, buyer behaviour and market shifts, thus facilitating data-driven decision-making and strategy development.
+                      The model, which has been trained on over 2 million sales
+                      models, boasts an impressive 13 billion parameters,
+                      contributing to its high precision and capability to
+                      provide valuable insights. This in-depth learning enables
+                      the model to comprehend and predict sales trends, buyer
+                      behaviour and market shifts, thus facilitating data-driven
+                      decision-making and strategy development.
                       <br />
                       <br />
-                      "Our partnership with Demand represents a leap forward in our commitment to providing AI solutions that drive meaningful outcomes," said the CEO of SuisseGPT. "DemandGPT not only increases the efficiency and effectiveness of sales strategies but also helps to create a more personalized, engaging experience for prospects."
+                      "Our partnership with Demand represents a leap forward in
+                      our commitment to providing AI solutions that drive
+                      meaningful outcomes," said the CEO of SuisseGPT.
+                      "DemandGPT not only increases the efficiency and
+                      effectiveness of sales strategies but also helps to create
+                      a more personalized, engaging experience for prospects."
                       <br />
                       <br />
-                      DemandGPT is a testament to the transformative power of AI and machine learning in the world of sales. By enabling businesses to tap into the immense potential of data-driven decision-making and personalized communication, this state-of-the-art solution stands to revolutionize the sales industry.
+                      DemandGPT is a testament to the transformative power of AI
+                      and machine learning in the world of sales. By enabling
+                      businesses to tap into the immense potential of
+                      data-driven decision-making and personalized
+                      communication, this state-of-the-art solution stands to
+                      revolutionize the sales industry.
                       <br />
                       <br />
                       <b>About SuisseGPT</b>
                       <br />
                       <br />
-                      SuisseGPT is a leading innovator in artificial intelligence, dedicated to developing advanced AI solutions that empower businesses across industries. Committed to driving meaningful change through technology, SuisseGPT's AI models are reshaping how businesses operate, compete and thrive.
+                      SuisseGPT is a leading innovator in artificial
+                      intelligence, dedicated to developing advanced AI
+                      solutions that empower businesses across industries.
+                      Committed to driving meaningful change through technology,
+                      SuisseGPT's AI models are reshaping how businesses
+                      operate, compete and thrive.
                       <br />
                       <br />
                       <b>About Demand</b>
                       <br />
                       <br />
-                      Demand is a frontrunner in the sales industry, dedicated to maximizing sales potential for businesses worldwide. With a focus on innovation and customer-centric solutions, Demand is transforming how businesses approach sales strategy and execution.
+                      Demand is a frontrunner in the sales industry, dedicated
+                      to maximizing sales potential for businesses worldwide.
+                      With a focus on innovation and customer-centric solutions,
+                      Demand is transforming how businesses approach sales
+                      strategy and execution.
                     </p>
 
                     <div className="b-social-share">

@@ -3,7 +3,7 @@ import Header from "@/components/layouts/header";
 import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
-import { NextSeo } from 'next-seo';
+import { NextSeo } from "next-seo";
 
 export default function Research() {
   useEffect(() => {
@@ -15,15 +15,16 @@ export default function Research() {
   return (
     <>
       <NextSeo
-          title="Research by SuisseGPT - Private AI models for the modern Enterprise"
-          description="
+        title="Research by SuisseGPT - Private AI models for the modern Enterprise"
+        description="
 Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
-          openGraph={{
-            url: 'http://suissegpt.ai',
-            title: 'Research by SuisseGPT - Private AI models for the modern Enterprise',
-            description: 'Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Tailored for Today\'s Enterprises, Proudly Hosted in Switzerland.',
-
-          }}
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title:
+            "Research by SuisseGPT - Private AI models for the modern Enterprise",
+          description:
+            "Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
+        }}
       />
       <Header />
       <div className="page-dom-content">
@@ -40,13 +41,21 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <span className="line line-1">Secure AI Systems</span>
                     </div>
                     <div className="line-wrapper text-right">
-                      <span className="line line-2">Ensuring Their Privacy</span>
+                      <span className="line line-2">
+                        Ensuring Their Privacy
+                      </span>
                     </div>
                   </h1>
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      We devote our efforts to the development of large-scale AI systems to scrutinize their safety attributes at the leading edge of technology, where the emergence of new issues is most probable. These insights serve to produce safer, more controllable, and reliable models. Furthermore, they facilitate the creation of systems that we deploy externally, like SuisseGPT.
+                      We devote our efforts to the development of large-scale AI
+                      systems to scrutinize their safety attributes at the
+                      leading edge of technology, where the emergence of new
+                      issues is most probable. These insights serve to produce
+                      safer, more controllable, and reliable models.
+                      Furthermore, they facilitate the creation of systems that
+                      we deploy externally, like SuisseGPT.
                     </p>
                   </div>
 
@@ -94,7 +103,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <h4>01</h4>
                       <h3>AI as a Methodical Discipline</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        Drawing inspiration from the universal scaling phenomena observed in statistical physics, we undertake the development of.{" "}
+                        Drawing inspiration from the universal scaling phenomena
+                        observed in statistical physics, we undertake the
+                        development of.{" "}
                         <a
                           href="https://arxiv.org/abs/2001.08361"
                           target="_blank"
@@ -102,7 +113,17 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                         >
                           scaling laws
                         </a>{" "}
-                        To facilitate systematic and empirically-driven research, our efforts are focused on identifying and establishing simple relationships among data, computations, parameters, and the performance of large-scale networks. By leveraging these relationships, we aim to enhance the efficiency and predictability of network training, as well as evaluate our advancements more effectively. Furthermore, we are actively exploring scaling laws pertaining to the safety of AI systems, as this exploration will significantly influence our future research endeavors.
+                        To facilitate systematic and empirically-driven
+                        research, our efforts are focused on identifying and
+                        establishing simple relationships among data,
+                        computations, parameters, and the performance of
+                        large-scale networks. By leveraging these relationships,
+                        we aim to enhance the efficiency and predictability of
+                        network training, as well as evaluate our advancements
+                        more effectively. Furthermore, we are actively exploring
+                        scaling laws pertaining to the safety of AI systems, as
+                        this exploration will significantly influence our future
+                        research endeavors.
                       </p>
                     </div>
 
@@ -110,7 +131,20 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <h4>02</h4>
                       <h3>Resilience and Expansion</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        At SuisseGPT, we prioritize safety research conducted on highly advanced models. With each passing year, we witness the emergence of larger neural networks that outperform their predecessors. However, these increased capabilities also introduce novel safety challenges. We diligently investigate and actively address the safety concerns associated with large models, aiming to enhance their reliability. Furthermore, we share our findings with the wider community and strive to improve the outcomes of safe deployment practices across the field. Currently, our primary focus revolves around prototyping systems that combine these safety techniques with text analysis tools, enabling comprehensive safety evaluation and analysis.
+                        At SuisseGPT, we prioritize safety research conducted on
+                        highly advanced models. With each passing year, we
+                        witness the emergence of larger neural networks that
+                        outperform their predecessors. However, these increased
+                        capabilities also introduce novel safety challenges. We
+                        diligently investigate and actively address the safety
+                        concerns associated with large models, aiming to enhance
+                        their reliability. Furthermore, we share our findings
+                        with the wider community and strive to improve the
+                        outcomes of safe deployment practices across the field.
+                        Currently, our primary focus revolves around prototyping
+                        systems that combine these safety techniques with text
+                        analysis tools, enabling comprehensive safety evaluation
+                        and analysis.
                       </p>
                     </div>
 
@@ -118,7 +152,18 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <h4>03</h4>
                       <h3>Tools and Measurements</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        We consider the critical evaluation of the societal implications of our work to be a fundamental principle of our research. Our approach revolves around the development of tools and metrics that enable us to comprehensively assess and comprehend the capabilities, constraints, and potential societal impacts of our AI systems. To gain insight into our research direction in this regard, we encourage you to explore some of the projects we have led or collaborated on in this domain. These initiatives shed light on our commitment to understanding and addressing the broader societal implications of AI technology.:{" "}
+                        We consider the critical evaluation of the societal
+                        implications of our work to be a fundamental principle
+                        of our research. Our approach revolves around the
+                        development of tools and metrics that enable us to
+                        comprehensively assess and comprehend the capabilities,
+                        constraints, and potential societal impacts of our AI
+                        systems. To gain insight into our research direction in
+                        this regard, we encourage you to explore some of the
+                        projects we have led or collaborated on in this domain.
+                        These initiatives shed light on our commitment to
+                        understanding and addressing the broader societal
+                        implications of AI technology.:{" "}
                         <a
                           href="https://arxiv.org/abs/2005.04305"
                           target="_blank"
@@ -158,7 +203,20 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <h4>04</h4>
                       <h3>Focused, Collaborative Research Efforts</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        Collaboration is of utmost importance to us in our project endeavors, and we strive to strike a balance between top-down and bottom-up research planning approaches. While maintaining a clear and focused research agenda, we place significant emphasis on inclusivity by involving a diverse group of stakeholders, including researchers, engineers, experts in societal impact, and policy analysts, in determining the direction of our work. We actively seek collaborations with other laboratories and researchers, recognizing that the most comprehensive and insightful research on characterizing these systems arises from a broad and interconnected community of researchers working together.
+                        Collaboration is of utmost importance to us in our
+                        project endeavors, and we strive to strike a balance
+                        between top-down and bottom-up research planning
+                        approaches. While maintaining a clear and focused
+                        research agenda, we place significant emphasis on
+                        inclusivity by involving a diverse group of
+                        stakeholders, including researchers, engineers, experts
+                        in societal impact, and policy analysts, in determining
+                        the direction of our work. We actively seek
+                        collaborations with other laboratories and researchers,
+                        recognizing that the most comprehensive and insightful
+                        research on characterizing these systems arises from a
+                        broad and interconnected community of researchers
+                        working together.
                       </p>
                     </div>
                   </div>
@@ -177,13 +235,16 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       </div>
 
                       <div className="heading h2 s:col-start-2 s:col-span-10 m:col-start-3 m:col-span-8">
-                        Cultivating a Safe and Beneficial Assistant through Reinforcement Learning from Human
-
+                        Cultivating a Safe and Beneficial Assistant through
+                        Reinforcement Learning from Human
                       </div>
 
                       <p className="short-description text-b2 s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
-                        This represents our second paper on AI alignment, delving into the methods of training a general language assistant to be useful, while ensuring it refrains from giving potentially harmful advice or demonstrating detrimental behaviors.
-
+                        This represents our second paper on AI alignment,
+                        delving into the methods of training a general language
+                        assistant to be useful, while ensuring it refrains from
+                        giving potentially harmful advice or demonstrating
+                        detrimental behaviors.
                       </p>
 
                       <div className="post-timestamp text-label s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">

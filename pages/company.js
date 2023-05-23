@@ -3,27 +3,27 @@ import Header from "@/components/layouts/header";
 import { Animation } from "./_document";
 import { useEffect } from "react";
 import { Script } from "./_document";
-import { NextSeo } from 'next-seo';
+import { NextSeo } from "next-seo";
 
 export default function Company() {
   useEffect(() => {
-    // Animation();
-    // setTimeout(() => {
-    Script();
-    // }, 200);
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
   return (
     <>
       <NextSeo
-          title="About SuisseGPT - Private AI models for the modern Enterprise"
-          description="
+        title="About SuisseGPT - Private AI models for the modern Enterprise"
+        description="
 Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
-          openGraph={{
-            url: 'http://suissegpt.ai',
-            title: 'About SuisseGPT - Private AI models for the modern Enterprise',
-            description: 'Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today\'s Enterprises, Proudly Hosted in Switzerland.',
-
-          }}
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title:
+            "About SuisseGPT - Private AI models for the modern Enterprise",
+          description:
+            "Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
+        }}
       />
       <Header />
       <div className="page-dom-content">
@@ -46,8 +46,9 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      SuisseGPT is a pioneering company in AI safety and research. Our expertise lies in building AI systems that are dependable, understandable, and easily directed.
-
+                      SuisseGPT is a pioneering company in AI safety and
+                      research. Our expertise lies in building AI systems that
+                      are dependable, understandable, and easily directed.
                     </p>
                   </div>
 
@@ -82,28 +83,43 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                     <div className="block-content s:col-start-5 s:col-span-8">
                       <h2>
-                        We are confident that AI will immensely transform our world. SuisseGPT is devoted to creating systems that individuals can rely on, while conducting research on the opportunities and risks that AI presents.
+                        We are confident that AI will immensely transform our
+                        world. SuisseGPT is devoted to creating systems that
+                        individuals can rely on, while conducting research on
+                        the opportunities and risks that AI presents.
                       </h2>
 
                       <div className="block-lists s:grid s:grid-8">
                         <div className="post s:col-start-1 s:col-span-4">
                           <div className="h4">Constructing Safer Systems</div>
                           <p className="text-b2 spacer-micro-mt">
-                            Our goal is to construct cutting-edge AI systems that are reliable, comprehensible, and easily steered. We conduct advanced research, develop and apply a host of safety techniques, and deploy the resultant systems via a network of partnerships and products.
+                            Our goal is to construct cutting-edge AI systems
+                            that are reliable, comprehensible, and easily
+                            steered. We conduct advanced research, develop and
+                            apply a host of safety techniques, and deploy the
+                            resultant systems via a network of partnerships and
+                            products.
                           </p>
                         </div>
 
                         <div className="post s:col-start-5 s:col-span-4">
                           <div className="h4">Safety as a Science</div>
                           <p className="text-b2 spacer-micro-mt">
-                            We regard AI safety as a rigorous scientific discipline. We conduct research, incorporate our findings into our products, relay these insights back into our research, and regularly share our acquired knowledge with the world.
+                            We regard AI safety as a rigorous scientific
+                            discipline. We conduct research, incorporate our
+                            findings into our products, relay these insights
+                            back into our research, and regularly share our
+                            acquired knowledge with the world.
                           </p>
                         </div>
 
                         <div className="post s:col-start-1 s:col-span-4">
                           <div className="h4">Interdisciplinary Approach</div>
                           <p className="text-b2 spacer-micro-mt">
-                            SuisseGPT brings together a cooperative team of researchers, engineers, policy experts, business leaders, and operators, each contributing their unique experience from various domains to our work.
+                            SuisseGPT brings together a cooperative team of
+                            researchers, engineers, policy experts, business
+                            leaders, and operators, each contributing their
+                            unique experience from various domains to our work.
                           </p>
                         </div>
 
@@ -112,7 +128,12 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                             A Single Piece in the Larger AI Puzzle
                           </div>
                           <p className="text-b2 spacer-micro-mt">
-                            We recognize that AI has the potential to drastically reshape the world. We perceive ourselves as one piece of this evolving puzzle, collaborating with civil society, government, academia, nonprofits, and industry to encourage safety in AI across the board.
+                            We recognize that AI has the potential to
+                            drastically reshape the world. We perceive ourselves
+                            as one piece of this evolving puzzle, collaborating
+                            with civil society, government, academia,
+                            nonprofits, and industry to encourage safety in AI
+                            across the board.
                           </p>
                         </div>
                       </div>
@@ -130,7 +151,10 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                     <div className="block-content s:col-start-1 s:col-span-12 m:col-start-5 m:col-span-8">
                       <p className="text-b1">
-                        Comprised of researchers, engineers, policy experts, and operational leaders, our team boasts experience from a wide range of disciplines. Together, we work towards building reliable and comprehensible AI systems.
+                        Comprised of researchers, engineers, policy experts, and
+                        operational leaders, our team boasts experience from a
+                        wide range of disciplines. Together, we work towards
+                        building reliable and comprehensible AI systems.
                       </p>
 
                       <div className="block-lists s:grid s:grid-12 m:grid-8">
@@ -157,7 +181,11 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                               Research
                             </div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              We conduct groundbreaking AI research across diverse modalities and delve into innovative and emerging safety research areas, including interpretability, RL from human feedback, policy, and societal impacts analysis.
+                              We conduct groundbreaking AI research across
+                              diverse modalities and delve into innovative and
+                              emerging safety research areas, including
+                              interpretability, RL from human feedback, policy,
+                              and societal impacts analysis.
                             </p>
                           </div>
                         </div>
@@ -183,8 +211,11 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                           <div className="block-list-info">
                             <div className="block-list-heading h3">Policy</div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              We contemplate the effects of our work and aim to convey our findings from the frontlines to policymakers and civil society both domestically and internationally, to foster the development of safe and reliable AI.
-
+                              We contemplate the effects of our work and aim to
+                              convey our findings from the frontlines to
+                              policymakers and civil society both domestically
+                              and internationally, to foster the development of
+                              safe and reliable AI.
                             </p>
                           </div>
                         </div>
@@ -210,7 +241,10 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                           <div className="block-list-info">
                             <div className="block-list-heading h3">Product</div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              We convert our research into practical, beneficial tools, such as SuisseGPT, which assist businesses, nonprofits, civil society groups, and their clients, impacting people worldwide.
+                              We convert our research into practical, beneficial
+                              tools, such as SuisseGPT, which assist businesses,
+                              nonprofits, civil society groups, and their
+                              clients, impacting people worldwide.
                             </p>
                           </div>
                         </div>
@@ -238,7 +272,13 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                               Operations
                             </div>
                             <p className="block-list-description text-b2 spacer-micro-mt">
-                              Our people, finance, legal, and recruiting teams serve as the human powerhouses driving SuisseGPT. With past experiences from institutions like Demand, startups, and the armed forces, our diverse backgrounds contribute to making SuisseGPT a fantastic place to work (and we are plant enthusiasts!).
+                              Our people, finance, legal, and recruiting teams
+                              serve as the human powerhouses driving SuisseGPT.
+                              With past experiences from institutions like
+                              Demand, startups, and the armed forces, our
+                              diverse backgrounds contribute to making SuisseGPT
+                              a fantastic place to work (and we are plant
+                              enthusiasts!).
                             </p>
                           </div>
                         </div>
@@ -263,7 +303,16 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                         <div className="h4">01</div>
                         <div className="h3">Mission Driven</div>
                         <p className="text-b2 spacer-micro-mt">
-                          SuisseGPT is committed to its mission: ensuring that transformative AI enriches the lives of people and society. We anticipate rapid progress in this decade, with increasingly competent systems presenting new challenges. We strive to fulfill our mission by constructing advanced systems, studying their behaviors, responsibly deploying them, and regularly sharing our safety insights. We also work in harmony with other projects and stakeholders with similar objectives.
+                          SuisseGPT is committed to its mission: ensuring that
+                          transformative AI enriches the lives of people and
+                          society. We anticipate rapid progress in this decade,
+                          with increasingly competent systems presenting new
+                          challenges. We strive to fulfill our mission by
+                          constructing advanced systems, studying their
+                          behaviors, responsibly deploying them, and regularly
+                          sharing our safety insights. We also work in harmony
+                          with other projects and stakeholders with similar
+                          objectives.
                         </p>
                       </div>
 
@@ -271,7 +320,14 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                         <div className="h4">02</div>
                         <div className="h3">Opt for Simple Solutions</div>
                         <p className="text-b2 spacer-micro-mt">
-                          We advocate for trying the simplest solution before opting for clever, novel ones. We embrace practicality - realistic approaches that acknowledge trade-offs. We value empiricism - learning what genuinely works through trial - and apply this to our research, engineering, and collaboration. We strive to be transparent about our understanding and knowledge gaps.
+                          We advocate for trying the simplest solution before
+                          opting for clever, novel ones. We embrace practicality
+                          - realistic approaches that acknowledge trade-offs. We
+                          value empiricism - learning what genuinely works
+                          through trial - and apply this to our research,
+                          engineering, and collaboration. We strive to be
+                          transparent about our understanding and knowledge
+                          gaps.
                         </p>
                       </div>
 
@@ -279,7 +335,13 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                         <div className="h4">03</div>
                         <div className="h3">Exceptionally High Trust</div>
                         <p className="text-b2 spacer-micro-mt">
-                          We foster a work environment characterized by exceptionally high trust: we assume goodwill, engage in respectful disagreements, and prioritize honesty. We expect emotional maturity and intellectual openness. At its best, this trust enables us to make superior organizational decisions than any one of us could individually.
+                          We foster a work environment characterized by
+                          exceptionally high trust: we assume goodwill, engage
+                          in respectful disagreements, and prioritize honesty.
+                          We expect emotional maturity and intellectual
+                          openness. At its best, this trust enables us to make
+                          superior organizational decisions than any one of us
+                          could individually.
                         </p>
                       </div>
 
@@ -287,7 +349,16 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                         <div className="h4">04</div>
                         <div className="h3">One Cohesive Team</div>
                         <p className="text-b2 spacer-micro-mt">
-                          Collaboration forms the bedrock of our work, culture, and value proposition. Despite having various teams within SuisseGPT, we foster the broader sense of unity, working together towards our mission. Leadership establishes the strategy, with wide-ranging input from everyone, and trusts each part of the organization to pursue these goals in their unique style. It's commonplace for individuals to contribute across diverse areas, further promoting a holistic, team-based approach.
+                          Collaboration forms the bedrock of our work, culture,
+                          and value proposition. Despite having various teams
+                          within SuisseGPT, we foster the broader sense of
+                          unity, working together towards our mission.
+                          Leadership establishes the strategy, with wide-ranging
+                          input from everyone, and trusts each part of the
+                          organization to pursue these goals in their unique
+                          style. It's commonplace for individuals to contribute
+                          across diverse areas, further promoting a holistic,
+                          team-based approach.
                         </p>
                       </div>
                     </div>

@@ -2,11 +2,13 @@ import Footer from "@/components/layouts/footer";
 import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
-import { NextSeo } from 'next-seo';
+import { NextSeo } from "next-seo";
 
 export default function Zoom() {
   useEffect(() => {
-    Script();
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
   return (
     <>
