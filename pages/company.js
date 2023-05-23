@@ -207,8 +207,8 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="../optimise2.assets-servd.host/anthropic-website/production/images/Company_Policy_4_3%402X0725.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=0b579f59672a83b05c784c3fda58f287"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Policy_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=203515517ae0e3e58c2fd1a2009e681d 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Policy_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=46139c9000dcddad99687ab12c8e64f6 1152w"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1152w"
                                 alt="Company Policy 4 3 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />
@@ -237,8 +237,8 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="../optimise2.assets-servd.host/anthropic-website/production/images/Company_Product_4_3%402Xe2f3.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=f80ec968c6a50ed2cb1f7095189ef767"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Product_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=116ff55bb394a0c7b137d4d17be280d5 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Product_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=1d2573a96ea4a909a16917a4035935d7 1152w"
+                                src="product.jpeg"
+                                srcSet="product.jpeg 1024w, product.jpeg 1152w"
                                 alt="Company Product 4 3 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />
@@ -266,8 +266,8 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="../optimise2.assets-servd.host/anthropic-website/production/images/Company_Ops_4_3%402X57fd.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=97d0ccc8b9bdc0597511a40877a66554"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Ops_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=45a70bda845e80ced71fd72176eeadcc 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Company_Ops_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250579&amp;s=6c5b439ce493a659e142788e15e5444b 1152w"
+                                src="operations.jpeg"
+                                srcSet="operations.jpeg 1024w, operations.jpeg 1152w"
                                 alt="Company Ops 4 3 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />
@@ -395,7 +395,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                   >
                     <a
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/zoom-partnership-and-investment.html"
+                      href="index/demand"
                       data-id="144538"
                       data-categories="company, announcements"
                     >
@@ -414,7 +414,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                     <a
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/claudes-constitution.html"
+                      href="constitution"
                       data-id="144316"
                       data-categories="company, announcements"
                     >
@@ -433,7 +433,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                     <a
                       className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/partnering-with-scale.html"
+                      href="suisseblocks"
                       data-id="143906"
                       data-categories="company, announcements"
                     >
