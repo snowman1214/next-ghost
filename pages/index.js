@@ -50,7 +50,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                   >
                     <div className="line-wrapper line-first">
                       <span className="line line-1">
-                        Pioneering AI <Link href="https://suissegpt.ai/research">research</Link> &{" "}
+                        Pioneering AI <Link href="/research">research</Link> &{" "}
                         <br />
                       </span>
                     </div>
@@ -132,7 +132,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                       </h3>
                       <link
                         className="btn-primary"
-                        href="https://suissegpt.ai/coreviews"
+                        href="/coreviews"
                         aria-label="Read More"
                       >
                         <span className="btn-label">
@@ -158,7 +158,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                       </h3>
                       <link
                         className="btn-primary"
-                        href="https://suissegpt.ai/careers"
+                        href="/careers"
                         aria-label="Work With Us"
                       >
                         <span className="btn-label">
