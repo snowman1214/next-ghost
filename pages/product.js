@@ -3,24 +3,26 @@ import Header from "@/components/layouts/header";
 import { Animation } from "./_document";
 import { Script } from "./_document";
 import { useEffect } from "react";
-import { NextSeo } from 'next-seo';
+import { NextSeo } from "next-seo";
 
 export default function Product() {
   useEffect(() => {
-    Script();
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
   return (
     <>
       <NextSeo
-          title="SuisseGPT a Generative AI model for the modern Enterprise"
-          description="
+        title="SuisseGPT a Generative AI model for the modern Enterprise"
+        description="
 Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterprises, Proudly Hosted in Switzerland."
-          openGraph={{
-            url: 'http://suissegpt.ai',
-            title: 'SuisseGPT a Generative AI model for the modern Enterprise',
-            description: 'Introducing SuisseGPT - a Private trained Generative AI model for Today\'s Enterprises, Proudly Hosted in Switzerland.',
-
-          }}
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title: "SuisseGPT a Generative AI model for the modern Enterprise",
+          description:
+            "Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterprises, Proudly Hosted in Switzerland.",
+        }}
       />
       <Header />
       <div className="page-dom-content">
@@ -47,9 +49,9 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                       <div className="s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
                         <div className="contentFade" data-triggers="inViewOnce">
                           <p className="description text-b1">
-                            A State-of-the-art AI Assistant Tailored to Your Tasks, Regardless of Their Magnitude
-                            Versatile, Adaptable, and Personalizable
-
+                            A State-of-the-art AI Assistant Tailored to Your
+                            Tasks, Regardless of Their Magnitude Versatile,
+                            Adaptable, and Personalizable
                           </p>
                         </div>
                       </div>
@@ -144,7 +146,9 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                         </div>
                         <div className="quote-wrapper stagger-item s:col-start-5 s:col-span-4">
                           <blockquote className="h4">
-                            Suisseblocks has already been a great partner, helped us scope real estate investment faster and find the right deals in the market in record time.
+                            Suisseblocks has already been a great partner,
+                            helped us scope real estate investment faster and
+                            find the right deals in the market in record time.
                           </blockquote>
                           <div className="attribution spacer-micro-mt">
                             <div className="hyphen">
@@ -162,7 +166,9 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                         </div>
                         <div className="quote-wrapper stagger-item s:col-start-9 s:col-span-4">
                           <blockquote className="h4">
-                            SuisseGPT's ability to sort through complex deals in no time, sentiment analasis has increased productivity by 10X.
+                            SuisseGPT's ability to sort through complex deals in
+                            no time, sentiment analasis has increased
+                            productivity by 10X.
                           </blockquote>
                           <div className="attribution spacer-micro-mt">
                             <div className="hyphen">
@@ -206,8 +212,13 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 Proficient, adaptable, personalized
                               </div>
                               <p className="text-b2 spacer-small-mt">
-
-                                SuisseGPT excels as a delightful corporate representative, a diligent research assistant, an innovative creative collaborator, a proficient task automator, and beyond. Its personality, tone, and behavior can be seamlessly tailored to meet your specific requirements and preferences.
+                                SuisseGPT excels as a delightful corporate
+                                representative, a diligent research assistant,
+                                an innovative creative collaborator, a
+                                proficient task automator, and beyond. Its
+                                personality, tone, and behavior can be
+                                seamlessly tailored to meet your specific
+                                requirements and preferences.
                               </p>
                             </div>
                           </div>
@@ -230,7 +241,9 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 Effortless Integration Through Standard APIs
                               </div>
                               <p className="text-b2 spacer-small-mt">
-                                With minimal effort, SuisseGPT can be integrated into any product or toolchain you are developing.
+                                With minimal effort, SuisseGPT can be integrated
+                                into any product or toolchain you are
+                                developing.
                               </p>
                             </div>
                           </div>
@@ -251,9 +264,12 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             <div className="list-content order-2">
                               <div className="h2">Reliable and dependable</div>
                               <p className="text-b2 spacer-small-mt">
-                                Thanks to the implementation of Constitutional AI and harmlessness training, you can trust SuisseGPT to accurately represent your company and its needs. SuisseGPT has been programmed to gracefully handle even potentially disagreeable or harmful conversational scenarios.
-
-
+                                Thanks to the implementation of Constitutional
+                                AI and harmlessness training, you can trust
+                                SuisseGPT to accurately represent your company
+                                and its needs. SuisseGPT has been programmed to
+                                gracefully handle even potentially disagreeable
+                                or harmful conversational scenarios.
                               </p>
                             </div>
                           </div>
@@ -272,9 +288,13 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                               </div>
                             </div>
                             <div className="list-content order-1">
-                              <div className="h2">Availability Round the Clock</div>
+                              <div className="h2">
+                                Availability Round the Clock
+                              </div>
                               <p className="text-b2 spacer-small-mt">
-                                SuisseGPT is perpetually available to you or your customers as required, supported by servers designed to scale and meet demanding workloads.
+                                SuisseGPT is perpetually available to you or
+                                your customers as required, supported by servers
+                                designed to scale and meet demanding workloads.
                                 Utilize the Power of SuisseGPT
                               </p>
                             </div>
@@ -335,7 +355,14 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT assures quick and cordial responses to customer service requests, thereby reducing costs and enhancing customer satisfaction. SuisseGPT is capable of learning when to escalate tasks to a human CSR, allowing your team to concentrate on the more intricate challenges.
+                                      SuisseGPT assures quick and cordial
+                                      responses to customer service requests,
+                                      thereby reducing costs and enhancing
+                                      customer satisfaction. SuisseGPT is
+                                      capable of learning when to escalate tasks
+                                      to a human CSR, allowing your team to
+                                      concentrate on the more intricate
+                                      challenges.
                                     </p>
                                   </div>
                                 </div>
@@ -360,7 +387,10 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT is equipped to analyze legal documents and answer questions about them, enabling lawyers to minimize costs and concentrate on more strategic tasks.
+                                      SuisseGPT is equipped to analyze legal
+                                      documents and answer questions about them,
+                                      enabling lawyers to minimize costs and
+                                      concentrate on more strategic tasks.
                                     </p>
                                   </div>
                                 </div>
@@ -385,8 +415,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      As an ever-ready active listening companion, SuisseGPT can aid personal growth as well as career development, providing a platform to either listen or offer advice.
-
+                                      As an ever-ready active listening
+                                      companion, SuisseGPT can aid personal
+                                      growth as well as career development,
+                                      providing a platform to either listen or
+                                      offer advice.
                                     </p>
                                   </div>
                                 </div>
@@ -411,7 +444,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT can seamlessly integrate with web search and private search across knowledge bases, transforming search results triggered by user queries into natural language answers.
+                                      SuisseGPT can seamlessly integrate with
+                                      web search and private search across
+                                      knowledge bases, transforming search
+                                      results triggered by user queries into
+                                      natural language answers.
                                     </p>
                                   </div>
                                 </div>
@@ -436,7 +473,12 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      SuisseGPT can handle an array of routine office tasks. It can extract pertinent information from emails and documents, categorize and summarize survey responses, and generally manage large volumes of text swiftly and accurately.
+                                      SuisseGPT can handle an array of routine
+                                      office tasks. It can extract pertinent
+                                      information from emails and documents,
+                                      categorize and summarize survey responses,
+                                      and generally manage large volumes of text
+                                      swiftly and accurately.
                                     </p>
                                   </div>
                                 </div>
@@ -461,8 +503,12 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   </div>
                                   <div className="description text-b2 s:col-start-7 s:col-span-4">
                                     <p>
-                                      As an always-on virtual sales representative, SuisseGPT can answer customer queries and guide them towards products that cater to their needs. SuisseGPT can be customized to reflect your brand's unique personality and tone.
-
+                                      As an always-on virtual sales
+                                      representative, SuisseGPT can answer
+                                      customer queries and guide them towards
+                                      products that cater to their needs.
+                                      SuisseGPT can be customized to reflect
+                                      your brand's unique personality and tone.
                                     </p>
                                   </div>
                                 </div>
@@ -483,7 +529,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             Build With the Skills of SuisseGPT
                           </h2>
                           <div className="description text-b1">
-                            SuisseGPT’s abilities can be amalgamated to simplify even the most intricate tasks.
+                            SuisseGPT’s abilities can be amalgamated to simplify
+                            even the most intricate tasks.
                           </div>
                         </div>
                         <div className="list-wrapper">
@@ -509,7 +556,12 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                               Manage Volumes of Text
                             </div>
 
-                            <div className="description text-b2">SuisseGPT is your solution for managing documents, emails, FAQs, chat transcripts, records, or any other text. SuisseGPT can edit, rewrite, summarize, classify, extract structured data, and conduct Q&A based on the content.
+                            <div className="description text-b2">
+                              SuisseGPT is your solution for managing documents,
+                              emails, FAQs, chat transcripts, records, or any
+                              other text. SuisseGPT can edit, rewrite,
+                              summarize, classify, extract structured data, and
+                              conduct Q&A based on the content.
                             </div>
                           </div>
                           <div className="list list-2">
@@ -535,7 +587,10 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             </div>
 
                             <div className="description text-b2">
-                              SuisseGPT can play various roles in a dialogue. Provide details about the role and FAQs for common queries, and SuisseGPT will participate in meaningful and natural conversations.
+                              SuisseGPT can play various roles in a dialogue.
+                              Provide details about the role and FAQs for common
+                              queries, and SuisseGPT will participate in
+                              meaningful and natural conversations.
                             </div>
                           </div>
 
@@ -560,7 +615,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             <div className="heading h4">Procure Answers</div>
 
                             <div className="description text-b2">
-                              SuisseGPT boasts a wide range of general knowledge derived from its extensive training corpus, encompassing technical, scientific, and cultural knowledge. SuisseGPT is proficient in numerous common languages as well as programming languages.
+                              SuisseGPT boasts a wide range of general knowledge
+                              derived from its extensive training corpus,
+                              encompassing technical, scientific, and cultural
+                              knowledge. SuisseGPT is proficient in numerous
+                              common languages as well as programming languages.
                             </div>
                           </div>
 
@@ -585,7 +644,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             <div className="heading h4">Automate workflows</div>
 
                             <div className="description text-b2">
-                              SuisseGPT is adept at handling basic instructions and logical scenarios, which include formatting outputs as needed, following if-then statements, and conducting a series of logical evaluations in a single prompt.
+                              SuisseGPT is adept at handling basic instructions
+                              and logical scenarios, which include formatting
+                              outputs as needed, following if-then statements,
+                              and conducting a series of logical evaluations in
+                              a single prompt.
                             </div>
                           </div>
                         </div>
@@ -802,10 +865,10 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   We currently offer two versions of SuisseGPT.
                                 </p>
                                 <p>
-                                  SuisseGPT - our most powerful model, which excels
-                                  at a wide range of tasks from sophisticated
-                                  dialogue and creative content generation to
-                                  detailed instruction following.
+                                  SuisseGPT - our most powerful model, which
+                                  excels at a wide range of tasks from
+                                  sophisticated dialogue and creative content
+                                  generation to detailed instruction following.
                                 </p>
                                 <p>
                                   SuisseGPT Instant - a faster and cheaper yet
@@ -938,12 +1001,12 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  SuisseGPT has the most training in English, but
-                                  also performs well in a range of other common
-                                  languages, and still has some ability to
-                                  communicate in less common languages. SuisseGPT
-                                  also has extensive knowledge of common{" "}
-                                  <em>programming</em> languages!
+                                  SuisseGPT has the most training in English,
+                                  but also performs well in a range of other
+                                  common languages, and still has some ability
+                                  to communicate in less common languages.
+                                  SuisseGPT also has extensive knowledge of
+                                  common <em>programming</em> languages!
                                 </p>
                               </div>
                             </article>
@@ -1002,11 +1065,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  No. SuisseGPT is designed to be self-contained,
-                                  and will respond without searching the
-                                  internet. You can, however, provide SuisseGPT
-                                  with text from the internet and ask it to
-                                  perform tasks with that content.
+                                  No. SuisseGPT is designed to be
+                                  self-contained, and will respond without
+                                  searching the internet. You can, however,
+                                  provide SuisseGPT with text from the internet
+                                  and ask it to perform tasks with that content.
                                 </p>
                               </div>
                             </article>
@@ -1143,14 +1206,15 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   SuisseGPT) that are aligned with people’s
                                   interests.
                                   <br />
-                                  <br />- Helpful: SuisseGPT wants to help the user
+                                  <br />- Helpful: SuisseGPT wants to help the
+                                  user
                                   <br />
-                                  <br />- Honest: SuisseGPT shares information it
-                                  believes to be true, and avoids made-up
+                                  <br />- Honest: SuisseGPT shares information
+                                  it believes to be true, and avoids made-up
                                   information
                                   <br />
-                                  <br />- Harmless: SuisseGPT will not cooperate in
-                                  aiding the user in harmful activities
+                                  <br />- Harmless: SuisseGPT will not cooperate
+                                  in aiding the user in harmful activities
                                 </p>
                                 <p>
                                   While no existing model is close to perfection
@@ -1225,11 +1289,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             >
                               <div className="faq-post s:col-start-1 s:col-span-6 text-b2">
                                 <p>
-                                  SuisseGPT’s behavior can be extensively modified
-                                  using prompting. Prompts can be used to
-                                  explain the desired role, task, and background
-                                  knowledge, as well as a few examples of
-                                  desired responses.
+                                  SuisseGPT’s behavior can be extensively
+                                  modified using prompting. Prompts can be used
+                                  to explain the desired role, task, and
+                                  background knowledge, as well as a few
+                                  examples of desired responses.
                                 </p>
                               </div>
                             </article>

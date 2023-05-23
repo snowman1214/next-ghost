@@ -4,13 +4,15 @@ import Footer from "@/components/layouts/footer";
 import { useEffect, useState } from "react";
 import { Script } from "./_document";
 import { Animation } from "./_document";
-import { NextSeo } from 'next-seo';
+import { NextSeo } from "next-seo";
 
 export default function News() {
   const [isListView, setIsListView] = useState(true);
 
   useEffect(() => {
-    Script();
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
 
   const toggleView = () => {
@@ -20,15 +22,15 @@ export default function News() {
   return (
     <>
       <NextSeo
-          title="News from SuisseGPT - Private AI models for the modern Enterprise"
-          description="
+        title="News from SuisseGPT - Private AI models for the modern Enterprise"
+        description="
 Learn the latest about SuisseGPT and our research."
-          openGraph={{
-            url: 'http://suissegpt.ai',
-            title: 'News from SuisseGPT - Private AI models for the modern Enterprise',
-            description: 'Learn the latest about SuisseGPT and our research.',
-
-          }}
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title:
+            "News from SuisseGPT - Private AI models for the modern Enterprise",
+          description: "Learn the latest about SuisseGPT and our research.",
+        }}
       />
       <Header />
       <div className="page-dom-content ">

@@ -8,8 +8,9 @@ import { NextSeo } from "next-seo";
 
 export default function Home() {
   useEffect(() => {
-    Animation();
-    Script();
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
   return (
     <>

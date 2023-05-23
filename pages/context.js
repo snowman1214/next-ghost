@@ -5,7 +5,9 @@ import { Script } from "./_document";
 
 export default function Context() {
   useEffect(() => {
-    Script();
+    setTimeout(() => {
+      Script();
+    }, 200);
   }, []);
   return (
     <>
