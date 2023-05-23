@@ -385,7 +385,7 @@ export default function Demand() {
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/demand"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/coreviews"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -404,7 +404,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/demand"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/coreviews"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -427,7 +427,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/demand"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/coreviews"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"
