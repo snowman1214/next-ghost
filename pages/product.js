@@ -103,14 +103,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                       style={{ Aspect: "39.0625%" }}
                       data-scroll
                     >
-                      <img
-                        className=""
-                        sizes="100vw"
-                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner8198.png?w=1920&amp;h=750&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=f126c7f71416e711da9a57662c6b8060"
-                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=37eb0c28c093427bc82d7b1f608a3e91 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner.png?w=1440&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=27318a958bc4dc69c14686a069a28a88 1440w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Banner.png?w=1920&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678491964&amp;s=ebcb9dfc932d0c286683f21f3f2bb846 1920w"
-                        alt="SuisseGPT Banner"
-                        style={{ objectPosition: "50% 50%" }}
-                      />
+                   
                     </div>
                   </div>
                 </div>

@@ -439,7 +439,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Partnering with Suisseblovks to Bring Generative AI to
+                          Partnering with Suisseblocks to Bring Generative AI to
                           Enterprises
                         </div>
 
