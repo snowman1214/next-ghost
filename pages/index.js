@@ -132,7 +132,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                       </h3>
                       <a
                         className="btn-primary"
-                        href="index/core-views-on-ai-safety.html"
+                        href="/coreviews"
                         aria-label="Read More"
                       >
                         <span className="btn-label">
@@ -158,7 +158,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                       </h3>
                       <a
                         className="btn-primary"
-                        href="careers"
+                        href="/careers"
                         aria-label="Work With Us"
                       >
                         <span className="btn-label">
