@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import logo from "./logo.svg";
+import logomobile from "./logowhite.svg";
 import Image from "next/image";
 
 const Header = () => {
@@ -61,8 +62,13 @@ const Header = () => {
           className="core-mobile-nav wrapper xs:grid xs:grid-2"
           style={isMobile ? { display: "block" } : { display: "none" }}
         >
+
+
           <div className="controls xs:grid xs:grid-2 xs:col-start-1 xs:col-span-2">
             <div className="logo-mark xs:col-start-1 xs:col-span-1">
+              <div className="logo">
+                <Image src={logomobile} alt="dd"></Image>
+              </div>
               <a href="index">
                 <svg
                   width="46"
@@ -71,10 +77,7 @@ const Header = () => {
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
                 >
-                  <path
-                    d="M32.73 0h-6.945L38.45 32h6.945L32.73 0ZM12.665 0 0 32h7.082l2.59-6.72h13.25l2.59 6.72h7.082L19.929 0h-7.264Zm-.702 19.337 4.334-11.246 4.334 11.246h-8.668Z"
-                    fill="#FAFAF7"
-                  />
+
                 </svg>
               </a>
             </div>
