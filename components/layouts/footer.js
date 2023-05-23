@@ -1,5 +1,5 @@
 import Link from "next/link";
-import logo from "./logo.svg";
+import logowhite from "./logowhite.svg";
 import Image from "next/image";
 
 const Footer = () => {
@@ -9,11 +9,11 @@ const Footer = () => {
         <div className="logo-mark xs:col-start-1 xs:col-span-1">
           <a href="index" aria-label="AI logo mark">
             <div className="logo">
-              <Image src={logo} alt="dd"></Image>
+              <Image src={logowhite} alt="dd"></Image>
             </div>
             <svg
               width="220"
-              height="32"
+              height="220"
               viewBox="0 0 46 32"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
