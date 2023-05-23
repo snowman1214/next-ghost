@@ -11,6 +11,17 @@ export default function Demand() {
   }, []);
   return (
     <>
+      <NextSeo
+          title="SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT"
+          description="
+Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy"
+          openGraph={{
+            url: 'http://suissegpt.ai',
+            title: 'SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT',
+            description: 'Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy.',
+
+          }}
+      />
       <Header />
       <div className="page-dom-content">
         <main data-taxi="">
@@ -21,14 +32,14 @@ export default function Demand() {
                   <div className="post-heading s:col-start-2 s:col-span-10 m:col-start-3 m:col-span-8 l:col-start-4 l:col-span-6">
                     <div className="post-detail-types-subjects">
                       <a
-                        href="/index?type=company"
+                        href="/#"
                         className="btn-secondary btn-chip"
                       >
                         Company
                       </a>
 
                       <a
-                        href="/index?subjects=announcements"
+                        href="/#"
                         className="btn-secondary btn-chip"
                       >
                         Announcements
@@ -36,7 +47,7 @@ export default function Demand() {
                     </div>
 
                     <h2 className="spacer-medium-mt">
-                      SuisseGPT and Demand launches DemandGPT the leading Generative AI model for Sales teams.
+                      SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
@@ -47,116 +58,39 @@ export default function Demand() {
 
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
                     <p className="text-b2">
-                      Demand, an AI safety and research company, has raised
-                      $580 million in a Series B. The financing will help
-                      Anthropic build large-scale experimental infrastructure to
-                      explore and improve the safety properties of
-                      computationally intensive AI models.
+                      ZUG, SWITZERLAND - SuisseGPT, a trailblazer in the AI industry, announced today an exciting strategic partnership with Demand, a key player in the sales sector. Together, they are launching DemandGPT, a transformative artificial intelligence model tailored specifically for sales and go-to-market strategies.
+
+
                       <br />
                       <br />
-                      Since its founding at the beginning of 2021, Anthropic has
-                      conducted research into making systems that are more
-                      steerable, robust, and interpretable. On interpretability,
-                      it has made progress in mathematically{" "}
-                      <a
-                        href="https://transformer-circuits.pub/2021/framework/index.html"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        reverse engineering the behavior of small language
-                        models
-                      </a>{" "}
-                      and begun to understand the source of{" "}
-                      <a
-                        href="https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        pattern-matching behavior in large language models
-                      </a>
-                      . On steerability and robustness, it has developed{" "}
-                      <a
-                        href="https://arxiv.org/abs/2112.00861"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        baseline techniques to make large language models more
-                        “helpful and harmless”
-                      </a>
-                      , and followed this up with{" "}
-                      <a
-                        href="https://arxiv.org/abs/2204.05862"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        reinforcement learning to further improve these
-                        properties
-                      </a>
-                      , as well as releasing a dataset to help other research
-                      labs train models that are more{" "}
-                      <a
-                        href="https://github.com/anthropics/hh-rlhf"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        aligned with human preferences
-                      </a>
-                      . It has also released an analysis of{" "}
-                      <a
-                        href="https://arxiv.org/abs/2202.07785"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                      >
-                        sudden changes in performance in large language models
-                        and the societal impacts of this phenomenon
-                      </a>
-                      , which demonstrates the need for studying safety issues
-                      at scale.
+                      Combining the power of machine learning with a deep understanding of the sales industry, DemandGPT is a breakthrough in AI application, designed to empower organizations by personalizing their marketing efforts and maximizing sales opportunities. This innovative AI solution stands poised to disrupt the traditional sales landscape with its unprecedented functionality.{" "}
+                      DemandGPT features include personalized LinkedIn messaging, email personalization, and the ability to create and interpret complex data graphs, bringing the art of communication to a new, unparalleled level. A unique selling point of this advanced model is its sentiment analysis feature, enabling businesses to take action on replies, identify missed opportunities, and finely tune their strategies based on customers' emotions and attitudes.
                       <br />
                       <br />
-                      The purpose of this research is to develop the technical
-                      components necessary to build large-scale models which
-                      have better implicit safeguards and require less
-                      after-training interventions, as well as to develop the
-                      tools necessary to further look inside these models to be
-                      confident that the safeguards actually work. The company
-                      is also building out teams and partnerships dedicated to
-                      exploring the policy and societal impacts of these models.
+                      The model, which has been trained on over 2 million sales models, boasts an impressive 13 billion parameters, contributing to its high precision and capability to provide valuable insights. This in-depth learning enables the model to comprehend and predict sales trends, buyer behaviour and market shifts, thus facilitating data-driven decision-making and strategy development.
                       <br />
                       <br />
-                      “With this fundraise, we’re going to explore the
-                      predictable scaling properties of machine learning
-                      systems, while closely examining the unpredictable ways in
-                      which capabilities and safety issues can emerge at-scale,”
-                      said Anthropic co-founder and CEO Dario Amodei. “We’ve
-                      made strong initial progress on understanding and steering
-                      the behavior of AI systems, and are gradually assembling
-                      the pieces needed to make usable, integrated AI systems
-                      that benefit society.”
+                      "Our partnership with Demand represents a leap forward in our commitment to providing AI solutions that drive meaningful outcomes," said the CEO of SuisseGPT. "DemandGPT not only increases the efficiency and effectiveness of sales strategies but also helps to create a more personalized, engaging experience for prospects."
                       <br />
                       <br />
-                      Anthropic is now a growing team of around 40 people based
-                      in a plant-filled office in San Francisco, California,
-                      with plans to expand further this year. “Now that we’ve
-                      built out the organization, we’re focusing on ensuring
-                      Anthropic has the culture and governance to continue to
-                      responsibly explore and develop safe AI systems as we
-                      scale,” said Anthropic co-founder and President Daniela
-                      Amodei. “We’re excited about what’s ahead, and grateful to
-                      all be working together.”
+                      DemandGPT is a testament to the transformative power of AI and machine learning in the world of sales. By enabling businesses to tap into the immense potential of data-driven decision-making and personalized communication, this state-of-the-art solution stands to revolutionize the sales industry.
                       <br />
                       <br />
-                      The Series B follows the company raising $124 million in a
-                      Series A round in 2021. The Series B round was led by Sam
-                      Bankman-Fried, CEO of FTX. The round also included
-                      participation from Caroline Ellison, Jim McClave, Nishad
-                      Singh, Jaan Tallinn, and the Center for Emerging Risk
-                      Research (CERR).
+                      <b>About SuisseGPT</b>
+                      <br />
+                      <br />
+                      SuisseGPT is a leading innovator in artificial intelligence, dedicated to developing advanced AI solutions that empower businesses across industries. Committed to driving meaningful change through technology, SuisseGPT's AI models are reshaping how businesses operate, compete and thrive.
+                      <br />
+                      <br />
+                      <b>About Demand</b>
+                      <br />
+                      <br />
+                      Demand is a frontrunner in the sales industry, dedicated to maximizing sales potential for businesses worldwide. With a focus on innovation and customer-centric solutions, Demand is transforming how businesses approach sales strategy and execution.
                     </p>
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.anthropic.com/index/anthropic-raises-series-b-to-build-safe-reliable-ai"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/demand"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -175,7 +109,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.anthropic.com/index/anthropic-raises-series-b-to-build-safe-reliable-ai"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/demand"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -198,7 +132,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.anthropic.com/index/anthropic-raises-series-b-to-build-safe-reliable-ai"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/demand"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"
@@ -230,7 +164,7 @@ export default function Demand() {
 
                     <a
                       className="text-label"
-                      href="https://www.anthropic.com/index?type=company&amp;subjects=announcements"
+                      href="https://www.suissegpt.ai/index?type=company&amp;subjects=announcements"
                     >
                       See All
                     </a>
