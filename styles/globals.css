@@ -3615,7 +3615,7 @@ img,video {
 }
 
 .btn-primary.btn-light:hover,a.btn-primary.btn-light:hover {
-  background-color: #e5e4df
+  background-color: #61aaf2
 }
 
 .btn-primary.btn-light:focus:not(:active),a.btn-primary.btn-light:focus:not(:active) {
@@ -3842,7 +3842,7 @@ img,video {
 }
 
 .btn-icon.btn-light:hover,a.btn-icon.btn-light:hover {
-  background-color: #e5e4df
+  background-color: #61aaf2
 }
 
 .btn-icon.btn-light:focus:not(:active),a.btn-icon.btn-light:focus:not(:active) {
@@ -4642,7 +4642,7 @@ body:not(.loading) .b-hero-staggered {
   }
 
   .overlay .btn-overlay-close:hover {
-      background-color: #e5e4df
+      background-color: #61aaf2
   }
 
   .overlay .btn-overlay-close:focus:not(:active) {
