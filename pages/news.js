@@ -535,7 +535,7 @@ Learn the latest about SuisseGPT and our research."
                         </a>
                         <Link
                           className="post post-22  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="/anthropic"
+                          href="/demand"
                           data-id="1117"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -1318,7 +1318,7 @@ Learn the latest about SuisseGPT and our research."
                       </a>
                       <Link
                         className="post post-22  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                        href="/anthropic"
+                        href="/demand"
                         data-id="1117"
                         data-categories="company, announcements"
                         style={{ display: "block" }}

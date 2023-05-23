@@ -5,7 +5,7 @@ import { Script } from "./_document";
 import { NextSeo } from 'next-seo';
 
 
-export default function Anthropic() {
+export default function Demand() {
   useEffect(() => {
     Script();
   }, []);
@@ -36,19 +36,18 @@ export default function Anthropic() {
                     </div>
 
                     <h2 className="spacer-medium-mt">
-                      Anthropic Raises Series B to Build Steerable,
-                      Interpretable, Robust AI Systems
+                      SuisseGPT and Demand launches DemandGPT the leading Generative AI model for Sales teams.
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
-                      Apr 29, 2022
+                      May 25, 2023
                       <span className="is-bullet">●</span>2 min read
                     </div>
                   </div>
 
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
                     <p className="text-b2">
-                      Anthropic, an AI safety and research company, has raised
+                      Demand, an AI safety and research company, has raised
                       $580 million in a Series B. The financing will help
                       Anthropic build large-scale experimental infrastructure to
                       explore and improve the safety properties of
