@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import logo from "./logo.svg";
+import logomobile from "./logowhite.svg";
 import Image from "next/image";
 
 const Header = () => {
@@ -61,6 +62,10 @@ const Header = () => {
           className="core-mobile-nav wrapper xs:grid xs:grid-2"
           style={isMobile ? { display: "block" } : { display: "none" }}
         >
+          <div className="logo">
+          <Image src={logomobile} alt="dd"></Image>
+        </div>
+
           <div className="controls xs:grid xs:grid-2 xs:col-start-1 xs:col-span-2">
             <div className="logo-mark xs:col-start-1 xs:col-span-1">
               <a href="index">
