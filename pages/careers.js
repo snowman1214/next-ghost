@@ -58,7 +58,7 @@ export default function Careers() {
                       evaluate research ideas, forecasting their potential
                       impact and feasibility in furthering our mission. Our
                       cohesive teamwork ensures an effective approach to
-                      advancing our goals.
+                      advancing our goals and do what people thought was impossible.
                     </p>
                   </div>
 
