@@ -418,7 +418,7 @@ Learn the latest about SuisseGPT and our research."
                         </Link>
                         <Link
                           className="post post-7  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="https://www.suissegpt.ai/demand"
+                          href="https://www.suissegpt.ai/coreviews"
                           data-id="59890"
                           data-categories="product, announcements"
                           style={{ display: "block" }}
