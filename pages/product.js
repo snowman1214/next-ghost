@@ -243,7 +243,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             <div className="asset-container order-1">
                               <div className="video-container">
                                 <video
-                                  src="https://res.cloudinary.com/dftbihnlb/video/upload/v1684917433/Hey_SuisseGPT_I_want_you_to_tell_me_how_to_f7autc.mp4"
+                                  src="https://res.cloudinary.com/dftbihnlb/video/upload/v1684917557/Hey_SuisseGPT_I_want_you_to_tell_me_how_to_1_yx3y0e.mp4"
                                   preload="meta"
                                   muted
                                   loop
