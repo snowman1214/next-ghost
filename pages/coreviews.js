@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Demand() {
   useEffect(() => {
@@ -470,68 +471,68 @@ export default function Demand() {
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
-                      className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="https://www.suissegpt.ai/demand"
-                      data-id="144538"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-category text-label">Company </div>
+                      <Link
+                          className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
+                          href="https://www.suissegpt.ai/languagemodels"
+                          data-id="144538"
+                          data-categories="company, announcements"
+                      >
+                          <div className="post-info">
+                              <div className="post-category text-label">Company </div>
 
-                        <div className="post-heading h4">
-                          Demand Partnership with SuisseGPT
-                        </div>
+                              <div className="post-heading h4">
+                                  Private, Scalable and Secure
+                              </div>
 
-                        <div className="post-timestamp text-label">
-                          May 16, 2023
-                          <span className="is-bullet">●</span>
-                          56 sec read
-                        </div>
-                      </div>
-                    </a>
+                              <div className="post-timestamp text-label">
+                                  May 16, 2023
+                                  <span className="is-bullet">●</span>
+                                  56 sec read
+                              </div>
+                          </div>
+                      </Link>
 
-                    <a
-                      className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="https://www.suissegpt.ai/constitution"
-                      data-id="144316"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-category text-label">Company </div>
+                      <a
+                          className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
+                          href="/suisseblocks"
+                          data-id="144316"
+                          data-categories="company, announcements"
+                      >
+                          <div className="post-info">
+                              <div className="post-category text-label">Company </div>
 
-                        <div className="post-heading h4">
-                            SuisseGPT’s Constitution
-                        </div>
+                              <div className="post-heading h4">
+                                  Partnering with Suisseblocks to Bring Generative AI to
+                                  Enterprises
+                              </div>
 
-                        <div className="post-timestamp text-label">
-                          May 9, 2023
-                          <span className="is-bullet">●</span>
-                          15 min read
-                        </div>
-                      </div>
-                    </a>
+                              <div className="post-timestamp text-label">
+                                  May 9, 2023
+                                  <span className="is-bullet">●</span>
+                                  1 min read
+                              </div>
+                          </div>
+                      </a>
 
-                    <a
-                      className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="https://www.suissegpt.ai/demand"
-                      data-id="143906"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-category text-label">Company </div>
+                      <Link
+                          className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
+                          href="/demand"
+                          data-id="143906"
+                          data-categories="company, announcements"
+                      >
+                          <div className="post-info">
+                              <div className="post-category text-label">Company </div>
 
-                        <div className="post-heading h4">
-                          Partnering with Scale to Bring Generative AI to
-                          Enterprises
-                        </div>
+                              <div className="post-heading h4">
+                                  Demand Partnership with SuisseGPT
+                              </div>
 
-                        <div className="post-timestamp text-label">
-                          Apr 26, 2023
-                          <span className="is-bullet">●</span>1 min read
-                        </div>
-                      </div>
-                    </a>
+                              <div className="post-timestamp text-label">
+                                  Apr 26, 2023
+                                  <span className="is-bullet">●</span>1 min read
+                              </div>
+                          </div>
+                      </Link>
                   </div>
                 </div>
               </section>
