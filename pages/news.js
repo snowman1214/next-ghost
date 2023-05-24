@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { Script } from "./_document";
 import { Animation } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function News() {
   const [isListView, setIsListView] = useState(false);
@@ -376,7 +377,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
                           </div>
                         </Link>
-                        <a
+                        <Link
                           className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
                           href="https://www.suissegpt.ai/suisseblocks"
                           data-id="143906"
@@ -414,8 +415,8 @@ Learn the latest about SuisseGPT and our research."
                               <span className="is-bullet">●</span>1 min read
                             </div>
                           </div>
-                        </a>
-                        <a
+                        </Link>
+                        <Link
                           className="post post-7  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                           href="https://www.suissegpt.ai/demand"
                           data-id="59890"
@@ -453,7 +454,7 @@ Learn the latest about SuisseGPT and our research."
                               <span className="is-bullet">●</span>3 min read
                             </div>
                           </div>
-                        </a>
+                        </Link>
 
                       </div>
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
