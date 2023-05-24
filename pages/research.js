@@ -109,10 +109,8 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                     <div className="principle">
                       <h4>01</h4>
                       <h3>AI as a Rigorous Science</h3>
-                      <p Drawing on the principles of universal scaling phenomena from statistical physics, we are committed to devising scaling laws to promote systematic and data-driven research. Our primary focus is to identify and establish uncomplicated relationships between data, computations, parameters, and the performance of large-scale networks. Utilizing these relationships, we aim to optimize the predictability and efficiency of network training, along with improving the effectiveness of our performance assessments. Furthermore, our ongoing research is oriented towards exploring scaling laws relevant to AI system safety, a critical area that will profoundly influence our future research directions.
-
-
-                    </p>
+                      <p className="text-b2 spacer-micro-mt">Drawing on the principles of universal scaling phenomena from statistical physics, we are committed to devising scaling laws to promote systematic and data-driven research. Our primary focus is to identify and establish uncomplicated relationships between data, computations, parameters, and the performance of large-scale networks. Utilizing these relationships, we aim to optimize the predictability and efficiency of network training, along with improving the effectiveness of our performance assessments. Furthermore, our ongoing research is oriented towards exploring scaling laws relevant to AI system safety, a critical area that will profoundly influence our future research directions.
+                   </p>
                     </div>
 
                     <div className="principle">
