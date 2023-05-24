@@ -497,7 +497,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
                           </div>
                         </Link>
-                        
+
 
                       </div>
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
