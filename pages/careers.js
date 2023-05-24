@@ -241,8 +241,8 @@ export default function Careers() {
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 50vw"
-                                src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-01_3_4%402X2566.jpg?w=1152&amp;h=1536&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=3d7c6d63b05ad230b709e66099c15d10"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-01_3_4@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=3dedce96e00d35f7d95642b01542ad0a 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-01_3_4@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=2dd4768119973824f96df0af9d4b9410 1152w"
+                                src="team1.jpeg"
+                                srcSet="team1.jpeg 1024w, team1.jpeg 1152w"
                                 alt="Careers Benefits 01 3 4 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />
