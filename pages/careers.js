@@ -168,22 +168,7 @@ export default function Careers() {
                           />
                         </div>
                       </div>
-                      <div className="slide">
-                        <div
-                          className="lazyPicture aspect-ratio "
-                          style={{ "--aspect": "100%" }}
-                          data-scroll
-                        >
-                          <img
-                            className=""
-                            sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-06_1_1%402Xdf67.jpg?w=1152&amp;h=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=76ce742bd9459bafa69adaa564313961"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-06_1_1@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=b7bf3d7aa0e860053130bebc1c3d4d1a 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-06_1_1@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=ea350c449a80f9ebd0f13191ba39b0f2 1152w"
-                            alt="Careers Carousel 06 1 1 2 X"
-                            style={{ objectPosition: "50% 50%" }}
-                          />
-                        </div>
-                      </div>
+                      
 
 
                     </div>
