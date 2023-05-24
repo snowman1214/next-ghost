@@ -393,26 +393,26 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
-                      className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                     <link href="demand"</link>
-                      data-id="144538"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Demand Partnership with SuisseGPT
-                        </div>
+                    <link
+                        className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
+                    <link href="demand"</link>
+                  data-id="144538"
+                  data-categories="company, announcements"</link>
 
-                        <div className="post-timestamp text-label">
-                          May 16, 2023
-                          <span className="is-bullet">&#9679;</span>
-                          56 sec read
-                        </div>
-                      </div>
-                    </a>
+                <div className="post-info">
+                  <div className="post-heading h4">
+                    Demand Partnership with SuisseGPT
+                  </div>
 
-                    <a
+                  <div className="post-timestamp text-label">
+                    May 16, 2023
+                    <span className="is-bullet">&#9679;</span>
+                    56 sec read
+                  </div>
+                </div>
+
+
+                <a
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
                       href="constitution"
                       data-id="144316"
