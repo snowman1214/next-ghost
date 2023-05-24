@@ -168,7 +168,7 @@ export default function Careers() {
                           />
                         </div>
                       </div>
-                      
+
 
 
                     </div>
@@ -645,7 +645,7 @@ export default function Careers() {
                         <div className="post ">
                           <div className="h4">Internships</div>
                           <p className="text-b2 spacer-micro-mt">
-                            We do not offer internships.
+                            We do offer internships.
                           </p>
                         </div>
                       </div>
@@ -680,7 +680,7 @@ export default function Careers() {
                             Systems
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            2 Open Roles
+                            1 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -717,31 +717,7 @@ export default function Careers() {
                           id="role-content-11"
                           className="role-content s:grid s:grid-12"
                         >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Senior Infrastructure Engineer</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              The systems we build are the foundation to our
-                              research. You'll touch all parts of our code and
-                              infrastructure, whether that’s building
-                              large-scale distributed systems, improving the
-                              robustness and reliability of large langua…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
+                         
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Site Reliability Engineer (Zug)</h3>
                             <p className="text-b2 spacer-micro-mt">
