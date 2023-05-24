@@ -717,14 +717,14 @@ export default function Careers() {
                           id="role-content-11"
                           className="role-content s:grid s:grid-12"
                         >
-                         
+
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Site Reliability Engineer (Zug)</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We're looking for a Site Reliability Engineer who
                               can work in the European time zone. You'll ensure the
                               high availability and performance of our
-                              Kubernetes clusters that power machine learning
+                              clusters that power machine learning
                               research and services…
                             </p>
                             <a
@@ -760,7 +760,7 @@ export default function Careers() {
                             Security
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            5 Open Roles
+                            1 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -801,110 +801,10 @@ export default function Careers() {
                             <h3>IT Support Specialist</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We are looking for an entry level IT Support
-                              Specialist, who will take ownership of IT asset
+                              Specialist, who will run the IT asset
                               management, device configuration and deployment,
                               and user support. Successful candidates will have
-                              excellent communication skills, a…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>IT Support Specialist (Zug)</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              We are looking for an entry level IT Support
-                              Specialist, who will take ownership of IT asset
-                              management, device configuration and deployment,
-                              and user support. Successful candidates will have
-                              excellent communication skills, a…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Security &amp; Privacy Engineer</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              You want to ensure SuisseGPT’s success enabled by
-                              regulatory compliance. You understand how to
-                              develop engineering for privacy and compliance
-                              controls while minimizing friction for staff,
-                              particularly our engineers and produc…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                               Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Security Engineer &amp; Compliance Manager</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              At SuisseGPT, we believe new AI capabilities are
-                              best achieved through secure foundations, not in
-                              spite of them. As capabilities grow more advanced,
-                              it is critical that progress moves forward safely
-                              and for the benefit of all…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                            Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Senior Software Security Engineer</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              You want to protect SuisseGPT's most valuable
-                              assets from both opportunists and nation states.
-                              You live in a Secure by Design mindset, and
-                              understand how to communicate that vision to
-                              software engineers and leaders. You under…
+                              excellent communication skills!
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
