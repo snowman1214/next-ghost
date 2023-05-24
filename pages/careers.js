@@ -145,8 +145,8 @@ export default function Careers() {
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-04_3_4%402X8aa6.jpg?w=1152&amp;h=1536&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=324cd8ffbfc0d5dad12e22ed1dbb52fa"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-04_3_4@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=1dc8ff76cdc0ab852b9c753a9ca693a0 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-04_3_4@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=55c420bb72107d21eead4b75cf197566 1152w"
+                            src="engineer.jpeg"
+                            srcSet="engineer.jpeg 1152w"
                             alt="Careers Carousel 04 3 4 2 X"
                             style={{ objectPosition: "50% 50%" }}
                           />
@@ -161,8 +161,8 @@ export default function Careers() {
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-05_4_3%402Xb48b.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250577&amp;s=5f0548cda4ff2dabdacf3a8e00ed3a54"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-05_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250577&amp;s=a2e278e68b9f9eefbccf5a1cf0fc1e71 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-05_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250577&amp;s=4b207b0eae41b2d07e7132ffa66c0fed 1152w"
+                            src="running.jpeg"
+                            srcSet="running.jpeg 1024w, running.jpeg 1152w"
                             alt="Careers Carousel 05 4 3 2 X"
                             style={{ objectPosition: "50% 50%" }}
                           />
@@ -184,38 +184,8 @@ export default function Careers() {
                           />
                         </div>
                       </div>
-                      <div className="slide">
-                        <div
-                          className="lazyPicture aspect-ratio "
-                          style={{ "--aspect": "75%" }}
-                          data-scroll
-                        >
-                          <img
-                            className=""
-                            sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-07_4_3%402X3223.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=99f6d0273368b8b425cb5375549e3cfe"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-07_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=d934d68b06a5922faeb5ce74f6cba9ab 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-07_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=3f85fcf6bfc8a22d23f2173ae400f377 1152w"
-                            alt="Careers Carousel 07 4 3 2 X"
-                            style={{ objectPosition: "50% 50%" }}
-                          />
-                        </div>
-                      </div>
-                      <div className="slide">
-                        <div
-                          className="lazyPicture aspect-ratio "
-                          style={{ "--aspect": "133.33333333333%" }}
-                          data-scroll
-                        >
-                          <img
-                            className=""
-                            sizes="(max-width: 699px) 100vw, 33vw"
-                            src="compensation.jpeg"
-                            srcSet="compensation.jpeg 1024w, compensation.jpeg 1152w"
-                            alt="Careers Carousel 08 3 4 2 X"
-                            style={{ objectPosition: "50% 50%" }}
-                          />
-                        </div>
-                      </div>
+
+
                     </div>
                   </div>
                 </div>
