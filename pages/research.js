@@ -551,226 +551,35 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
 
                     <a
                       className="post post-4  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/superposition-memorization-and-double-descent.html"
+                      href="deeper"
                       data-id="3433"
                       data-categories="research, interpretability"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Superposition, Memorization, and Double Descent
+                          Assessing the Self-Awareness of Language Models: A Deeper Understanding of What They Know
+
                         </div>
 
                         <div className="post-timestamp text-label">
-                          Jan 5, 2023
+                          April 12, 2023
                         </div>
                       </div>
                     </a>
 
                     <a
                       className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/discovering-language-model-behaviors-with-model-written-evaluations.html"
+                      href="advancements"
                       data-id="3426"
                       data-categories="research, alignment"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Discovering Language Model Behaviors with
-                          Model-Written Evaluations
+                          Assessing Advancements in Scalable Supervision of Large Language Models
                         </div>
 
                         <div className="post-timestamp text-label">
-                          Dec 19, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-6  s:col-start-7 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/constitutional-ai-harmlessness-from-ai-feedback.html"
-                      data-id="3398"
-                      data-categories="research, alignment"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Constitutional AI: Harmlessness from AI Feedback
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Dec 15, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-7  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/measuring-progress-on-scalable-oversight-for-large-language-models.html"
-                      data-id="3412"
-                      data-categories="research, alignment"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Measuring Progress on Scalable Oversight for Large
-                          Language Models
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Nov 4, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-8  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/toy-models-of-superposition.html"
-                      data-id="3405"
-                      data-categories="research, interpretability"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Toy Models of Superposition
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Sep 14, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-9  s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned.html"
-                      data-id="3391"
-                      data-categories="research, societal-impact"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Red Teaming Language Models to Reduce Harms: Methods,
-                          Scaling Behaviors, and Lessons Learned
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Aug 22, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-10  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/language-models-mostly-know-what-they-know.html"
-                      data-id="3362"
-                      data-categories="research, alignment"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Language Models (Mostly) Know What They Know
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Jul 11, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-11  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/softmax-linear-units.html"
-                      data-id="3381"
-                      data-categories="research, interpretability"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Softmax Linear Units
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Jun 17, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-12  s:col-start-7 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/scaling-laws-and-interpretability-of-learning-from-repeated-data.html"
-                      data-id="3372"
-                      data-categories="research, interpretability"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Scaling Laws and Interpretability of Learning from
-                          Repeated Data
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          May 21, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-13  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/in-context-learning-and-induction-heads.html"
-                      data-id="1510"
-                      data-categories="research, interpretability"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          In-context Learning and Induction Heads
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Mar 8, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-14  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/predictability-and-surprise-in-large-generative-models.html"
-                      data-id="1462"
-                      data-categories="research, societal-impact"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          Predictability and Surprise in Large Generative Models
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Feb 15, 2022
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-15  s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/a-mathematical-framework-for-transformer-circuits.html"
-                      data-id="1429"
-                      data-categories="research, interpretability"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          A Mathematical Framework for Transformer Circuits
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Dec 22, 2021
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-16  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/a-general-language-assistant-as-a-laboratory-for-alignment.html"
-                      data-id="1408"
-                      data-categories="research, alignment"
-                    >
-                      <div className="post-info">
-                        <div className="post-heading h4">
-                          A General Language Assistant as a Laboratory for
-                          Alignment
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Dec 1, 2021
+                          March 18, 2023
                         </div>
                       </div>
                     </a>
