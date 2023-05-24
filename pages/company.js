@@ -395,7 +395,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                   >
                     <a
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/demand"
+                     <link href="demand"</link>
                       data-id="144538"
                       data-categories="company, announcements"
                     >
