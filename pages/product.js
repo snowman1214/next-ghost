@@ -1510,23 +1510,23 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
+                    <Link
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/100k-context-windows.html"
+                      href="/suisseai"
                       data-id="144353"
                       data-categories="product, announcements"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Introducing 100K Context Windows
+                          Private, Scalable and Secure
                         </div>
 
                         <div className="post-timestamp text-label">
-                          May 11, 2023
+                          March 6, 2023
                           <span className="is-bullet">&#9679;</span>1 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
                     <Link
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
@@ -1548,13 +1548,13 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
 
                     <Link
                       className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="/demand"
+                      href="/suisseblocks"
                       data-id="7578"
                       data-categories="product, announcements"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Introducing SuisseGPT
+                          SuisseAI and Swissblock Private Equity Announce Strategic Partnership
                         </div>
 
                         <div className="post-timestamp text-label">

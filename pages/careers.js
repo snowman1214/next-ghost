@@ -945,7 +945,7 @@ export default function Careers() {
                             Product (Trust and Safety)
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            No Open Roles
+                            0 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
