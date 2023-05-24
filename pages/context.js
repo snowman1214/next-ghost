@@ -54,7 +54,7 @@ export default function Context() {
                     </figure>
                     <p>
                       <br />
-                      We’ve expanded Claude’s context window from 9K to 100K
+                      We’ve expanded SuisseGPT's context window from 9K to 100K
                       tokens, corresponding to around 75,000 words! This means
                       businesses can now submit{" "}
                       <strong>hundreds of pages</strong> of materials for Claude
@@ -65,9 +65,9 @@ export default function Context() {
                       The average person can read 100,000 tokens of text in ~5+
                       hours<sup>[1]</sup>, and then they might need
                       substantially longer to digest, remember, and analyze that
-                      information. Claude can now do this in less than a minute.
+                      information. SuisseGPT can now do this in less than a minute.
                       For example, we loaded the entire text of The Great Gatsby
-                      into Claude-Instant (72K tokens) and modified one line to
+                      into SuisseGPT-Instant (72K tokens) and modified one line to
                       say Mr. Carraway was “a software engineer that works on
                       machine learning tooling at SuisseGPT.” When we asked the
                       model to spot what was different, it responded with the
@@ -77,10 +77,10 @@ export default function Context() {
                       Beyond just reading long texts, SuisseGPT can help retrieve
                       information from the documents that help your business
                       run. You can drop multiple documents or even a book into
-                      the prompt and then ask Claude questions that require
+                      the prompt and then ask SuisseGPT questions that require
                       synthesis of knowledge across many parts of the text. For
                       complex questions, this is likely to work substantially
-                      better than vector search based approaches. Claude can
+                      better than vector search based approaches. SuisseGPT can
                       follow your instructions and return what you’re looking
                       for, as a human assistant would!
                       <br />
@@ -100,10 +100,10 @@ export default function Context() {
                       means for their business. 100K translates into roughly 6
                       hours of audio - AssemblyAI put out a great demonstration
                       of this where they transcribed a long podcast into 58K
-                      words and then used Claude for summarization and Q&amp;A.
+                      words and then used SuisseGPT for summarization and Q&amp;A.
                       You can watch the full demo{" "}
                       <a
-                        href="https://youtu.be/2kFhloXz5_E"
+                        href="https://youtu.be/"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -148,7 +148,7 @@ export default function Context() {
 
                     <p>
                       100K context windows are now available in our API. If you
-                      are working with Claude, you can read more about what
+                      are working with SuisseGPT, you can read more about what
                       model versions to call{" "}
                       <a
                         href="https://console.suissegpt.ai/docs/api/reference#-v1-complete"
