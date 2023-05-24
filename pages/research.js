@@ -483,7 +483,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
 
                     <a
                       className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/distributed-representations-composition-superposition.html"
+                      href="coreviews"
                       data-id="144299"
                       data-categories="research, interpretability"
                     >
@@ -496,8 +496,8 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/background-title-20ad69.png?w=2560&amp;h=1440&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683213132&amp;s=0847dabe234c516e6fc341922ce4f3de"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/background-title-20.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683213132&amp;s=c52b450a3a61a868b77f30966ab26bcf 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/background-title-20.png?w=1440&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683213132&amp;s=5a38bea99cf7fe8c14e6251027a86791 1440w, https://optimise2.assets-servd.host/anthropic-website/production/images/background-title-20.png?w=1920&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683213132&amp;s=a6841417ce5c6dad19bc399923e2d648 1920w, https://optimise2.assets-servd.host/anthropic-website/production/images/background-title-20.png?w=2560&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683213132&amp;s=a082d317346828bd9564316735388477 2560w"
+                            src="logo.png"
+                            srcSet="logo.png 1024w, logo.png 1440w, logo.png 1920w, logo.png 2560w"
                             alt="Background title 20"
                             style={{ objectPosition: "50% 50%" }}
                           />
@@ -506,19 +506,18 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
 
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Distributed Representations: Composition &amp;
-                          Superposition
+                          SuisseGPT's Comprehensive Perspectives on Artificial Intelligence Safety: Timelines, Justifications, Objectives, and Strategies
                         </div>
 
                         <div className="post-timestamp text-label">
-                          May 4, 2023
+                          May 23, 2023
                         </div>
                       </div>
                     </a>
 
                     <a
                       className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/privileged-bases-in-the-transformer-residual-stream.html"
+                      href="coreviews"
                       data-id="27641"
                       data-categories="research, interpretability"
                     >
