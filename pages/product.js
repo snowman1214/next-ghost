@@ -335,7 +335,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       style={{ Aspect: "75.189393939394%" }}
                                       data-scroll
                                     >
-                                      <img
+                                      <video
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="https://res.cloudinary.com/dftbihnlb/video/upload/v1684949533/Copy_of_Hey_SuisseGPT_I_want_you_to_tell_me_how_to_bczftf.mp4"
