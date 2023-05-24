@@ -482,7 +482,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                     <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"></div>
                     <div className="post-col post-col-3 m:col-start-9 m:col-span-4"></div>
 
-                    <a
+                    <Link
                       className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                       href="coreviews"
                       data-id="144299"
@@ -514,9 +514,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           May 23, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
                       href="languagemodels"
                       data-id="27641"
@@ -531,9 +531,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           May 16, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-3  s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
                       href="predictablemodels"
                       data-id="3419"
@@ -548,9 +548,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           May 16, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-4  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
                       href="deeper"
                       data-id="3433"
@@ -566,9 +566,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           April 12, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
                       href="advancements"
                       data-id="3426"
@@ -583,7 +583,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           March 18, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
 
                   <button
