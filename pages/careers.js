@@ -772,40 +772,40 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/46e8dfc4-dd8e-4aaf-b76c-6a4eb4d0f05b"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
                             </a>
                           </div>
                           <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Site Reliability Engineer (London)</h3>
+                            <h3>Site Reliability Engineer (Zug)</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We're looking for a Site Reliability Engineer who
-                              can work in the UK time zone. You'll ensure the
+                              can work in the European time zone. You'll ensure the
                               high availability and performance of our
                               Kubernetes clusters that power machine learning
                               research and services…
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/ce4d8201-3f82-47c6-8f85-893633964205"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -876,22 +876,22 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/f5c4dd19-9016-4a8f-8b5c-40b1d9c6e0fb"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
                             </a>
                           </div>
                           <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>IT Support Specialist (London)</h3>
+                            <h3>IT Support Specialist (Zug)</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We are looking for an entry level IT Support
                               Specialist, who will take ownership of IT asset
@@ -901,15 +901,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/5be0c8d3-0d10-41fc-8b27-2a8ba24feb45"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -926,15 +926,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/fa89b679-44ed-4a81-9ac8-92cb6f994624"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                               Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -951,15 +951,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/95a1e700-e9b9-4e28-8edf-0e37b1dc12e6"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                            Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -976,15 +976,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/3b9ed1d3-84f7-4c90-91dd-749496d8668c"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1055,15 +1055,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/19264368-c86b-4e02-b583-bdba6fa33114"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                               Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1080,15 +1080,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/436ca148-6440-460f-b2a2-3334d9b142a5"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                              Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1105,15 +1105,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/eb9e6d83-626c-4f59-8a0e-fa7c413b2014"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1130,15 +1130,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/9ba1d7b4-5b21-4ac9-86f3-875a15c8a091"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1209,15 +1209,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/0a243b90-3ccc-47df-8be3-bd2e9e02d968"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1234,15 +1234,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/180dd02e-2998-4d74-a729-6b5c1f38521f"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                               Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1259,15 +1259,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/d728c097-cee5-4f1a-9ee1-f8b44ba3cdd7"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1338,15 +1338,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/671ceefc-e7c9-4a83-9edb-1feeb5566928"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1417,15 +1417,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/3cee20df-daee-4f13-be46-971ea995324c"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1442,15 +1442,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/a3d92c73-443e-429e-ad3d-f3ece914b2e8"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1467,15 +1467,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/e3cde481-d446-460f-b576-93cab67bd1ed"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1492,15 +1492,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/3bfd8fb0-7841-498e-9672-40a22b2131a9"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                LeaOpening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1517,22 +1517,22 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/8b85d37f-6201-489a-853e-a4523aeb45b8"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
                             </a>
                           </div>
                           <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Senior Software Engineer (London) - Product</h3>
+                            <h3>Senior Software Engineer (Zug) - Product</h3>
                             <p className="text-b2 spacer-micro-mt">
                               SuisseGPT’s mission is to create reliable,
                               interpretable, and steerable AI systems. We want
@@ -1542,15 +1542,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/e89010c4-219b-476d-a141-5fea2c46879a"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1567,15 +1567,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/c6a4fe8d-b41f-4491-9d3c-a4d38eef5069"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1592,15 +1592,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/5a893c9f-3a2a-4bba-b8f6-62fa6d0fd6c9"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1671,15 +1671,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/501d1401-e53c-4f9d-a3dc-2791f3190181"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1696,15 +1696,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/feeaa0e5-f355-4556-99ef-805923a528dd"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1775,15 +1775,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/b110d63c-4b8b-4371-86dd-6f27c4de7b2e"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1854,15 +1854,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/b79a39a9-5fed-4c7a-b02c-4cc53e36df48"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1936,15 +1936,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/b232e963-6852-4177-bc3f-927443198411"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -1961,15 +1961,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/395287aa-d433-438d-8a85-2f6ca9456975"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -2040,15 +2040,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/721e7a4a-64b9-476d-913f-2510753a3263"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -2065,15 +2065,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/0eae2370-1879-4d15-801b-d3d50a9f0c89"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -2144,15 +2144,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/8331ffad-d6d3-47db-8058-3e711859580a"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -2169,15 +2169,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/86de1f62-e77a-4f13-998a-ee6f413c7eed"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -2194,15 +2194,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/4514416d-3803-4ceb-aa72-ea085fa971ba"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
@@ -2219,15 +2219,15 @@ export default function Careers() {
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
-                              href="https://jobs.lever.co/Anthropic/434881d1-5bda-46e6-b2ea-28cdfd625e4c"
+                              href="#"
                               target="_blank"
                               rel="noopener"
                             >
                               <span className="btn-label">
-                                Learn More &amp; Apply
+                                Opening Soon
                                 <span
                                   className="btn-anim"
-                                  title="Learn More &amp; Apply"
+                                  title="Opening Soon"
                                   aria-hidden="true"
                                 ></span>
                               </span>
