@@ -208,8 +208,8 @@ export default function Careers() {
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-08_3_4%402Xef87.jpg?w=1152&amp;h=1536&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=446ee7c98fcb1938fb9b8c0349585869"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-08_3_4@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=aa686b11814f00d192d08e649397d1d3 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-08_3_4@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250578&amp;s=0bed34f27e8c71387c9fa539f5c61657 1152w"
+                            src="compensation.jpeg"
+                            srcSet="compensation.jpeg 1024w, compensation.jpeg 1152w"
                             alt="Careers Carousel 08 3 4 2 X"
                             style={{ objectPosition: "50% 50%" }}
                           />
@@ -289,8 +289,8 @@ export default function Careers() {
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 50vw"
-                                src="keyboard.webp"
-                                srcSet="keyboard.webp 1024w, keyboard.webp 1440w, keyboard.webp 1536w"
+                                src="compensation.jpeg"
+                                srcSet="compensation.jpeg 1024w, compensation.jpeg 1440w, compensation.jpeg 1536w"
                                 alt="Careers Benefits 02 1 1 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />
