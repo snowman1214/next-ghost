@@ -130,7 +130,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                         Fundamental Perspectives on AI Safety: The Timing,
                         Rationale, Objectives, and Implementation.
                       </h3>
-                      <a
+                      <Link
                         className="btn-primary"
                         href="/coreviews"
                         aria-label="Read More"
@@ -143,7 +143,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                             aria-hidden="true"
                           ></span>
                         </span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                   <div className="cta-2 s:col-start-7 s:col-span-6 flex spacer-gap-mt">
@@ -156,7 +156,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                         Are you keen on contributing to the development of a
                         secure AI future?
                       </h3>
-                      <a
+                      <Link
                         className="btn-primary"
                         href="/careers"
                         aria-label="Work With Us"
@@ -169,7 +169,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
                             aria-hidden="true"
                           ></span>
                         </span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>
