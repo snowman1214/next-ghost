@@ -338,7 +338,7 @@ Learn the latest about SuisseGPT and our research."
                       <div className="post-col post-col-1 s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4">
                         <Link
                           className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="/zoom"
+                          href="/demand"
                           data-id="144538"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -378,7 +378,7 @@ Learn the latest about SuisseGPT and our research."
                         </Link>
                         <a
                           className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
-                          href="https://www.suissegpt.ai/demand"
+                          href="https://www.suissegpt.ai/suisseblocks"
                           data-id="143906"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -406,12 +406,11 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                              Partnering with Scale to Bring Generative AI to
-                              Enterprises
+                             SuisseGPT and Suisseblocks Private Equity form partnership to roll out SuisseGPT
                             </div>
 
                             <div className="post-timestamp text-label">
-                              Apr 26, 2023
+                              Apr 29, 2023
                               <span className="is-bullet">●</span>1 min read
                             </div>
                           </div>
@@ -442,15 +441,15 @@ Learn the latest about SuisseGPT and our research."
 
                           <div className="post-info">
                             <div className="post-category text-label">
-                              Product{" "}
+                              Research{" "}
                             </div>
 
                             <div className="post-heading h4">
-                              Demand and SuisseGPT
+                              SuisseGPT's Comprehensive Perspectives on Artificial Intelligence Safety: Timelines, Justifications, Objectives, and Strategies
                             </div>
 
                             <div className="post-timestamp text-label">
-                              Mar 30, 2023
+                              May 24, 2023
                               <span className="is-bullet">●</span>3 min read
                             </div>
                           </div>
@@ -460,7 +459,7 @@ Learn the latest about SuisseGPT and our research."
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
                         <Link
                           className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                          href="/context"
+                          href="/predictablemodels"
                           data-id="144353"
                           data-categories="product, announcements"
                           style={{ display: "block" }}
@@ -474,8 +473,8 @@ Learn the latest about SuisseGPT and our research."
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="https://optimise2.assets-servd.host/anthropic-website/production/images/GeneralConsoleImprovements_Card.png?w=1312&amp;h=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683744657&amp;s=d97909cdcc848054e5fa0c1744e5c608"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/GeneralConsoleImprovements_Card.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683744657&amp;s=35ab87d55f7dd6120cf7a3948f0eb35a 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/GeneralConsoleImprovements_Card.png?w=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683744657&amp;s=26339c345249864db11790b20551cf61 1312w"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1312w"
                                 alt="General Console Improvements Card"
                                 style={{ objectPosition: "50% 50%" }}
                               />
@@ -484,11 +483,11 @@ Learn the latest about SuisseGPT and our research."
 
                           <div className="post-info">
                             <div className="post-category text-label">
-                              Product{" "}
+                              Research{" "}
                             </div>
 
                             <div className="post-heading h4">
-                              Introducing 100K Context Windows
+                              Predictability Versus Surprise: The Paradox of Large Generative Models
                             </div>
 
                             <div className="post-timestamp text-label">
