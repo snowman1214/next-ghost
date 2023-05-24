@@ -497,6 +497,49 @@ Learn the latest about SuisseGPT and our research."
                             </div>
                           </div>
                         </Link>
+                        
+
+                      </div>
+                      <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
+                        <Link
+                            className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
+                            href="/suissai"
+                            data-id="144353"
+                            data-categories="product, announcements"
+                            style={{ display: "block" }}
+                        >
+                          <div className="post-card-photo">
+                            <div
+                                className="lazyPicture aspect-ratio "
+                                style={{ Aspect: "100%" }}
+                                data-scroll=""
+                            >
+                              <img
+                                  className=""
+                                  sizes="(max-width: 699px) 100vw, 33vw"
+                                  src="policy.png"
+                                  srcSet="policy.png 1024w, policy.png 1312w"
+                                  alt="General Console Improvements Card"
+                                  style={{ objectPosition: "50% 50%" }}
+                              />
+                            </div>
+                          </div>
+
+                          <div className="post-info">
+                            <div className="post-category text-label">
+                              Research{" "}
+                            </div>
+
+                            <div className="post-heading h4">
+                              Announcing the Launch of Our Private, Swiss-Made Generative AI - Elevating Data Security, Privacy and Innovation for Enterprises
+                            </div>
+
+                            <div className="post-timestamp text-label">
+                              March 6, 2023
+                              <span className="is-bullet">●</span>1 min read
+                            </div>
+                          </div>
+                        </Link>
 
 
 
