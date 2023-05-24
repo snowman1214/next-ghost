@@ -156,7 +156,7 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Zoom Partnership and Investment in Anthropic
+                          Demand Partnership with SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">

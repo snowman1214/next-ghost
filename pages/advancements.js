@@ -147,7 +147,7 @@ export default function Demand() {
                   >
                     <a
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="https://www.suissegpt.ai/languagemodels"
+                      href="https://www.suissegpt.ai/demand"
                       data-id="144538"
                       data-categories="company, announcements"
                     >
@@ -155,7 +155,7 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Zoom Partnership and Investment in Anthropic
+                          Demand Partnership with SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -168,7 +168,7 @@ export default function Demand() {
 
                     <a
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="https://www.suissegpt.ai/languagemodels"
+                      href="https://www.suissegpt.ai/demand"
                       data-id="144316"
                       data-categories="company, announcements"
                     >

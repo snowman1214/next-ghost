@@ -570,7 +570,7 @@ Learn the latest about SuisseGPT and our research."
                     >
                       <Link
                         className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                        href="/zoom"
+                        href="/demand"
                         data-id="144538"
                         data-categories="company, announcements"
                         style={{ display: "block" }}
