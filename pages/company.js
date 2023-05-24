@@ -415,13 +415,13 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                     <Link
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="constitution"
+                      href="/suisseai"
                       data-id="144316"
                       data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          SuisseGPT’s Constitution
+                          Private, Scalable and Secure
                         </div>
 
                         <div className="post-timestamp text-label">
