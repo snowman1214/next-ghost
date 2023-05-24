@@ -500,7 +500,7 @@ export default function Careers() {
                         machine learning topics, and you can ask to pass on that
                         one if you wish. You do not need to learn anything about
                         machine learning before interviewing as an engineer at
-                        Anthropic.
+                        SuisseGPT.
                         <br />
                         <br />
                         Research interviews are broader in form. They’ll include
@@ -549,7 +549,7 @@ export default function Careers() {
                             - If you’ve an engineering background, please apply
                             as an engineer. You’ll perform much better in the
                             interviews, and if you join you’ll have as much
-                            input to Anthropic’s direction and interests as
+                            input to SuisseGPT’s direction and interests as
                             anyone else.
                             <br />
                             <br />- As evidence towards this: all of our papers
@@ -584,7 +584,7 @@ export default function Careers() {
                             experience
                           </div>
                           <p className="text-b2 spacer-micro-mt">
-                            About half of Anthropic technical staff have a PhD
+                            About half of SuisseGPT technical staff have a PhD
                             of some sort; about half had prior experience in ML.
                             We have several brilliant colleagues who never went
                             to college.
