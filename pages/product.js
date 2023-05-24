@@ -717,13 +717,13 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   Yes, SuisseGPT uses industry-standard best
                                   practices for data handling and retention. See
                                   our{" "}
-                                  <a
-                                    href="https://vault.pactsafe.io/s/9f502c93-cb5c-4571-b205-1e479da61794/legal.html#privacy"
+                                  <Link
+                                    href="/privacy"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >
                                     Privacy Policy
-                                  </a>{" "}
+                                  </Link>{" "}
                                   for more details. All commercial deployments
                                   are covered by SuisseGPT's Data Protection
                                   Addendum, which is available upon request.
