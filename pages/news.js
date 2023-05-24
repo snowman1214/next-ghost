@@ -407,7 +407,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                             SuisseGPT and Suisseblocks Private Equity form partnership to roll out SuisseGPT
+                              SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments
                             </div>
 
                             <div className="post-timestamp text-label">
