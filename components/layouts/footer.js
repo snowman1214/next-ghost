@@ -1,13 +1,14 @@
 import Link from "next/link";
 import logowhite from "./logowhite.svg";
 import Image from "next/image";
+import Link from "next/link";
 
 const Footer = () => {
   return (
     <footer className="core-footer">
       <div className="wrapper xs:grid xs:grid-2 s:grid-12">
         <div className="logo-mark xs:col-start-1 xs:col-span-1">
-          <a href="index" aria-label="AI logo mark">
+          <Link href="index" aria-label="AI logo mark">
             <div className="logo">
               <Image src={logowhite} alt="dd"></Image>
             </div>
@@ -20,7 +21,7 @@ const Footer = () => {
             >
 
             </svg>
-          </a>
+          </Link>
         </div>
         <div className="footer-top xs:col-start-1 xs:col-span-2 s:grid s:grid-6 s:col-start-5 s:col-span-8 m:col-start-5 m:col-span-6">
           <ul className="footer-primary s:col-start-1 s:col-span-2">
@@ -70,27 +71,27 @@ const Footer = () => {
           <hr className="hide-on-desktop" />
           <ul className="footer-legal s:col-start-5 s:col-span-2">
             <li>
-              <a
-                href="https://suisseblocks.com/terms"
+              <Link
+                href="/terms"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Terms of Service
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="https://suisseblocks.com/#privacy"
+              <Link
+                href="/privacy"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Privacy Policy
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="responsible-disclosure-policy.html">
+              <Link href="/responsible-disclosure-policy.html">
                 Responsible Disclosure Policy
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

@@ -793,7 +793,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                     server-sent events
                                   </a>
                                   , a streaming protocol for the web. We have{" "}
-                                  <a href="emailto:sales@suissegpt.ai">
+                                  <a href="mailto:sales@suissegpt.ai">
                                     API documentation
                                   </a>
                                   with drop-in example code in Python and
@@ -930,7 +930,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <p>
                                   You can find our model pricing{" "}
                                   <a
-                                    href="emailto:sales@suissegpt.ai"
+                                    href="mailto:sales@suissegpt.ai"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >

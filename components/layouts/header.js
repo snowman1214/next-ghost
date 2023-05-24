@@ -142,7 +142,7 @@ const Header = () => {
               </li>
               <li>
                 <Link
-                  href="https://usedemand.com/#terms"
+                  href="/terms"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -151,7 +151,7 @@ const Header = () => {
               </li>
               <li>
                 <Link
-                  href="https://usedemand.com/#privacy"
+                  href="/privacy"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -159,7 +159,7 @@ const Header = () => {
                 </Link>
               </li>
               <li>
-                <Link href="responsible-disclosure-policy">
+                <Link href="/responsible-disclosure-policy">
                   Responsible Disclosure Policy
                 </Link>
               </li>

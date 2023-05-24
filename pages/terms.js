@@ -105,7 +105,7 @@ export default function Demand() {
 5. Ownership and Operation of Services
                       Suisse AI and our affiliates, licensors, and service providers (collectively termed as “Providers”) own and operate the Services. We and our Providers retain all rights, titles, interests, including intellectual property rights, in our Services. Apart from the rights of access and use explicitly granted in our Terms, no other rights, titles, or interests in our Services are bestowed upon you by our Terms.
                       <br />
-                      <br /> 
+                      <br />
 
                       <br />
                       <br />
