@@ -536,8 +536,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <img
                                   className=""
                                   sizes="100vw"
-                                  src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Text2cfd.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302206&amp;s=840937b978f46f11cca51a4286f6c920"
-                                  srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Text.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302206&amp;s=c03420529b3f127dd81e787d80e004a0 192w"
+                                  src="documents.svg"
+                                  srcSet="documents.svg 192w"
                                   alt="SuisseGPT Skills Text"
                                   style={{ objectPosition: "50% 50%" }}
                                 />

@@ -177,13 +177,13 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Zoom Partnership and Investment in Anthropic
+                          Demand and SuisseAI set a new standard in Sales
                         </div>
 
                         <div className="post-timestamp text-label">
                           May 16, 2023
                           <span className="is-bullet">●</span>
-                          56 sec read
+                          55 sec read
                         </div>
                       </div>
                     </a>
