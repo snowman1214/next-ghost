@@ -289,8 +289,8 @@ export default function Careers() {
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 50vw"
-                                src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-02_1_1%402X8842.jpg?w=1536&amp;h=1536&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=9c49c66cb7627c570acb5a8bed1297eb"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-02_1_1@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=6e64a4ed376e32b889ab829963d6db3f 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-02_1_1@2X.jpg?w=1440&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=9450759ebd731413d3a82cbcffb9e1e0 1440w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Benefits-02_1_1@2X.jpg?w=1536&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250572&amp;s=06e22e6380d9903afb18faa69164ab6d 1536w"
+                                src="keyboard.webp"
+                                srcSet="keyboard.webp 1024w, keyboard.webp 1440w, keyboard.webp 1536w"
                                 alt="Careers Benefits 02 1 1 2 X"
                                 style={{ objectPosition: "50% 50%" }}
                               />
