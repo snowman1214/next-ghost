@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Demand() {
   useEffect(() => {
@@ -212,7 +213,7 @@ export default function Demand() {
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
+                    <Link
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                       href="https://www.suissegpt.ai/languagemodels"
                       data-id="144538"
@@ -222,7 +223,7 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Zoom Partnership and Investment in Anthropic
+                          Private, Scalable and Secure
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -231,11 +232,11 @@ export default function Demand() {
                           56 sec read
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
                     <a
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="https://www.suissegpt.ai/languagemodels"
+                      href="/suisseblocks"
                       data-id="144316"
                       data-categories="company, announcements"
                     >
@@ -243,20 +244,21 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                            SuisseGPT’s Constitution
+                          Partnering with Suisseblocks to Bring Generative AI to
+                          Enterprises
                         </div>
 
                         <div className="post-timestamp text-label">
                           May 9, 2023
                           <span className="is-bullet">●</span>
-                          15 min read
+                          1 min read
                         </div>
                       </div>
                     </a>
 
-                    <a
+                    <Link
                       className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="https://www.suissegpt.ai/languagemodels"
+                      href="/demand"
                       data-id="143906"
                       data-categories="company, announcements"
                     >
@@ -264,8 +266,7 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Partnering with Scale to Bring Generative AI to
-                          Enterprises
+                          Demand Partnership with SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -273,7 +274,7 @@ export default function Demand() {
                           <span className="is-bullet">●</span>1 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </section>

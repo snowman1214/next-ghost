@@ -427,7 +427,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                         <div className="post-timestamp text-label">
                           May 9, 2023
                           <span className="is-bullet">&#9679;</span>
-                          15 min read
+                          1 min read
                         </div>
                       </div>
                     </Link>
