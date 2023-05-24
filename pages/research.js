@@ -534,18 +534,17 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
 
                     <a
                       className="post post-3  s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/the-capacity-for-moral-self-correction-in-large-language-models.html"
+                      href="predictablemodels"
                       data-id="3419"
                       data-categories="research, societal-impact"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          The Capacity for Moral Self-Correction in Large
-                          Language Models
+                          Predictability Versus Surprise: The Paradox of Large Generative Models
                         </div>
 
                         <div className="post-timestamp text-label">
-                          Feb 15, 2023
+                          May 16, 2023
                         </div>
                       </div>
                     </a>
