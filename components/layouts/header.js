@@ -69,7 +69,7 @@ const Header = () => {
               <div className="logo">
                 <Image src={logomobile} alt="dd"></Image>
               </div>
-              <a href="index">
+              <Link href="index">
                 <svg
                   width="46"
                   height="32"
@@ -79,7 +79,7 @@ const Header = () => {
                 >
 
                 </svg>
-              </a>
+              </Link>
             </div>
             <button
               className="btn-close-mobile-nav xs:col-start-2 xs:col-span-1"
@@ -105,24 +105,22 @@ const Header = () => {
                 <Link href="/product">Product</Link>
               </li>
               <li>
-                <a href="research">Research</a>
+                <Link href="research">Research</Link>
+              </li>
+
+              <li>
+                <Link href="company">Company</Link>
               </li>
               <li>
-                <a href="index-2.html">Index</a>
+                <Link href="news">News</Link>
               </li>
               <li>
-                <a href="company">Company</a>
-              </li>
-              <li>
-                <a href="indexfb19.html?subjects=announcements">News</a>
-              </li>
-              <li>
-                <a href="careers">Careers</a>
+                <Link href="careers">Careers</Link>
               </li>
             </ul>
             <ul className="footer-additional">
               <li>
-                <a href="mailto:info@anthropic.com">Email</a>
+                <a href="mailto:info@suissegpt.ai">Email</a>
               </li>
               <li>
                 <a
@@ -143,27 +141,27 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a
+                <Link
                   href="https://usedemand.com/#terms"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Terms of Service
-                </a>
+                </Link>
               </li>
               <li>
-                <a
+                <Link
                   href="https://usedemand.com/#privacy"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Privacy Policy
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="responsible-disclosure-policy.html">
+                <Link href="responsible-disclosure-policy">
                   Responsible Disclosure Policy
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
