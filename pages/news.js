@@ -352,8 +352,8 @@ Learn the latest about SuisseGPT and our research."
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="https://optimise2.assets-servd.host/anthropic-website/production/images/zoom-card.png?w=1312&amp;h=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1684090867&amp;s=605271773adcf86bbcbd63ebe8523ece"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/zoom-card.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1684090867&amp;s=0a6a58148d49da379246a5647d017b25 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/zoom-card.png?w=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1684090867&amp;s=6b6067a6b4bad67aaf5e37697a2891a7 1312w"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1312w"
                                 alt="Zoom card"
                                 style={{ objectPosition: "50% 50%" }}
                               />
@@ -366,7 +366,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                              Zoom Partnership and Investment in Anthropic
+                             Demand and SuisseAI set a new standard in Sales
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -378,7 +378,7 @@ Learn the latest about SuisseGPT and our research."
                         </Link>
                         <a
                           className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
-                          href="https://www.anthropic.com/index/partnering-with-scale"
+                          href="https://www.suissegpt.ai/demand"
                           data-id="143906"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -392,9 +392,9 @@ Learn the latest about SuisseGPT and our research."
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="https://optimise2.assets-servd.host/anthropic-website/production/images/ScaleAnthropic_Card_V1.png?w=1312&amp;h=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1682449438&amp;s=77b745673198f344fb058157bc47761e"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/ScaleAnthropic_Card_V1.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1682449438&amp;s=ba2a83316e7ebf91f6cf5a114a7376f6 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/ScaleAnthropic_Card_V1.png?w=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1682449438&amp;s=e733262caa8eb24e8a18fe92f91ed962 1312w"
-                                alt="Scale Anthropic Card V1"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1312w"
+                                alt="Demand Card V2"
                                 style={{ objectPosition: "50% 50%" }}
                               />
                             </div>
@@ -418,7 +418,7 @@ Learn the latest about SuisseGPT and our research."
                         </a>
                         <a
                           className="post post-7  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="https://www.anthropic.com/index/claude-now-in-slack"
+                          href="https://www.suissegpt.ai/demand"
                           data-id="59890"
                           data-categories="product, announcements"
                           style={{ display: "block" }}
@@ -432,9 +432,9 @@ Learn the latest about SuisseGPT and our research."
                               <img
                                 className=""
                                 sizes="(max-width: 699px) 100vw, 33vw"
-                                src="https://optimise2.assets-servd.host/anthropic-website/production/images/ClaudeSlack_Card_2023-03-30-163550_xpoi.png?w=1312&amp;h=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1680194150&amp;s=a30b7a3c657cb349a675dc6635e96dc0"
-                                srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/ClaudeSlack_Card_2023-03-30-163550_xpoi.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1680194150&amp;s=584616069f800d2e0610da339d9df1c0 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/ClaudeSlack_Card_2023-03-30-163550_xpoi.png?w=1312&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1680194150&amp;s=c65bbedc304a7f7e0dec63cabcf8724f 1312w"
-                                alt="Claude Slack Card"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1312w"
+                                alt="Demand Card"
                                 style={{ objectPosition: "50% 50%" }}
                               />
                             </div>
