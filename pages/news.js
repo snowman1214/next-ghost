@@ -503,7 +503,7 @@ Learn the latest about SuisseGPT and our research."
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
                         <Link
                             className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                            href="/suissai"
+                            href="/suisseai"
                             data-id="144353"
                             data-categories="product, announcements"
                             style={{ display: "block" }}
