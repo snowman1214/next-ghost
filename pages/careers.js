@@ -1036,7 +1036,7 @@ export default function Careers() {
                             <h3>Enterprise Account Executive</h3>
                             <p className="text-b2 spacer-micro-mt">
                               SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
+                              interpretable, and steerable AI systems that are Private. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. Our team is a quickly
                               growing group of committed business…
@@ -1074,7 +1074,7 @@ export default function Careers() {
                             Product (Research &amp; Engineering)
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            8 Open Roles
+                            1 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1111,64 +1111,16 @@ export default function Careers() {
                           id="role-content-6"
                           className="role-content s:grid s:grid-12"
                         >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Design Lead</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              We are looking for an experienced design leader to
-                              create and cultivate the design culture at
-                              SuisseGPT, a safety-focused organization at the
-                              forefront of AI research. As Design Lead you will
-                              set the overall design vision and…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Principal Product Designer</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              We are looking for an experienced designer to join
-                              the design team at SuisseGPT, a safety-focused
-                              organization at the forefront of AI research. As
-                              Senior Product Designer, you will research and
-                              design how users interact with…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
+
+
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Prompt Engineer and Librarian</h3>
                             <p className="text-b2 spacer-micro-mt">
                               SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
+                              interpretable, and perfect AI systems. We want
                               AI to be safe for our customers and for society as
-                              a whole.SuisseGPT’s AI technology is amongst the
-                              most capable and safe in the worl…
+                              a whole (mission driven). SuisseGPT’s AI technology is amongst the
+                              most capable and safest in the world…
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
@@ -1186,131 +1138,7 @@ export default function Careers() {
                               </span>
                             </a>
                           </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Research Engineer - Product</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe for our customers and for society as
-                              a whole.You care about making safe, steerable,
-                              trustworthy systems and are excited…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                LeaOpening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Senior Software Engineer - Product</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe for our customers and for society as
-                              a whole. We are looking for a senior software
-                              engineer to join our product team an…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Senior Software Engineer (Zug) - Product</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe for our customers and for society as
-                              a whole. We are looking for a senior software
-                              engineer to join our product team an…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Software Engineer - Trust and Safety</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe for our customers and for society as
-                              a whole. We are looking for software engineers to
-                              help build safety and oversight…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Technical Product Manager</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe for our customers and for society as
-                              a whole. Putting our models out in the real world
-                              - if done carefully - could help…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
+
                         </article>
                       </div>
                       <div id="role-container-5" className="role-container">
@@ -1328,7 +1156,7 @@ export default function Careers() {
                             Product (Business &amp; Operations)
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            2 Open Roles
+                            0 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1361,61 +1189,7 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-                        <article
-                          id="role-content-5"
-                          className="role-content s:grid s:grid-12"
-                        >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Business Operations</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe and beneficial for our customers and
-                              for society as a whole. Our quickly growing
-                              business team is a group of committed…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Product Support Specialist</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe and beneficial for our customers and
-                              for society as a whole. Our quickly growing
-                              business team is a group of committed…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                        </article>
+
                       </div>
                       <div id="role-container-4" className="role-container">
                         <input
@@ -1432,7 +1206,7 @@ export default function Careers() {
                             Policy
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            1 Open Role
+                            0 Open Role
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1465,36 +1239,7 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-                        <article
-                          id="role-content-4"
-                          className="role-content s:grid s:grid-12"
-                        >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Public Policy Manager (Product)</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
-                              interpretable, and steerable AI systems. We want
-                              AI to be safe and beneficial for our customers and
-                              for society as a whole. As a Public Policy Manager
-                              (Product) on the Public Policy…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                        </article>
+
                       </div>
                       <div id="role-container-3" className="role-container">
                         <input
@@ -1511,7 +1256,7 @@ export default function Careers() {
                             Operations
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            1 Open Role
+                            0 Open Role
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1544,36 +1289,7 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-                        <article
-                          id="role-content-3"
-                          className="role-content s:grid s:grid-12"
-                        >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Recruiter</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              You want to help SuisseGPT address one of its
-                              biggest bottlenecks by building a talented and
-                              diverse staff. You’ll help oversee our recruitment
-                              pipeline to ensure a well informed decision and a
-                              positive experience. You’ll wor…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                        </article>
+
                       </div>
                       <div id="role-container-2" className="role-container">
                         <input
@@ -1590,7 +1306,7 @@ export default function Careers() {
                             Legal
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            2 Open Roles
+                            0 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1623,64 +1339,7 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-                        <article
-                          id="role-content-2"
-                          className="role-content s:grid s:grid-12"
-                        >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>
-                              Associate General Counsel - Commercial/Technology
-                              Transactions
-                            </h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              Join the team making AI safe.SuisseGPT is seeking
-                              a highly qualified Associate General Counsel to
-                              lead commercial and technology transactions at
-                              SuisseGPT. We’ll rely on you to help us develop
-                              and negotiate partnerships and c…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Product Counsel</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              Join the team making AI safe.SuisseGPT is seeking
-                              a thoughtful, multidisciplinary product counsel to
-                              support our teams building and deploying
-                              innovative AI systems and products. As a member of
-                              the Product Counsel function, yo…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                        </article>
+
                       </div>
                       <div id="role-container-1" className="role-container">
                         <input
@@ -1697,7 +1356,7 @@ export default function Careers() {
                             Leadership Support
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            2 Open Roles
+                            0 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1730,61 +1389,7 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-                        <article
-                          id="role-content-1"
-                          className="role-content s:grid s:grid-12"
-                        >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Chief of Staff to the CEO</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              As Chief of Staff to the CEO, you will scope and
-                              drive many of SuisseGPT’s most important strategic
-                              initiatives and engage with high-level questions
-                              fundamental to both the company and the broader
-                              societal impacts of artifici…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Team Assistant</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              As a Team Assistant, you will report to Daniela
-                              Amodei’s Chief of Staff, and work directly with
-                              the leadership team to ensure SuisseGPT runs
-                              smoothly. This is an incredible opportunity to
-                              work alongside some of the brightest…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                        </article>
+
                       </div>
                       <div id="role-container-0" className="role-container">
                         <input
@@ -1801,7 +1406,7 @@ export default function Careers() {
                             Finance and Accounting
                           </h4>
                           <span className="role-count text-label s:col-start-5 s:col-span-6">
-                            4 Open Roles
+                            0 Open Roles
                           </span>
                           <span className="role-icon s:col-start-11 s:col-span-2">
                             <span className="icon-more">
@@ -1834,111 +1439,7 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-                        <article
-                          id="role-content-0"
-                          className="role-content s:grid s:grid-12"
-                        >
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Financial Analyst</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              We are looking to hire a Financial Analyst to join
-                              our Financial Planning and Analysis team at
-                              SuisseGPT. You will participate in key processes
-                              such as annual planning, variance analysis,
-                              financial modeling, KPI setting and r…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Senior Accountant</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT is seeking an experienced Senior
-                              Accountant to oversee day-to-day accounting
-                              operations and manage key financial functions. In
-                              this role, you will take ownership of monthly
-                              financial reporting, payroll, accounts pay…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Staff Accountant</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT is looking for a detail-oriented Staff
-                              Accountant to join our growing finance team. In
-                              this role, you will manage key accounting
-                              processes like accounts payable/receivable,
-                              payroll, financial reporting, and fixed as…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                          <div className="role-post s:col-start-5 s:col-span-6">
-                            <h3>Strategic Finance and Investor Relations</h3>
-                            <p className="text-b2 spacer-micro-mt">
-                              Join the finance team at SuisseGPT and help build
-                              the future of safe AI! We are looking for our
-                              first Strategic Finance and Investor Relations
-                              hire to work closely with our executive team. In
-                              this critical role, you will deve…
-                            </p>
-                            <a
-                              className="btn-primary spacer-small-mt"
-                              href="#"
-                              target="_blank"
-                              rel="noopener"
-                            >
-                              <span className="btn-label">
-                                Opening Soon
-                                <span
-                                  className="btn-anim"
-                                  title="Opening Soon"
-                                  aria-hidden="true"
-                                ></span>
-                              </span>
-                            </a>
-                          </div>
-                        </article>
+
                       </div>
                     </div>
                   </div>
