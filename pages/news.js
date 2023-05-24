@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import { Script } from "./_document";
 import { Animation } from "./_document";
 import { NextSeo } from "next-seo";
-import Link from "next/link";
+
 
 export default function News() {
   const [isListView, setIsListView] = useState(false);
