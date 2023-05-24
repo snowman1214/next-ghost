@@ -112,8 +112,8 @@ export default function Careers() {
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-02_3_4%402X5283.jpg?w=1152&amp;h=1536&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=27ab7491e09cf5c23c39ff65be769c19"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-02_3_4@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=9b78c1ba51bc63f1be88e358aa333261 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-02_3_4@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=e9c701a554d37f70ffae050a0bf536e0 1152w"
+                            src="young.jpeg"
+                            srcSet="young.jpeg 1024w, young.jpeg 1152w"
                             alt="Careers Carousel 02 3 4 2 X"
                             style={{ objectPosition: "50% 50%" }}
                           />
@@ -128,8 +128,8 @@ export default function Careers() {
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-03_1_1%402X5800.jpg?w=1152&amp;h=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250576&amp;s=79b15c1fe9e319ed25b10fe9b6c9a153"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-03_1_1@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250576&amp;s=0257f703f6a39d265a75cb8f859fd67e 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-03_1_1@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250576&amp;s=66a7066431350a04820c32f6b7cc1484 1152w"
+                            src="keyboard.webp"
+                            srcSet="keyboard.webp 1024w, keyboard.webp 1152w"
                             alt="Careers Carousel 03 1 1 2 X"
                             style={{ objectPosition: "50% 50%" }}
                           />
