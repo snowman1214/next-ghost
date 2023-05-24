@@ -218,7 +218,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             <div className="asset-container order-2">
                               <div className="video-container">
                                 <video
-                                  src="https://servd-anthropic-website.b-cdn.net/production/images/Anthropic_ProductAnimation_Integrations_WhiteBG.mp4"
+                                  src="https://res.cloudinary.com/dftbihnlb/video/upload/v1684918128/Copy_of_247_World_Wide_in_your_Datacenter_ukkvem.mp4"
                                   preload="meta"
                                   muted
                                   loop
