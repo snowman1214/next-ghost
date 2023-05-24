@@ -96,8 +96,8 @@ export default function Careers() {
                           <img
                             className=""
                             sizes="(max-width: 699px) 100vw, 33vw"
-                            src="../optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-01_4_3%402X0b83.jpg?w=1152&amp;h=864&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=74e21dfa16a0807f10cb833e578b5da8"
-                            srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-01_4_3@2X.jpg?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=f0fbf2e4453c49139dfe81418bc2959b 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Careers_Carousel-01_4_3@2X.jpg?w=1152&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1674250575&amp;s=5d5b89b110bfc0e7dadecb4a7606a608 1152w"
+                            src="team1.jpeg"
+                            srcSet="team1.jpeg 1024w, team1.jpeg 1152w"
                             alt="Careers Carousel 01 4 3 2 X"
                             style={{ objectPosition: "50% 50%" }}
                           />
