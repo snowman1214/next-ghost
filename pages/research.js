@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Research() {
   useEffect(() => {
@@ -112,13 +113,13 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                         Drawing inspiration from the universal scaling phenomena
                         observed in statistical physics, we undertake the
                         development of.{" "}
-                        <a
+                        <Link
                           href="https://arxiv.org/abs/2001.08361"
                           target="_blank"
                           rel="noreferrer noopener"
                         >
                           scaling laws
-                        </a>{" "}
+                        </Link>{" "}
                         To facilitate systematic and empirically-driven
                         research, our efforts are focused on identifying and
                         establishing simple relationships among data,
@@ -170,21 +171,21 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                         These initiatives shed light on our commitment to
                         understanding and addressing the broader societal
                         implications of AI technology.:{" "}
-                        <a
+                        <Link
                           href="https://arxiv.org/abs/2005.04305"
                           target="_blank"
                           rel="noreferrer noopener"
                         >
                           AI and Efficiency
-                        </a>
+                        </Link>
                         ,{" "}
-                        <a
+                        <Link
                           href="https://arxiv.org/abs/2009.09071"
                           target="_blank"
                           rel="noreferrer noopener"
                         >
                           Measurement in AI Policy: Opportunities and Challenges
-                        </a>
+                        </Link>
                         ,{" "}
                         <a
                           href="https://arxiv.org/abs/2103.06312"
@@ -231,7 +232,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                 </div>
 
                 <div className="b-featuredPost ">
-                  <a
+                  <Link
                     href="https://suissegpt.ai/coreviews"
                     className="featured-post-wrapper bg-book-cloth"
                   >
@@ -257,7 +258,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                         May 22, 2023
                       </div>
                     </div>
-                  </a>
+                  </Link>
                 </div>
               </div>
 
