@@ -103,7 +103,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                       style={{ Aspect: "39.0625%" }}
                       data-scroll
                     >
-                   
+
                     </div>
                   </div>
                 </div>
@@ -189,7 +189,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                             <div className="asset-container order-1">
                               <div className="video-container">
                                 <video
-                                  src="https://servd-anthropic-website.b-cdn.net/production/images/Anthropic_ProductAnimation_Tone_WhiteBG.mp4"
+                                  src="https://res.cloudinary.com/dftbihnlb/video/upload/v1684914979/I_d_be_happy_to_help_you_What_is_your_customer_id_jbwqxu.mp4"
                                   preload="meta"
                                   muted
                                   loop
