@@ -89,7 +89,7 @@ const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link href="/responsible-disclosure-policy.html">
+              <Link href="/responsible-disclosure-policy">
                 Responsible Disclosure Policy
               </Link>
             </li>
