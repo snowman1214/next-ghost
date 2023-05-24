@@ -459,7 +459,7 @@ export default function Demand() {
 
                     <a
                       className="text-label"
-                      href="https://www.suissegpt.ai/index?type=company&amp;subjects=announcements"
+                      href="https://www.suissegpt.ai/news"
                     >
                       See All
                     </a>
@@ -472,7 +472,7 @@ export default function Demand() {
                   >
                     <a
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="https://www.anthropic.com/index/zoom-partnership-and-investment"
+                      href="https://www.suissegpt.ai/demand"
                       data-id="144538"
                       data-categories="company, announcements"
                     >
@@ -480,7 +480,7 @@ export default function Demand() {
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Zoom Partnership and Investment in Anthropic
+                          Demand Partnership with SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -493,7 +493,7 @@ export default function Demand() {
 
                     <a
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="https://www.anthropic.com/index/claudes-constitution"
+                      href="https://www.suissegpt.ai/constitution"
                       data-id="144316"
                       data-categories="company, announcements"
                     >
@@ -514,7 +514,7 @@ export default function Demand() {
 
                     <a
                       className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="https://www.anthropic.com/index/partnering-with-scale"
+                      href="https://www.suissegpt.ai/demand"
                       data-id="143906"
                       data-categories="company, announcements"
                     >
