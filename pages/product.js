@@ -338,8 +338,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Customer_Servicec2be.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302477&amp;s=b5ad0d6c5f27a08dd028125e197c65ed"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Customer_Service.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302477&amp;s=471a7ac09d0636730f3e347aa243ca76 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Customer_Service.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302477&amp;s=c958647b5acd1ff9393e37ddcc6ee496 1056w"
+                                        src="https://res.cloudinary.com/dftbihnlb/video/upload/v1684949533/Copy_of_Hey_SuisseGPT_I_want_you_to_tell_me_how_to_bczftf.mp4"
+                                        srcSet="https://res.cloudinary.com/dftbihnlb/video/upload/v1684949533/Copy_of_Hey_SuisseGPT_I_want_you_to_tell_me_how_to_bczftf.mp4 1024w, https://res.cloudinary.com/dftbihnlb/video/upload/v1684949533/Copy_of_Hey_SuisseGPT_I_want_you_to_tell_me_how_to_bczftf.mp4 1056w"
                                         alt="Claude Work Customer Service"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
