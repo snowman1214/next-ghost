@@ -62,24 +62,20 @@ const Header = () => {
           className="core-mobile-nav wrapper xs:grid xs:grid-2"
           style={isMobile ? { display: "block" } : { display: "none" }}
         >
-
-
           <div className="controls xs:grid xs:grid-2 xs:col-start-1 xs:col-span-2">
             <div className="logo-mark xs:col-start-1 xs:col-span-1">
               <div className="logo">
                 <Image src={logomobile} alt="dd"></Image>
               </div>
-              <a href="index">
+              <Link href="/">
                 <svg
                   width="46"
                   height="32"
                   viewBox="0 0 46 32"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                >
-
-                </svg>
-              </a>
+                ></svg>
+              </Link>
             </div>
             <button
               className="btn-close-mobile-nav xs:col-start-2 xs:col-span-1"
@@ -105,19 +101,19 @@ const Header = () => {
                 <Link href="/product">Product</Link>
               </li>
               <li>
-                <a href="research">Research</a>
+                <Link href="/research">Research</Link>
               </li>
               <li>
-                <a href="index-2.html">Index</a>
+                <Link href="/">Index</Link>
               </li>
               <li>
-                <a href="company">Company</a>
+                <Link href="/">Company</Link>
               </li>
               <li>
-                <a href="indexfb19.html?subjects=announcements">News</a>
+                <Link href="/news">News</Link>
               </li>
               <li>
-                <a href="careers">Careers</a>
+                <Link href="/careers">Careers</Link>
               </li>
             </ul>
             <ul className="footer-additional">
