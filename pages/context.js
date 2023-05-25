@@ -48,13 +48,13 @@ export default function Context() {
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
                     <figure className="inline-image">
                       <img
-                        src="https://optimise2.assets-servd.host/anthropic-website/production/images/GeneralConsoleImprovements_Blog.png?w=2880&amp;h=1620&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1683744676&amp;s=d03efa58ab9255dbe2213bc3eff5a7ac"
+                        src="#"
                         alt="100K Context Window Image"
                       />
                     </figure>
                     <p>
                       <br />
-                      We’ve expanded Claude’s context window from 9K to 100K
+                      We’ve expanded SuisseGPT's context window from 9K to 100K
                       tokens, corresponding to around 75,000 words! This means
                       businesses can now submit{" "}
                       <strong>hundreds of pages</strong> of materials for Claude
@@ -65,22 +65,22 @@ export default function Context() {
                       The average person can read 100,000 tokens of text in ~5+
                       hours<sup>[1]</sup>, and then they might need
                       substantially longer to digest, remember, and analyze that
-                      information. Claude can now do this in less than a minute.
+                      information. SuisseGPT can now do this in less than a minute.
                       For example, we loaded the entire text of The Great Gatsby
-                      into Claude-Instant (72K tokens) and modified one line to
+                      into SuisseGPT-Instant (72K tokens) and modified one line to
                       say Mr. Carraway was “a software engineer that works on
-                      machine learning tooling at Anthropic.” When we asked the
+                      machine learning tooling at SuisseGPT.” When we asked the
                       model to spot what was different, it responded with the
                       correct answer in <strong>22 seconds</strong>.
                     </p>
                     <p>
-                      Beyond just reading long texts, Claude can help retrieve
+                      Beyond just reading long texts, SuisseGPT can help retrieve
                       information from the documents that help your business
                       run. You can drop multiple documents or even a book into
-                      the prompt and then ask Claude questions that require
+                      the prompt and then ask SuisseGPT questions that require
                       synthesis of knowledge across many parts of the text. For
                       complex questions, this is likely to work substantially
-                      better than vector search based approaches. Claude can
+                      better than vector search based approaches. SuisseGPT can
                       follow your instructions and return what you’re looking
                       for, as a human assistant would!
                       <br />
@@ -100,10 +100,10 @@ export default function Context() {
                       means for their business. 100K translates into roughly 6
                       hours of audio - AssemblyAI put out a great demonstration
                       of this where they transcribed a long podcast into 58K
-                      words and then used Claude for summarization and Q&amp;A.
+                      words and then used SuisseGPT for summarization and Q&amp;A.
                       You can watch the full demo{" "}
                       <a
-                        href="https://youtu.be/2kFhloXz5_E"
+                        href="https://youtu.be/"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -139,7 +139,7 @@ export default function Context() {
                     <figure>
                       <div className="is-iframe-responsive">
                         <iframe
-                          src="https://player.vimeo.com/video/825669443?h=2a7baaa097&amp;title=0&amp;byline=0&amp;portrait=0"
+                          src="https://player.vimeo.com/video/&amp;title=0&amp;byline=0&amp;portrait=0"
                           style={{ width: "100%", height: "100%" }}
                           frameBorder="0"
                         ></iframe>
@@ -148,19 +148,19 @@ export default function Context() {
 
                     <p>
                       100K context windows are now available in our API. If you
-                      are working with Claude, you can read more about what
+                      are working with SuisseGPT, you can read more about what
                       model versions to call{" "}
                       <a
-                        href="https://console.anthropic.com/docs/api/reference#-v1-complete"
+                        href="https://console.suissegpt.ai/docs/api/reference#-v1-complete"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
                         here
                       </a>
-                      . If you’re not working with Claude yet, you can request
+                      . If you’re not working with SuisseGPT yet, you can request
                       access{" "}
                       <a
-                        href="https://www.anthropic.com/product"
+                        href="https://www.suissegpt.ai/product"
                         target="_blank"
                         rel="noreferrer noopener"
                       >
@@ -177,7 +177,7 @@ export default function Context() {
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.anthropic.com/index/100k-context-windows"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -196,7 +196,7 @@ export default function Context() {
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.anthropic.com/index/100k-context-windows"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -219,7 +219,7 @@ export default function Context() {
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.anthropic.com/index/100k-context-windows"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"

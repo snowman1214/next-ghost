@@ -14,15 +14,14 @@ export default function Demand() {
   return (
     <>
       <NextSeo
-        title="SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT"
-        description="
-Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy"
+        title="Suisse AI Announcement: Private, Scalable and Secure"
+        description="Announcing the Launch of Our Private, Swiss-Made Generative AI - Elevating Data Security, Privacy and Innovation for Enterprises"
         openGraph={{
           url: "http://suissegpt.ai",
           title:
-            "SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT",
+            "Suisse AI Announcement: Private, Scalable and Secure",
           description:
-            "Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch DemandGPT: The Leading AI for Go-to-Market and Sales Strategy.",
+            "Announcing the Launch of Our Private, Swiss-Made Generative AI - Elevating Data Security, Privacy and Innovation for Enterprises.",
         }}
       />
       <Header />
@@ -39,98 +38,97 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                       </a>
 
                       <a href="/#" className="btn-secondary btn-chip">
-                        Announcements
+                        Research
                       </a>
                     </div>
 
                     <h2 className="spacer-medium-mt">
-                      SuisseGPT and Demand Announce Strategic Partnership to
-                      Launch DemandGPT: The Leading AI for Go-to-Market and
-                      Sales Strategy
+
+                      Suisse AI Announcement: Private, Scalable and Secure
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
-                      May 25, 2023
-                      <span className="is-bullet">●</span>2 min read
+                      May 24, 2023
+                      <span className="is-bullet">●</span>10 min read
                     </div>
                   </div>
 
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
                     <p className="text-b2">
-                      ZUG, SWITZERLAND - SuisseGPT, a trailblazer in the AI
-                      industry, announced today an exciting strategic
-                      partnership with Demand, a key player in the sales sector.
-                      Together, they are launching DemandGPT, a transformative
-                      artificial intelligence model tailored specifically for
-                      sales and go-to-market strategies.
+                      Today, we are thrilled to announce the launch of our ground-breaking innovation - the first-ever Private Generative AI model, designed and built in the heart of Switzerland, the global symbol of privacy, stability, and innovation.
                       <br />
                       <br />
-                      Combining the power of machine learning with a deep
-                      understanding of the sales industry, DemandGPT is a
-                      breakthrough in AI application, designed to empower
-                      organizations by personalizing their marketing efforts and
-                      maximizing sales opportunities. This innovative AI
-                      solution stands poised to disrupt the traditional sales
-                      landscape with its unprecedented functionality. DemandGPT
-                      features include personalized LinkedIn messaging, email
-                      personalization, and the ability to create and interpret
-                      complex data graphs, bringing the art of communication to
-                      a new, unparalleled level. A unique selling point of this
-                      advanced model is its sentiment analysis feature, enabling
-                      businesses to take action on replies, identify missed
-                      opportunities, and finely tune their strategies based on
-                      customers' emotions and attitudes.
+                      Keeping true to the Swiss values of strict privacy and impeccable data protection, our generative AI model is designed to elevate the current data security standards of the business world. This model is engineered to respect the privacy and sovereignty of your data, eliminating the need to rely on third-party corporations like Microsoft, Google, or OpenAI who shares your data with their models and the world.
                       <br />
                       <br />
-                      The model, which has been trained on over 2 million sales
-                      models, boasts an impressive 13 billion parameters,
-                      contributing to its high precision and capability to
-                      provide valuable insights. This in-depth learning enables
-                      the model to comprehend and predict sales trends, buyer
-                      behaviour and market shifts, thus facilitating data-driven
-                      decision-making and strategy development.
+                      Our Swiss Generative AI offers you the flexibility to safely host and manage your sensitive enterprise data within your ecosystem, ensuring your data never leaves your hands. We believe in empowering enterprises, allowing you to take the reins of your data and your AI, ensuring that you remain the custodian of your valuable information at all times.
                       <br />
                       <br />
-                      "Our partnership with Demand represents a leap forward in
-                      our commitment to providing AI solutions that drive
-                      meaningful outcomes," said the CEO of SuisseGPT.
-                      "DemandGPT not only increases the efficiency and
-                      effectiveness of sales strategies but also helps to create
-                      a more personalized, engaging experience for prospects."
+                      We are living in an era where data is the new oil, a powerful resource that can propel businesses towards unprecedented growth and innovation. However, the potential risk associated with data misuse or mismanagement can be detrimental. Our new generative AI model is the Swiss army knife solution for such challenges, providing top-tier security while accelerating your innovation and growth.
                       <br />
                       <br />
-                      DemandGPT is a testament to the transformative power of AI
-                      and machine learning in the world of sales. By enabling
-                      businesses to tap into the immense potential of
-                      data-driven decision-making and personalized
-                      communication, this state-of-the-art solution stands to
-                      revolutionize the sales industry.
+                      A unique feature of our generative AI model is that it's tailored to the needs of your enterprise, enabling you to scale faster and innovate safely. It offers privacy, flexibility, and control, along with the power to handle complex tasks and make data-driven decisions with improved efficiency. It's your personal AI assistant, built to transform your enterprise from the inside out.
                       <br />
                       <br />
-                      <b>About SuisseGPT</b>
+                      The versatility of SuisseGPT was tested and showcased in various applications during the beta phase, including but not limited to the following (notably, applications marked with an asterisk indicate that a human supervisor was involved in overseeing the model's operation):
                       <br />
                       <br />
-                      SuisseGPT is a leading innovator in artificial
-                      intelligence, dedicated to developing advanced AI
-                      solutions that empower businesses across industries.
-                      Committed to driving meaningful change through technology,
-                      SuisseGPT's AI models are reshaping how businesses
-                      operate, compete and thrive.
+                      •	Legal Documentation: Summarization and critical analysis of legal documents
                       <br />
                       <br />
-                      <b>About Demand</b>
+                      •	Healthcare: Medical patient records management and insightful analysis
                       <br />
                       <br />
-                      Demand is a frontrunner in the sales industry, dedicated
-                      to maximizing sales potential for businesses worldwide.
-                      With a focus on innovation and customer-centric solutions,
-                      Demand is transforming how businesses approach sales
-                      strategy and execution.
+                      •	Pharmaceutical: advance R&D and clinical trials
+                      <br />
+                      <br />
+                      •	Customer Support: Management of customer service emails and live chats
+                      <br />
+                      <br />
+                      •	Programming: Creation of coding models, suitable for both individual consumers and B2B scenarios
+                      <br />
+                      <br />
+                      •	Productivity Tools: Assistance in search, document editing, and original content generation
+                      <br />
+                      <br />
+                      •	Public Engagement: Deployment as a chatbot for public Q&A and advisory roles
+                      <br />
+                      <br />
+                      •	Search Engines: Enhancement of search functionality using natural language responses
+                      <br />
+                      <br />
+                      •	Human Resources: Assistance in creating job descriptions and conducting interview analysis
+                      <br />
+                      <br />
+                      •	Mental Health and Personal Development: Use in therapy and coaching roles
+                      <br />
+                      <br />
+                      •	Personal Assistance: Serving as virtual assistants
+                      <br />
+                      <br />
+                      •	Education: Utility in educational scenarios across all levels
+                      <br />
+                      <br />
+                      We are immensely proud to bring SuisseGPT to market, having witnessed its potential and versatility during the beta phase. We eagerly anticipate how it will continue to contribute to these industries and more. SuisseAI is committed to advancing AI utility while maintaining our core principles of privacy, stability, and innovation.
+                      <br />
+                      <br />
+                      This AI model isn't just a technological breakthrough; it's a paradigm shift, a statement to the world that you can hold the reins of your AI and data, respecting privacy and upholding the spirit of innovation.
+                      <br />
+                      <br />
+                      As pioneers of this private generative AI, we stand by Swiss values, offering stability in a rapidly evolving digital landscape. Today, we invite you to embrace this revolutionary tool that embodies the essence of Swiss privacy, stability, and innovation. Let's scale your enterprise with unparalleled security, privacy, and innovation.
+                      <br />
+                      <br />
+                      Join us in this exciting journey and embrace the future of AI. Together, we can redefine the boundaries of what is possible.
+                      <br />
+                      <br />
+                      Welcome to the era of Private Generative AI!
+                      <br />
+                      <br />
                     </p>
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/demand"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -149,7 +147,7 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/demand"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/suissai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -172,7 +170,7 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/demand"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"
@@ -216,10 +214,10 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                     data-trigger-start="center 100%"
                   >
                     <Link
-                        className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                        href="https://www.suissegpt.ai/languagemodels"
-                        data-id="144538"
-                        data-categories="company, announcements"
+                      className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
+                      href="https://www.suissegpt.ai/languagemodels"
+                      data-id="144538"
+                      data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-category text-label">Company </div>
@@ -237,10 +235,10 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                     </Link>
 
                     <a
-                        className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                        href="/suisseblocks"
-                        data-id="144316"
-                        data-categories="company, announcements"
+                      className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
+                      href="/suisseblocks"
+                      data-id="144316"
+                      data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-category text-label">Company </div>
@@ -259,10 +257,10 @@ Introducing SuisseGPT and Demand Announce Strategic Partnership to Launch Demand
                     </a>
 
                     <Link
-                        className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                        href="/demand"
-                        data-id="143906"
-                        data-categories="company, announcements"
+                      className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
+                      href="/demand"
+                      data-id="143906"
+                      data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-category text-label">Company </div>

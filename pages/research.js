@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Research() {
   useEffect(() => {
@@ -107,50 +108,16 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                   <div className="panel" tabIndex="-1">
                     <div className="principle">
                       <h4>01</h4>
-                      <h3>AI as a Methodical Discipline</h3>
-                      <p className="text-b2 spacer-micro-mt">
-                        Drawing inspiration from the universal scaling phenomena
-                        observed in statistical physics, we undertake the
-                        development of.{" "}
-                        <a
-                          href="https://arxiv.org/abs/2001.08361"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                        >
-                          scaling laws
-                        </a>{" "}
-                        To facilitate systematic and empirically-driven
-                        research, our efforts are focused on identifying and
-                        establishing simple relationships among data,
-                        computations, parameters, and the performance of
-                        large-scale networks. By leveraging these relationships,
-                        we aim to enhance the efficiency and predictability of
-                        network training, as well as evaluate our advancements
-                        more effectively. Furthermore, we are actively exploring
-                        scaling laws pertaining to the safety of AI systems, as
-                        this exploration will significantly influence our future
-                        research endeavors.
-                      </p>
+                      <h3>AI as a Rigorous Science</h3>
+                      <p className="text-b2 spacer-micro-mt">Drawing on the principles of universal scaling phenomena from statistical physics, we are committed to devising scaling laws to promote systematic and data-driven research. Our primary focus is to identify and establish uncomplicated relationships between data, computations, parameters, and the performance of large-scale networks. Utilizing these relationships, we aim to optimize the predictability and efficiency of network training, along with improving the effectiveness of our performance assessments. Furthermore, our ongoing research is oriented towards exploring scaling laws relevant to AI system safety, a critical area that will profoundly influence our future research directions.
+                   </p>
                     </div>
 
                     <div className="principle">
                       <h4>02</h4>
-                      <h3>Resilience and Expansion</h3>
+                      <h3>Resilience and Growth</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        At SuisseGPT, we prioritize safety research conducted on
-                        highly advanced models. With each passing year, we
-                        witness the emergence of larger neural networks that
-                        outperform their predecessors. However, these increased
-                        capabilities also introduce novel safety challenges. We
-                        diligently investigate and actively address the safety
-                        concerns associated with large models, aiming to enhance
-                        their reliability. Furthermore, we share our findings
-                        with the wider community and strive to improve the
-                        outcomes of safe deployment practices across the field.
-                        Currently, our primary focus revolves around prototyping
-                        systems that combine these safety techniques with text
-                        analysis tools, enabling comprehensive safety evaluation
-                        and analysis.
+                        At SuisseGPT, we place a premium on safety research pertaining to advanced AI models. With each advancing year, we see the development of increasingly large neural networks that outshine their antecedents. However, this enhanced capacity also presents unique safety challenges. We are committed to thoroughly investigating and proactively addressing safety issues linked to large models, with an objective to bolster their dependability. Additionally, we are dedicated to sharing our findings with the broader community to improve safe deployment practices across the field. Currently, our main focus lies in developing systems that amalgamate these safety techniques with text analysis tools, allowing for a comprehensive safety evaluation and analysis.
                       </p>
                     </div>
 
@@ -158,71 +125,15 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <h4>03</h4>
                       <h3>Tools and Measurements</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        We consider the critical evaluation of the societal
-                        implications of our work to be a fundamental principle
-                        of our research. Our approach revolves around the
-                        development of tools and metrics that enable us to
-                        comprehensively assess and comprehend the capabilities,
-                        constraints, and potential societal impacts of our AI
-                        systems. To gain insight into our research direction in
-                        this regard, we encourage you to explore some of the
-                        projects we have led or collaborated on in this domain.
-                        These initiatives shed light on our commitment to
-                        understanding and addressing the broader societal
-                        implications of AI technology.:{" "}
-                        <a
-                          href="https://arxiv.org/abs/2005.04305"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                        >
-                          AI and Efficiency
-                        </a>
-                        ,{" "}
-                        <a
-                          href="https://arxiv.org/abs/2009.09071"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                        >
-                          Measurement in AI Policy: Opportunities and Challenges
-                        </a>
-                        ,{" "}
-                        <a
-                          href="https://arxiv.org/abs/2103.06312"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                        >
-                          the AI Index 2021 Annual Report
-                        </a>
-                        , and{" "}
-                        <a
-                          href="https://microscope.openai.com/models"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                        >
-                          Microscope
-                        </a>
-                        .
+                        We fundamentally believe in critically evaluating the societal ramifications of our work. Our strategy is centered on creating tools and metrics that allow us to thoroughly assess and understand the capabilities, limitations, and potential societal impacts of our AI systems. We invite you to delve into some of the projects we have led or participated in to gain a deeper understanding of our research direction in this sphere. These initiatives underscore our commitment to comprehending and addressing the wider societal implications of AI technology: AI and Efficiency, Measurement in AI Policy: Opportunities and Challenges, the AI Index 2021 Annual Report, and Microscope.
                       </p>
                     </div>
 
                     <div className="principle">
                       <h4>04</h4>
-                      <h3>Focused, Collaborative Research Efforts</h3>
+                      <h3>Focused, Collaborative Research Initiatives</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        Collaboration is of utmost importance to us in our
-                        project endeavors, and we strive to strike a balance
-                        between top-down and bottom-up research planning
-                        approaches. While maintaining a clear and focused
-                        research agenda, we place significant emphasis on
-                        inclusivity by involving a diverse group of
-                        stakeholders, including researchers, engineers, experts
-                        in societal impact, and policy analysts, in determining
-                        the direction of our work. We actively seek
-                        collaborations with other laboratories and researchers,
-                        recognizing that the most comprehensive and insightful
-                        research on characterizing these systems arises from a
-                        broad and interconnected community of researchers
-                        working together.
+                        Collaboration is at the heart of our research projects, and we strive to find a balance between top-down and bottom-up research planning strategies. While adhering to a distinct and focused research agenda, we prioritize inclusivity by involving a diverse set of stakeholders, including researchers, engineers, societal impact specialists, and policy analysts, to guide our work. We are actively seeking collaborations with other laboratories and researchers, acknowledging that the most thorough and insightful research on these systems emerges from a wide, interconnected network of researchers working in unison.
                       </p>
                     </div>
                   </div>
@@ -231,7 +142,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                 </div>
 
                 <div className="b-featuredPost ">
-                  <a
+                  <Link
                     href="https://suissegpt.ai/coreviews"
                     className="featured-post-wrapper bg-book-cloth"
                   >
@@ -257,7 +168,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                         May 22, 2023
                       </div>
                     </div>
-                  </a>
+                  </Link>
                 </div>
               </div>
 
@@ -481,7 +392,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                     <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"></div>
                     <div className="post-col post-col-3 m:col-start-9 m:col-span-4"></div>
 
-                    <a
+                    <Link
                       className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                       href="coreviews"
                       data-id="144299"
@@ -513,9 +424,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           May 23, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
                       href="languagemodels"
                       data-id="27641"
@@ -530,9 +441,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           May 16, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-3  s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
                       href="predictablemodels"
                       data-id="3419"
@@ -547,9 +458,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           May 16, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-4  s:col-start-7 s:col-span-6 m:col-start-1 m:col-span-4"
                       href="deeper"
                       data-id="3433"
@@ -565,9 +476,9 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           April 12, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
                       href="advancements"
                       data-id="3426"
@@ -582,7 +493,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                           March 18, 2023
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
 
                   <button

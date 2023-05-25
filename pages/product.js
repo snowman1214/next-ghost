@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { Script } from "./_document";
 import { useEffect } from "react";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Product() {
   useEffect(() => {
@@ -102,9 +103,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                       className="lazyPicture aspect-ratio "
                       style={{ Aspect: "39.0625%" }}
                       data-scroll
-                    >
-
-                    </div>
+                    ></div>
                   </div>
                 </div>
                 <div className="content-block-wrapper wrapper">
@@ -338,9 +337,9 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Customer_Servicec2be.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302477&amp;s=b5ad0d6c5f27a08dd028125e197c65ed"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Customer_Service.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302477&amp;s=471a7ac09d0636730f3e347aa243ca76 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Customer_Service.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302477&amp;s=c958647b5acd1ff9393e37ddcc6ee496 1056w"
-                                        alt="Claude Work Customer Service"
+                                        src="order.png"
+                                        srcSet="order.png 1024w, order.png 1056w"
+                                        alt="SuisseGPT Work Customer Service"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
                                     </div>
@@ -370,8 +369,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Legal042c.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678729370&amp;s=30ed5f57cc0c0f5f28d1983e8de3f82c"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Legal.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678729370&amp;s=d68ff747c0cae4335d4703a687d9d9d4 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Legal.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678729370&amp;s=8d271f33eb39568cf0bcbcf4f7808767 1056w"
+                                        src="cease.png"
+                                        srcSet="cease.png 1024w, cease.png 1056w"
                                         alt="SuisseGPT Work Legal"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
@@ -398,8 +397,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Coaching4722.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302483&amp;s=64c0d2db90d59863e032a7775fe57e78"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Coaching.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302483&amp;s=bab7c3a4c086a74e79b183ce0f839f68 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Coaching.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302483&amp;s=24f1b856f5f6379b4ddf4b4cd3f21d52 1056w"
+                                        src="coaching.png"
+                                        srcSet="coaching.png 1024w, coaching.png 1056w"
                                         alt="SuisseGPT Work Coaching"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
@@ -427,8 +426,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Search8275.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302461&amp;s=020d7e50a32bd3ee3f7e9700b22c98b9"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Search.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302461&amp;s=69ec5e0edd61e5678002c2e59af25ba2 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Search.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302461&amp;s=ba6521ff8943c378bf504168cbba1b35 1056w"
+                                        src="search.png"
+                                        srcSet="search.png 1024w, search.png 1056w"
                                         alt="SuisseGPT Work Search"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
@@ -456,8 +455,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Back-Officefb69.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302487&amp;s=3c3aba5b4ffc68590ae8b932c8489f68"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Back-Office.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302487&amp;s=4b31d90376b0683736a993565f10d5b1 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Back-Office.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302487&amp;s=d4edbf998135e27021445bd8d3a90e4b 1056w"
+                                        src="backoffice.png"
+                                        srcSet="backoffice.png 1024w, backoffice.png 1056w"
                                         alt="SuisseGPT Work Back Office"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
@@ -486,8 +485,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                       <img
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
-                                        src="../optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Saleseded.png?w=1056&amp;h=794&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302467&amp;s=b5ffb711c91cf6ef06dbcba99f0cd33b"
-                                        srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Sales.png?w=1024&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302467&amp;s=c124b9f7e5fb79a0bb07c7d08c47d338 1024w, https://optimise2.assets-servd.host/anthropic-website/production/images/Claude_Work_Sales.png?w=1056&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302467&amp;s=4acdeb1a41772adad05d7ade48593943 1056w"
+                                        src="sales.png"
+                                        srcSet="sales.png 1024w, sales.png 1056w"
                                         alt="SuisseGPT Work Sales"
                                         style={{ objectPosition: "50% 50%" }}
                                       />
@@ -536,8 +535,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <img
                                   className=""
                                   sizes="100vw"
-                                  src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Text2cfd.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302206&amp;s=840937b978f46f11cca51a4286f6c920"
-                                  srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Text.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302206&amp;s=c03420529b3f127dd81e787d80e004a0 192w"
+                                  src="documents.svg"
+                                  srcSet="documents.svg 192w"
                                   alt="SuisseGPT Skills Text"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
@@ -566,8 +565,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <img
                                   className=""
                                   sizes="100vw"
-                                  src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Conversationsa912.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302207&amp;s=b60e651383ed1e680da8a771e49d65a1"
-                                  srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Conversations.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302207&amp;s=440f328e11f803dde140e47357f28496 192w"
+                                  src="convo.svg"
+                                  srcSet="convo.svg 192w"
                                   alt="SuisseGPT Skills Conversations"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
@@ -596,8 +595,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <img
                                   className=""
                                   sizes="100vw"
-                                  src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers4195.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302209&amp;s=f8a64c41a20146a8332578c26a88b1d4"
-                                  srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302209&amp;s=2e28e4861331f33650a4b3d3a339695e 192w"
+                                  src="qa.svg"
+                                  srcSet="qa.svg 192w"
                                   alt="SuisseGPT Skills Answers"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
@@ -625,8 +624,8 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <img
                                   className=""
                                   sizes="100vw"
-                                  src="../optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers-18591.png?w=192&amp;h=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302210&amp;s=0f90180af314f94da3c3f3cab9e2d7e0"
-                                  srcSet="https://optimise2.assets-servd.host/anthropic-website/production/images/Claudes_Skills_Answers-1.png?w=192&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1678302210&amp;s=4235d9a0f529afd12d67d5c20e682ffc 192w"
+                                  src="robot.svg"
+                                  srcSet="robot.svg 192w"
                                   alt="SuisseGPT Skills Answers 1"
                                   style={{ objectPosition: "50% 50%" }}
                                 />
@@ -715,16 +714,16 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   Yes, SuisseGPT uses industry-standard best
                                   practices for data handling and retention. See
                                   our{" "}
-                                  <a
-                                    href="https://vault.pactsafe.io/s/9f502c93-cb5c-4571-b205-1e479da61794/legal.html#privacy"
+                                  <Link
+                                    href="/privacy"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >
                                     Privacy Policy
-                                  </a>{" "}
+                                  </Link>{" "}
                                   for more details. All commercial deployments
-                                  are covered by Anthropic's Data Protection
-                                  Addendum, which is available upon request. 
+                                  are covered by SuisseGPT's Data Protection
+                                  Addendum, which is available upon request.
                                 </p>
                               </div>
                             </article>
@@ -791,10 +790,10 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                     server-sent events
                                   </a>
                                   , a streaming protocol for the web. We have{" "}
-                                  <a href="https://console.anthropic.com/docs/api">
+                                  <a href="mailto:sales@suissegpt.ai">
                                     API documentation
                                   </a>
-                                   with drop-in example code in Python and
+                                  with drop-in example code in Python and
                                   Typescript to get you started.
                                 </p>
                               </div>
@@ -928,7 +927,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <p>
                                   You can find our model pricing{" "}
                                   <a
-                                    href="https://cdn2.assets-servd.host/anthropic-website/production/images/model_pricing_may2023.pdf"
+                                    href="mailto:sales@suissegpt.ai"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >
@@ -1122,18 +1121,18 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                 <p>
                                   Constitutional training is a process for
                                   training a model to adhere to a “constitution”
-                                  of desired behavior. The core Anthropic model
+                                  of desired behavior. The core Suisse AI model
                                   has been finetuned with constitutional
                                   training with the goal of becoming helpful,
                                   honest, and harmless. You can learn more about
                                   constitutional training{" "}
-                                  <a
-                                    href="index/constitutional-ai-harmlessness-from-ai-feedback.html"
+                                  <Link
+                                    href="/coreviews"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >
                                     here
-                                  </a>
+                                  </Link>
                                   . 
                                 </p>
                               </div>
@@ -1215,13 +1214,13 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   improve. For more information about how we
                                   evaluate HHH in our models, you can read our
                                   paper{" "}
-                                  <a
-                                    href="index/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback.html"
+                                  <Link
+                                    href="/human"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >
                                     here
-                                  </a>
+                                  </Link>
                                   .
                                 </p>
                               </div>
@@ -1354,11 +1353,11 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                   addressed with a fine-tuned model by filling
                                   out{" "}
                                   <a
-                                    href="earlyaccess/index.html"
+                                    href="emailto:sales@suissegpt.ai"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                   >
-                                    this form
+                                    an email
                                   </a>
                                   . 
                                 </p>
@@ -1508,27 +1507,27 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
+                    <Link
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/100k-context-windows.html"
+                      href="/suisseai"
                       data-id="144353"
                       data-categories="product, announcements"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Introducing 100K Context Windows
+                          Private, Scalable and Secure
                         </div>
 
                         <div className="post-timestamp text-label">
-                          May 11, 2023
+                          March 6, 2023
                           <span className="is-bullet">&#9679;</span>1 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="index/claude-now-in-slack.html"
+                      href="/demand"
                       data-id="59890"
                       data-categories="product, announcements"
                     >
@@ -1542,17 +1541,18 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                           <span className="is-bullet">&#9679;</span>3 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="index/introducing-claude.html"
+                      href="/suisseblocks"
                       data-id="7578"
                       data-categories="product, announcements"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Introducing SuisseGPT
+                          SuisseAI and Swissblock Private Equity Announce
+                          Strategic Partnership
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -1560,7 +1560,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                           <span className="is-bullet">&#9679;</span>4 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </section>

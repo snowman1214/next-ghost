@@ -3,8 +3,9 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
-export default function Zoom() {
+export default function Demand() {
   useEffect(() => {
     setTimeout(() => {
       Script();
@@ -12,6 +13,17 @@ export default function Zoom() {
   }, []);
   return (
     <>
+      <NextSeo
+        title="SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments"
+        description="SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments"
+        openGraph={{
+          url: "http://suissegpt.ai",
+          title:
+            "SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments",
+          description:
+            "SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments",
+        }}
+      />
       <Header />
       <div className="page-dom-content">
         <main data-taxi="">
@@ -21,70 +33,57 @@ export default function Zoom() {
                 <div className="wrapper s:grid s:grid-12">
                   <div className="post-heading s:col-start-2 s:col-span-10 m:col-start-3 m:col-span-8 l:col-start-4 l:col-span-6">
                     <div className="post-detail-types-subjects">
-                      <a
-                        href="/index?type=company"
-                        className="btn-secondary btn-chip"
-                      >
+                      <a href="/#" className="btn-secondary btn-chip">
                         Company
                       </a>
 
-                      <a
-                        href="/index?subjects=announcements"
-                        className="btn-secondary btn-chip"
-                      >
-                        Announcements
+                      <a href="/#" className="btn-secondary btn-chip">
+                        Research
                       </a>
                     </div>
 
                     <h2 className="spacer-medium-mt">
-                      Zoom Partnership and Investment in Anthropic
+
+                      SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
-                      May 16, 2023
-                      <span className="is-bullet">●</span>
-                      56 sec read
+                      May 24, 2023
+                      <span className="is-bullet">●</span>10 min read
                     </div>
                   </div>
 
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
-                    <p>
-                      We are announcing a new partnership with Zoom, a leader in
-                      enterprise collaboration and communication solutions. Zoom
-                      will use Claude, our AI assistant built with
-                      Constitutional AI, to build customer-facing AI products
-                      focused on reliability, productivity, and safety.
-                    </p>
-                    <p>
-                      "Collaborating with Zoom allows us to bring robust,
-                      steerable AI to more people in the workplace," said our
-                      CEO Dario Amodei. "We are excited to showcase Anthropic's
-                      and Zoom's commitment to boosting productivity through
-                      AI-enabled solutions that prioritize safety and
-                      helpfulness.”
-                    </p>
-                    <p>
-                      We appreciate Zoom's federated approach to AI, which will
-                      use its own technology plus other models, including
-                      Claude, for diverse customer needs. The first product
-                      integration of Claude will occur in the Zoom Contact
-                      Center portfolio, where Claude will help improve the
-                      end-user experience and enable superior contact center
-                      agent performance.
-                    </p>
-                    <p>
-                      We are also pleased to announce that Zoom Ventures has
-                      made an investment in Anthropic. The Zoom team shares our
-                      vision of building customer-centric AI products with a
-                      foundation of trust and security, that are robust enough
-                      for real-world use. By combining our expertise, Zoom and
-                      Anthropic will help to incorporate AI into beneficial
-                      applications that meets customer needs.&nbsp;
+                    <p className="text-b2">
+                      We are thrilled to announce a transformative partnership between SuisseAI and Swissblock Private Equity, marking a historic collaboration in the financial and AI industries.
+                      <br />
+                      <br />
+                      Our mission at SuisseAI has always been to integrate the latest generative AI technologies while upholding Swiss values of privacy and stability. Today, we take a step further in our mission, extending the application of our cutting-edge Generative AI model, SuisseGPT, into the dynamic world of private equity.
+                      <br />
+                      <br />
+                      Swissblock Private Equity, known for its strategic investment choices and strong portfolio, is the perfect partner to bring this vision to life. By incorporating our generative AI into their investment analysis and decision-making processes, Swissblock Private Equity aims to unlock new opportunities, identify hidden patterns, and gain unique insights that could significantly enhance their investment strategies.
+                      <br />
+                      <br />
+                      The fusion of SuisseAI's advanced AI technologies with Swissblock's savvy investment capabilities opens up a new frontier in the world of private equity. Our partnership is rooted in the shared belief that generative AI has immense untapped potential to revolutionize how investment decisions are made, ensuring maximum returns and minimized risk.
+                      <br />
+                      <br />
+                      Generative AI, like our SuisseGPT, will enable Swissblock to analyze complex financial data more efficiently, make more informed decisions, and stay ahead of the market curve. This application will bring a new level of depth and sophistication to Swissblock's investment strategy, and we are excited to see the advancements that will come from this innovative pairing.
+                      <br />
+                      <br />
+                      As we embark on this ambitious journey, we assure all our stakeholders and partners that the privacy, stability, and innovation that form the core of our operations will continue to be upheld. The integration of SuisseGPT across all Swissblock investments will be implemented with the utmost care to ensure data security and respect for privacy, in alignment with our Swiss values.
+                      <br />
+                      <br />
+                      This partnership represents an exciting step towards the future of private equity, and we are thrilled to pioneer this journey with Swissblock Private Equity. We firmly believe that this fusion of generative AI and private equity will usher in a new era of investment strategy and performance.
+                      <br />
+                      <br />
+                      Together, we look forward to unlocking the next level of innovation in private equity investments and creating a new benchmark for success. Join us as we shape the future of AI-driven private equity investments.
+                      <br />
+                      <br />
                     </p>
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.anthropic.com/index/zoom-partnership-and-investment"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/suisseblocks"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -103,7 +102,7 @@ export default function Zoom() {
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.anthropic.com/index/zoom-partnership-and-investment"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/suisseblocks"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -126,7 +125,7 @@ export default function Zoom() {
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.anthropic.com/index/zoom-partnership-and-investment"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/suisseblocks"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"
@@ -153,12 +152,12 @@ export default function Zoom() {
                 <div className="wrapper">
                   <div className="top-content">
                     <div className="block-label">
-                      <h3>Related</h3>
+                      <h3>Company News</h3>
                     </div>
 
                     <a
                       className="text-label"
-                      href="https://www.anthropic.com/index?type=company&amp;subjects=announcements"
+                      href="https://www.suissegpt.ai/index?type=company&amp;subjects=announcements"
                     >
                       See All
                     </a>
@@ -169,39 +168,60 @@ export default function Zoom() {
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
-                      className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="https://www.anthropic.com/index/claudes-constitution"
-                      data-id="144316"
-                      data-categories="company, announcements"
+                    <Link
+                        className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
+                        href="https://www.suissegpt.ai/languagemodels"
+                        data-id="144538"
+                        data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Claude’s Constitution
+                          Private, Scalable and Secure
+                        </div>
+
+                        <div className="post-timestamp text-label">
+                          May 16, 2023
+                          <span className="is-bullet">●</span>
+                          56 sec read
+                        </div>
+                      </div>
+                    </Link>
+
+                    <a
+                        className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
+                        href="/suisseblocks"
+                        data-id="144316"
+                        data-categories="company, announcements"
+                    >
+                      <div className="post-info">
+                        <div className="post-category text-label">Company </div>
+
+                        <div className="post-heading h4">
+                          Partnering with Suisseblocks to Bring Generative AI to
+                          Enterprises
                         </div>
 
                         <div className="post-timestamp text-label">
                           May 9, 2023
                           <span className="is-bullet">●</span>
-                          15 min read
+                          1 min read
                         </div>
                       </div>
                     </a>
 
-                    <a
-                      className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="https://www.anthropic.com/index/partnering-with-scale"
-                      data-id="143906"
-                      data-categories="company, announcements"
+                    <Link
+                        className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
+                        href="/demand"
+                        data-id="143906"
+                        data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-category text-label">Company </div>
 
                         <div className="post-heading h4">
-                          Partnering with Scale to Bring Generative AI to
-                          Enterprises
+                          Demand Partnership with SuisseGPT
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -209,28 +229,7 @@ export default function Zoom() {
                           <span className="is-bullet">●</span>1 min read
                         </div>
                       </div>
-                    </a>
-
-                    <a
-                      className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="https://www.anthropic.com/index/an-ai-policy-tool-for-today-ambitiously-invest-in-nist"
-                      data-id="5830"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-category text-label">Company </div>
-
-                        <div className="post-heading h4">
-                          An AI Policy Tool for Today: Ambitiously Invest in
-                          NIST
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          Apr 20, 2023
-                          <span className="is-bullet">●</span>5 min read
-                        </div>
-                      </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </section>

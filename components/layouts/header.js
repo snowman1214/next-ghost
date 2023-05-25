@@ -115,10 +115,20 @@ const Header = () => {
               <li>
                 <Link href="/careers">Careers</Link>
               </li>
+
+              <li>
+                <Link href="company">Company</Link>
+              </li>
+              <li>
+                <Link href="news">News</Link>
+              </li>
+              <li>
+                <Link href="careers">Careers</Link>
+              </li>
             </ul>
             <ul className="footer-additional">
               <li>
-                <a href="mailto:info@anthropic.com">Email</a>
+                <a href="mailto:info@suissegpt.ai">Email</a>
               </li>
               <li>
                 <a
@@ -139,27 +149,19 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a
-                  href="https://usedemand.com/#terms"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link href="/terms" target="_blank" rel="noopener noreferrer">
                   Terms of Service
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="https://usedemand.com/#privacy"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link href="/privacy" target="_blank" rel="noopener noreferrer">
                   Privacy Policy
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="responsible-disclosure-policy.html">
+                <Link href="/responsible-disclosure-policy">
                   Responsible Disclosure Policy
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

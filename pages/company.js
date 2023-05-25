@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Company() {
   useEffect(() => {
@@ -60,7 +61,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                   </div>
 
                   <div className="cta-wrapper s:col-start-1 s:col-span-12 spacer-medium-mt">
-                    <a
+                    <Link
                       className="btn-primary"
                       href="careers"
                       aria-label="Join Us"
@@ -73,7 +74,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                           aria-hidden="true"
                         ></span>
                       </span>
-                    </a>
+                    </Link>
                   </div>
                 </div>
 
@@ -393,9 +394,9 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
+                    <Link
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="index/demand"
+                      href="/demand"
                       data-id="144538"
                       data-categories="company, announcements"
                     >
@@ -410,30 +411,30 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                           56 sec read
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="constitution"
+                      href="/suisseai"
                       data-id="144316"
                       data-categories="company, announcements"
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          SuisseGPT’s Constitution
+                          Private, Scalable and Secure
                         </div>
 
                         <div className="post-timestamp text-label">
                           May 9, 2023
                           <span className="is-bullet">&#9679;</span>
-                          15 min read
+                          1 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
 
-                    <a
+                    <Link
                       className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="suisseblocks"
+                      href="/suisseblocks"
                       data-id="143906"
                       data-categories="company, announcements"
                     >
@@ -448,7 +449,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                           <span className="is-bullet">&#9679;</span>1 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </section>
@@ -463,7 +464,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                     </div>
 
                     <div className="s:col-start-1 s:col-span-12">
-                      <a
+                      <Link
                         href="careers"
                         className="cta-1 btn-primary btn-light contentFadeUp"
                         data-triggers="inViewOnce"
@@ -477,7 +478,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                             aria-hidden="true"
                           ></span>
                         </span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>

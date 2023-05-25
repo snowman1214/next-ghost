@@ -13689,7 +13689,7 @@ export const Script = () => {
                         (this.abortController = new AbortController());
                       var n = this.abortController.signal;
                       fetch(
-                        "https://api.lever.co/v0/postings/Anthropic?group=team&mode=json",
+                        "https://api.suissegpt.ai/v0/postings/SuisseGPT?group=team&mode=json",
                         {
                           method: "get",
                           signal: n,
@@ -13710,7 +13710,7 @@ export const Script = () => {
                         })
                         .catch(function (t) {
                           //                          e.openRolesLoader.innerHTML =
-                          //                          'We\'re sorry, open roles cannot be loaded at this time. Please visit: <br><br><a href="https://jobs.lever.co/Anthropic" target="_blank" rel="noopener">https://jobs.lever.co/Anthropic</a><br><br>';
+                          //                          'We\'re sorry, open roles cannot be loaded at this time. Please visit: <br><br><br><br>';
                         });
                     },
                   },
