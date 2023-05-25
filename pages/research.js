@@ -22,15 +22,15 @@ export default function Research() {
   return (
     <>
       <NextSeo
-        title="Research by SuisseGPT - Private AI models for the modern Enterprise"
+        title="Research by SuisseAI - Private AI models for the modern Enterprise"
         description="
-Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
+Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
         openGraph={{
-          url: "http://suissegpt.ai",
+          url: "http://SuisseAI.com",
           title:
-            "Research by SuisseGPT - Private AI models for the modern Enterprise",
+            "Research by SuisseAI - Private AI models for the modern Enterprise",
           description:
-            "Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
+            "Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
         }}
       />
       <Header />
@@ -62,7 +62,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       issues is most probable. These insights serve to produce
                       safer, more controllable, and reliable models.
                       Furthermore, they facilitate the creation of systems that
-                      we deploy externally, like SuisseGPT.
+                      we deploy externally, like SuisseAI.
                     </p>
                   </div>
 
@@ -117,7 +117,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
                       <h4>02</h4>
                       <h3>Resilience and Growth</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        At SuisseGPT, we place a premium on safety research pertaining to advanced AI models. With each advancing year, we see the development of increasingly large neural networks that outshine their antecedents. However, this enhanced capacity also presents unique safety challenges. We are committed to thoroughly investigating and proactively addressing safety issues linked to large models, with an objective to bolster their dependability. Additionally, we are dedicated to sharing our findings with the broader community to improve safe deployment practices across the field. Currently, our main focus lies in developing systems that amalgamate these safety techniques with text analysis tools, allowing for a comprehensive safety evaluation and analysis.
+                        At SuisseAI, we place a premium on safety research pertaining to advanced AI models. With each advancing year, we see the development of increasingly large neural networks that outshine their antecedents. However, this enhanced capacity also presents unique safety challenges. We are committed to thoroughly investigating and proactively addressing safety issues linked to large models, with an objective to bolster their dependability. Additionally, we are dedicated to sharing our findings with the broader community to improve safe deployment practices across the field. Currently, our main focus lies in developing systems that amalgamate these safety techniques with text analysis tools, allowing for a comprehensive safety evaluation and analysis.
                       </p>
                     </div>
 
@@ -143,7 +143,7 @@ Find the latest research around AI by SuisseGPT - Advanced, Private AI Models Ta
 
                 <div className="b-featuredPost ">
                   <Link
-                    href="https://suissegpt.ai/coreviews"
+                    href="/coreviews"
                     className="featured-post-wrapper bg-book-cloth"
                   >
                     <div className="post-info s:grid s:grid-12">

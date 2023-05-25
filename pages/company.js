@@ -22,15 +22,15 @@ export default function Company() {
   return (
     <>
       <NextSeo
-        title="About SuisseGPT - Private AI models for the modern Enterprise"
+        title="About SuisseAI - Private AI models for the modern Enterprise"
         description="
-Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
+Who is SuisseAI? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
         openGraph={{
-          url: "http://suissegpt.ai",
+          url: "http://suisseai.com",
           title:
-            "About SuisseGPT - Private AI models for the modern Enterprise",
+            "About SuisseAI - Private AI models for the modern Enterprise",
           description:
-            "Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
+            "Who is SuisseAI? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
         }}
       />
       <Header />
@@ -54,7 +54,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
 
                   <div className="description-wrapper s:col-start-4 s:col-span-6 spacer-medium-mt text-b1">
                     <p>
-                      SuisseGPT is a pioneering company in AI safety and
+                      SuisseAI is a pioneering company in AI safety and
                       research. Our expertise lies in building AI systems that
                       are dependable, understandable, and easily directed.
                     </p>
@@ -92,7 +92,7 @@ Who is SuisseGPT? Introducing SuisseGPT - Advanced, Private AI Models Tailored f
                     <div className="block-content s:col-start-5 s:col-span-8">
                       <h2>
                         We are confident that AI will immensely transform our
-                        world. SuisseGPT is devoted to creating systems that
+                        world. SuisseAI is devoted to creating systems that
                         individuals can rely on, while conducting research on
                         the opportunities and risks that AI presents.
                       </h2>

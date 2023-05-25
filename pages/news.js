@@ -49,7 +49,7 @@ Learn the latest about SuisseGPT and our research."
                 data-triggers=""
                 data-trigger-stagger="0.2"
               >
-                <h2 className="page news-heading">Index</h2>
+                <h2 className="page news-heading">News</h2>
               </div>
 
               <div

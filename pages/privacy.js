@@ -17,7 +17,7 @@ export default function Demand() {
         title="Suisse AI: Responsible Disclosure Policy"
         description="Responsible Disclosure Policy"
         openGraph={{
-          url: "http://suissegpt.ai",
+          url: "http://SuisseAI.com",
           title:
             "Suisse AI: Responsible Disclosure Policy",
           description:

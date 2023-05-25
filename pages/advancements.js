@@ -16,7 +16,7 @@ export default function Demand() {
         title="Assessing Advancements in Scalable Supervision of Large Language Models"
         description="SuisseAI's Research on: Assessing Advancements in Scalable Supervision of Large Language Models"
         openGraph={{
-          url: "http://suissegpt.ai",
+          url: "http://SuisseAI.com",
           title:
             "Assessing Advancements in Scalable Supervision of Large Language Models",
           description:
