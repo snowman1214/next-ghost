@@ -1590,6 +1590,14 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                     </div>
 
                     <div className="s:col-start-1 s:col-span-12">
+                      <a
+                          href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+
+                          data-triggers="inViewOnce"
+                          target="_blank"
+                          rel="noopener"
+                          aria-label="Request SuisseGPT on Demand"
+                      >
                       <button
                         className="cta-1 btn-primary btn-light contentFadeUp"
                         data-triggers="inViewOnce"
@@ -1605,6 +1613,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                           ></span>
                         </span>
                       </button>
+                      </a>
                     </div>
                   </div>
                 </div>
