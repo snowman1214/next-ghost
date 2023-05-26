@@ -63,7 +63,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                           aria-label="Request Access"
                         >   <a
                             href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
-                            className="cta-2 btn-secondary btn-light contentFadeUp"
+
                             data-triggers="inViewOnce"
                             target="_blank"
                             rel="noopener"

@@ -52,7 +52,7 @@ const Header = () => {
                 <span
                   className="btn-anim"
                   title="Request Access"
-                  aria-hidden="true"
+                  aria-hidden="false"
                 ></span>
               </span>
             </button>
