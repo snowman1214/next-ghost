@@ -61,6 +61,13 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                           data-triggers="inViewOnce"
                           data-modal="requestAccess"
                           aria-label="Request Access"
+                        >   <a
+                            href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+                            className="cta-2 btn-secondary btn-light contentFadeUp"
+                            data-triggers="inViewOnce"
+                            target="_blank"
+                            rel="noopener"
+                            aria-label="Request SuisseGPT on Demand"
                         >
                           <span
                             className="btn-label"
@@ -73,6 +80,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                               aria-hidden="true"
                             ></span>
                           </span>
+                        </a>
                         </button>
                         <a
                           href="https://usedemand.com/pricing"
