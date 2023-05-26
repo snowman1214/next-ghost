@@ -43,6 +43,14 @@ const Header = () => {
           <Link href="/news">News</Link>
           <Link href="/careers">Careers</Link>
           <div className="nav-cta-wrapper" data-section-slugs="product">
+            <a
+                href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+
+                data-triggers="inViewOnce"
+                target="_blank"
+                rel="noopener"
+                aria-label="Request SuisseGPT on Demand"
+            >
             <button
               className="btn-primary btn-nav-cta"
               data-modal="requestAccess"
@@ -56,6 +64,7 @@ const Header = () => {
                 ></span>
               </span>
             </button>
+              </a>
           </div>
         </nav>
         <div
