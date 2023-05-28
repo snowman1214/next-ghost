@@ -57,7 +57,7 @@ Introducing SuisseGPT - For the legal profession a Private trained Generative AI
                         <button
                           className="btn-request-access cta-1 btn-primary contentFadeUp"
                           data-triggers="inViewOnce"
-                          data-modal="requestAccess"
+                          data-modal="Join Waitlist"
                           aria-label="Join Waitlist"
                         >   <a
                             href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
@@ -69,12 +69,12 @@ Introducing SuisseGPT - For the legal profession a Private trained Generative AI
                         >
                           <span
                             className="btn-label"
-                            aria-label="Request Access"
+                            aria-label="Join Waitlist"
                           >
                             Join Waitlist
                             <span
                               className="btn-anim"
-                              title="Request Access"
+                              title="Join Waitlist"
                               aria-hidden="true"
                             ></span>
                           </span>
