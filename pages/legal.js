@@ -60,7 +60,7 @@ Introducing SuisseGPT - For the legal profession a Private trained Generative AI
                           data-modal="Join Waitlist"
                           aria-label="Join Waitlist"
                         >   <a
-                            href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+                            href="https://form.nativeforms.com/gbPdncK1jZmYTMm5Gca1Db"
 
                             data-triggers="inViewOnce"
                             target="_blank"
@@ -81,7 +81,7 @@ Introducing SuisseGPT - For the legal profession a Private trained Generative AI
                         </a>
                         </button>
                         <a
-                          href="https://usedemand.com/pricing"
+                          href="https://form.nativeforms.com/gbPdncK1jZmYTMm5Gca1Db"
                           className="cta-2 btn-secondary btn-light contentFadeUp"
                           data-triggers="inViewOnce"
                           target="_blank"
@@ -1589,7 +1589,7 @@ Introducing SuisseGPT - For the legal profession a Private trained Generative AI
 
                     <div className="s:col-start-1 s:col-span-12">
                       <a
-                          href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+                          href="https://form.nativeforms.com/gbPdncK1jZmYTMm5Gca1Db"
 
                           data-triggers="inViewOnce"
                           target="_blank"

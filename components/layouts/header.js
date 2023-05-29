@@ -37,7 +37,8 @@ const Header = () => {
           </svg>
         </button>
         <nav className="core-nav">
-          <Link href="/product">Product</Link>
+          <Link href="/product">SuisseGPT</Link>
+          <Link href="/legal">LegalGPT</Link>
           <Link href="/research">Research</Link>
           <Link href="/company">Company</Link>
           <Link href="/news">News</Link>
@@ -111,7 +112,11 @@ const Header = () => {
           <div className="footer-top xs:col-start-1 xs:col-span-2">
             <ul className="footer-primary">
               <li>
-                <Link href="/product">Product</Link>
+                <Link href="/product">SuisseGPT</Link>
+              </li>
+
+              <li>
+                <Link href="/legal">LegalGPT</Link>
               </li>
               <li>
                 <Link href="research">Research</Link>
