@@ -47,7 +47,7 @@ export default function Demand() {
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
-                      May 25, 2023
+                      May 18, 2023
                       <span className="is-bullet">●</span>10 min read
                     </div>
                   </div>
@@ -528,7 +528,7 @@ export default function Demand() {
                               </div>
 
                               <div className="post-timestamp text-label">
-                                  Apr 26, 2023
+                                  May 25, 2023
                                   <span className="is-bullet">●</span>1 min read
                               </div>
                           </div>
