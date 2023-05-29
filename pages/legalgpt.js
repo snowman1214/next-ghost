@@ -44,7 +44,7 @@ export default function Demand() {
 
                     <h2 className="spacer-medium-mt">
 
-                      SuisseAI Revolutionizes Legal Industry with LegalGPT - More than 10,000 Law Firms on Waitlist
+                      SuisseAI Revolutionizes the Legal Industry with LegalGPT - More than 10,000 Law Firms on Waitlist
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
