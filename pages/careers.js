@@ -22,13 +22,13 @@ export default function Careers() {
   return (
     <>
       <NextSeo
-        title="SuisseGPT - Build the future of AI with SuisseGPT"
-        description="SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team."
+        title="SuisseAI - Build the future of AI with SuisseGPT"
+        description="SuisseAI - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team."
         openGraph={{
-          url: "http://suissegpt.ai",
-          title: "SuisseGPT - Build the future of AI with SuisseGPT",
+          url: "http://suisseai.com",
+          title: "SuisseAI - Build the future of AI with SuisseGPT",
           description:
-            "SuisseGPT - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team.",
+            "SuisseAI - Shape the Horizon of Artificial Intelligence with SuisseGPT, join our team.",
         }}
       />
       <Header />
@@ -334,7 +334,7 @@ export default function Careers() {
 
                     <div className="block-content s:col-start-5 s:col-span-8 text-b2 is-bulleted">
                       <p className="text-b1">
-                        The interview process at SuisseGPT is tailored to each
+                        The interview process at SuisseAI is tailored to each
                         specific role and candidate, ensuring a comprehensive
                         evaluation. While variations may occur, our standard
                         procedure typically follows the structure outlined
@@ -353,11 +353,11 @@ export default function Careers() {
                       <h4>Step 2</h4>
                       <h2>Interview based on Role</h2>
                       <p>
-                        As part of our interview process at SuisseGPT, we
+                        As part of our interview process at SuisseAI, we
                         arrange a discussion between our staff and the candidate
                         to delve into their career interests and relevant
                         experience. This conversation serves as an opportunity
-                        for the candidate to gain deeper insights into SuisseGPT
+                        for the candidate to gain deeper insights into SuisseAI
                         as a company and its mission. Simultaneously, it enables
                         our staff to better understand the candidate's
                         professional aspirations and evaluate how their skills
@@ -377,7 +377,7 @@ export default function Careers() {
                           assignment. These typically involve writing responses
                           to several role-relevant questions; they mayFor
                           candidates applying for operations or policy roles at
-                          SuisseGPT, a take-home assignment is typically
+                          SuisseAI, a take-home assignment is typically
                           included as part of the interview process. This
                           assignment is designed to assess the candidate's
                           capabilities and suitability for the role. It usually
@@ -394,14 +394,14 @@ export default function Careers() {
                         </li>
                         <li>
                           The inclusion of a take-home assignment in our
-                          interview process at SuisseGPT serves multiple
+                          interview process at SuisseAI serves multiple
                           purposes. First and foremost, it is implemented to
                           reduce bias and ensure that our hiring decisions are
                           well-informed. By evaluating a candidate's actual
                           work, we gain valuable insights into their potential
                           performance on the job. Simultaneously, the assignment
                           offers candidates a clearer understanding of the
-                          nature of work they can expect at SuisseGPT. We
+                          nature of work they can expect at SuisseAI. We
                           believe that a candidate's engagement and satisfaction
                           while working on the take-home assignment can serve as
                           an indicator of their suitability for the role. If a
@@ -412,12 +412,12 @@ export default function Careers() {
                           unappealing or unengaging, it may indicate a mismatch
                           between their interests and the role itself. Overall,
                           the inclusion of a take-home assignment benefits both
-                          the candidate and SuisseGPT by facilitating a more
+                          the candidate and SuisseAI by facilitating a more
                           accurate assessment of skills, work style, and
                           potential job satisfaction.
                         </li>
                         <li>
-                          At SuisseGPT, we understand and acknowledge that
+                          At SuisseAI, we understand and acknowledge that
                           completing work assignments demands time and effort,
                           and we recognize that these assignments may not
                           perfectly mirror the actual responsibilities of the
@@ -466,7 +466,7 @@ export default function Careers() {
 
                     <div className="block-content s:col-start-5 s:col-span-8 text-b2 is-bulleted">
                       <p>
-                        Technical interviews at SuisseGPT are broadly
+                        Technical interviews at SuisseAI are broadly
                         categorized into ‘engineering’ or ‘research’ interviews,
                         and each candidate is given a mix tailored to their
                         skillset.
@@ -484,7 +484,7 @@ export default function Careers() {
                         <br />
                         These components are ‘chunkier’ than the more common
                         Leet Code problems, and are intended to mimic the
-                        day-to-day of engineering at SuisseGPT.
+                        day-to-day of engineering at SuisseAI.
                         <br />
                         <br />
                         We are particularly interested in your thought process
@@ -500,7 +500,7 @@ export default function Careers() {
                         machine learning topics, and you can ask to pass on that
                         one if you wish. You do not need to learn anything about
                         machine learning before interviewing as an engineer at
-                        SuisseGPT.
+                        SuisseAI.
                         <br />
                         <br />
                         Research interviews are broader in form. They’ll include
@@ -510,7 +510,7 @@ export default function Careers() {
                         <br />
                         Both the research and engineering interview process also
                         include softer questions about your experience and
-                        motivations, and time to ask us about SuisseGPT.
+                        motivations, and time to ask us about SuisseAI.
                       </p>
                     </div>
                   </section>
@@ -549,7 +549,7 @@ export default function Careers() {
                             - If you’ve an engineering background, please apply
                             as an engineer. You’ll perform much better in the
                             interviews, and if you join you’ll have as much
-                            input to SuisseGPT’s direction and interests as
+                            input to SuisseAI’s direction and interests as
                             anyone else.
                             <br />
                             <br />- As evidence towards this: all of our papers
@@ -584,7 +584,7 @@ export default function Careers() {
                             experience
                           </div>
                           <p className="text-b2 spacer-micro-mt">
-                            About half of SuisseGPT technical staff have a PhD
+                            About half of SuisseAI technical staff have a PhD
                             of some sort; about half had prior experience in ML.
                             We have several brilliant colleagues who never went
                             to college.
@@ -624,7 +624,7 @@ export default function Careers() {
                         <div className="post ">
                           <div className="h4">Remote work</div>
                           <p className="text-b2 spacer-micro-mt">
-                            SuisseGPT staff all come to the office regularly.
+                            SuisseAI staff all come to the office regularly.
                             Most staff live in the Zug Area, though a few live
                             further away and come in for one week a month. We
                             also understand that moving can take time, so as a
@@ -1035,7 +1035,7 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Enterprise Account Executive</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
+                              SuisseAI’s mission is to create reliable,
                               interpretable, and steerable AI systems that are Private. We want
                               AI to be safe and beneficial for our customers and
                               for society as a whole. Our team is a quickly
@@ -1116,10 +1116,10 @@ export default function Careers() {
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Prompt Engineer and Librarian</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              SuisseGPT’s mission is to create reliable,
+                              SuisseGPTSuisseAI’s mission is to create reliable,
                               interpretable, and perfect AI systems. We want
                               AI to be safe for our customers and for society as
-                              a whole (mission driven). SuisseGPT’s AI technology is amongst the
+                              a whole (mission driven). SuisseAI’s AI technology is amongst the
                               most capable and safest in the world…
                             </p>
                             <a

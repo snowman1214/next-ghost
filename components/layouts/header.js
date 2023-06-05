@@ -37,12 +37,21 @@ const Header = () => {
           </svg>
         </button>
         <nav className="core-nav">
-          <Link href="/product">Product</Link>
+          <Link href="/product">SuisseGPT</Link>
+          <Link href="/legal">LegalGPT</Link>
           <Link href="/research">Research</Link>
           <Link href="/company">Company</Link>
           <Link href="/news">News</Link>
           <Link href="/careers">Careers</Link>
           <div className="nav-cta-wrapper" data-section-slugs="product">
+            <a
+                href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+
+                data-triggers="inViewOnce"
+                target="_blank"
+                rel="noopener"
+                aria-label="Request SuisseGPT on Demand"
+            >
             <button
               className="btn-primary btn-nav-cta"
               data-modal="requestAccess"
@@ -52,10 +61,11 @@ const Header = () => {
                 <span
                   className="btn-anim"
                   title="Request Access"
-                  aria-hidden="true"
+                  aria-hidden="false"
                 ></span>
               </span>
             </button>
+              </a>
           </div>
         </nav>
         <div
@@ -98,7 +108,11 @@ const Header = () => {
           <div className="footer-top xs:col-start-1 xs:col-span-2">
             <ul className="footer-primary">
               <li>
-                <Link href="/product">Product</Link>
+                <Link href="/product">SuisseGPT</Link>
+              </li>
+
+              <li>
+                <Link href="/legal">LegalGPT</Link>
               </li>
               <li>
                 <Link href="/research">Research</Link>

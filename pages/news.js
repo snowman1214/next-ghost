@@ -49,7 +49,7 @@ Learn the latest about SuisseGPT and our research."
                 data-triggers=""
                 data-trigger-stagger="0.2"
               >
-                <h2 className="page news-heading">Index</h2>
+                <h2 className="page news-heading">News</h2>
               </div>
 
               <div
@@ -338,6 +338,49 @@ Learn the latest about SuisseGPT and our research."
                     >
                       <div className="post-col post-col-1 s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4">
                         <Link
+                            className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
+                            href="/legalgpt"
+                            data-id="143906"
+                            data-categories="company, announcements"
+                            style={{ display: "block" }}
+                        >
+                          <div className="post-card-photo">
+                            <div
+                                className="lazyPicture aspect-ratio "
+                                style={{ Aspect: "100%" }}
+                                data-scroll=""
+                            >
+                              <img
+                                  className=""
+                                  sizes="(max-width: 699px) 100vw, 33vw"
+                                  src="policy.png"
+                                  srcSet="policy.png 1024w, policy.png 1312w"
+                                  alt="Demand Card V2"
+                                  style={{ objectPosition: "50% 50%" }}
+                              />
+                            </div>
+                          </div>
+
+                          <div className="post-info">
+                            <div className="post-category text-label">
+                              Company{" "}
+                            </div>
+
+
+
+
+                            <div className="post-heading h4">
+                              SuisseAI Revolutionizes Legal Industry with LegalGPT - More than 10,000 Law Firms on Waitlist
+                            </div>
+
+                            <div className="post-timestamp text-label">
+                              May 29, 2023
+                              <span className="is-bullet">●</span>1 min read
+                            </div>
+                          </div>
+                        </Link>
+
+                        <Link
                           className="post post-1  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
                           href="/demand"
                           data-id="144538"
@@ -371,7 +414,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-timestamp text-label">
-                              May 16, 2023
+                              May 25, 2023
                               <span className="is-bullet">●</span>
                               56 sec read
                             </div>
@@ -379,7 +422,7 @@ Learn the latest about SuisseGPT and our research."
                         </Link>
                         <Link
                           className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
-                          href="https://www.suissegpt.ai/suisseblocks"
+                          href="/suisseblocks"
                           data-id="143906"
                           data-categories="company, announcements"
                           style={{ display: "block" }}
@@ -406,19 +449,22 @@ Learn the latest about SuisseGPT and our research."
                               Company{" "}
                             </div>
 
+
+
+
                             <div className="post-heading h4">
                               SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments
                             </div>
 
                             <div className="post-timestamp text-label">
-                              Apr 29, 2023
+                              May 24, 2023
                               <span className="is-bullet">●</span>1 min read
                             </div>
                           </div>
                         </Link>
                         <Link
                           className="post post-7  s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                          href="https://www.suissegpt.ai/coreviews"
+                          href="/coreviews"
                           data-id="59890"
                           data-categories="product, announcements"
                           style={{ display: "block" }}
@@ -450,7 +496,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-timestamp text-label">
-                              May 24, 2023
+                              May 18, 2023
                               <span className="is-bullet">●</span>3 min read
                             </div>
                           </div>

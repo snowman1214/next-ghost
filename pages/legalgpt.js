@@ -3,6 +3,7 @@ import Header from "@/components/layouts/header";
 import { useEffect } from "react";
 import { Script } from "./_document";
 import { NextSeo } from "next-seo";
+import Link from "next/link";
 
 export default function Demand() {
   useEffect(() => {
@@ -13,14 +14,14 @@ export default function Demand() {
   return (
     <>
       <NextSeo
-        title="Assessing Advancements in Scalable Supervision of Large Language Models"
-        description="SuisseAI's Research on: Assessing Advancements in Scalable Supervision of Large Language Models"
+        title="Suisse AI Announcement: LegalGPT with 10,000 Law Firms on the wait list"
+        description="LegalGPT with 10,000 Law Firms on the wait list"
         openGraph={{
-          url: "http://SuisseAI.com",
+          url: "http://suissegpt.ai",
           title:
-            "Assessing Advancements in Scalable Supervision of Large Language Models",
+            "Suisse AI Announcement: LegalGPT with 10,000 Law Firms on the wait list",
           description:
-            "SuisseAI's Research on: Assessing Advancements in Scalable Supervision of Large Language Models.",
+            "LegalGPT with 10,000 Law Firms on the wait list.",
         }}
       />
       <Header />
@@ -37,30 +38,51 @@ export default function Demand() {
                       </a>
 
                       <a href="/#" className="btn-secondary btn-chip">
-                        Research
+                        News
                       </a>
                     </div>
 
                     <h2 className="spacer-medium-mt">
 
-                      Assessing Advancements in Scalable Supervision of Large Language Models
+                      SuisseAI Revolutionizes the Legal Industry with LegalGPT - More than 10,000 Law Firms on Waitlist
                     </h2>
 
                     <div className="post-timestamp spacer-medium-mt text-label">
-                      May 24, 2023
-                      <span className="is-bullet">●</span>10 min read
+                      May 29, 2023
+                      <span className="is-bullet">●</span>1 min read
                     </div>
                   </div>
 
                   <div className="post-detail s:col-start-2 s:col-span-10 m:col-start-4 m:col-span-6 l:col-start-5 l:col-span-4 text-b2">
                     <p className="text-b2">
-                      The development of safe and functional general-purpose AI systems necessitates significant strides in scalable oversight, which entails supervising systems that could potentially surpass human abilities in most relevant tasks. Empirical exploration of this issue is complex, given that we currently lack systems that comprehensively outdo human capabilities. This paper outlines our principal approach to this challenge, concentrating on viable empirical study methods. We initially propose an experimental design focusing on tasks where human specialists excel, but unassisted humans and existing general AI systems fall short. Subsequently, we present a proof-of-concept experiment intended to underscore a critical characteristic of this experimental design, demonstrating its feasibility through two question-answering tasks: MMLU and time-constrained QuALITY. In these tasks, we observe that human participants, when engaging with a large but unreliable language model dialog assistant via chat - a simplistic baseline strategy for scalable oversight - markedly outperform both the model in isolation and their individual unaided performance. These findings offer promising evidence that scalable oversight is amenable to examination with current models and strengthen recent discoveries that large language models can effectively assist humans in tackling challenging tasks.   <br />
+                      Zurich, Switzerland – Today, SuisseAI announces a significant milestone in the evolution of legal services: the development of LegalGPT. This groundbreaking AI technology has already sparked intense anticipation in the global legal community, as evidenced by more than 10,000 law firms eagerly signing up to our waitlist.  <br />
+                      <br />
+                      LegalGPT represents a leap forward in the provision of legal solutions for clients worldwide. Incorporated into our advanced SuisseAI platform, it brings together deep industry expertise and cutting-edge artificial intelligence, offering a game-changing approach to the ways in which we tackle complex legal problems.    <br />
+                      <br />
+                      "Our main goal with LegalGPT is to enhance the capabilities of legal professionals in insights, research, tasks, documents and analysis," said the spokesperson of SuisseAI. "The convergence of our knowledge with this innovative technology marks a paradigm shift in the way legal services are provided, improving efficiency and cost-effectiveness."  <br />
+                      <br />
+                      LegalGPT's transformative potential lies in its ability to bolster productivity per lawyer, enabling them to deliver more value, faster. It is designed to streamline legal operations and services, including but not limited to: case law, contract management, and execution. <br />
+                      <br />
+                      A key benefit lies in its ability to trim down costs while maintaining, and even enhancing, the quality of legal work. LegalGPT can efficiently perform tasks typically requiring countless billable hours, freeing up legal professionals to focus more on strategic, higher-value tasks.  <br />
+                      <br />
+                      Contract management and execution are areas where LegalGPT particularly shines, demonstrating its power to manage vast quantities of contracts, maintain compliance, and identify potential risks swiftly and accurately. <br />
+                      <br />
+                      The launch of LegalGPT underscores SuisseAI’s commitment to harnessing the transformative power of AI in providing high-quality, efficient, and cost-effective legal solutions. This technology promises not only to reshape the day-to-day operations of law firms but also to redefine the broader legal landscape.  <br />
+                      <br />
+                      "We're on the cusp of an exciting new era for the legal profession, and we can't wait for our partners to experience the benefits of LegalGPT," the spokesperson added.
+
+                      <br />
+                      <br />
+                      About SuisseAI: SuisseAI is a leading Swiss technology company specializing in the development of artificial intelligence solutions. Their innovative tools and applications are driving progress across various industries, making them pioneers in the digital transformation age.   <br />
+                      <br />
+
+                      <br />
 
                     </p>
 
                     <div className="b-social-share">
                       <a
-                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/advancements"
+                        href="https://www.facebook.com/sharer/sharer.php?u=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Facebook"
@@ -79,7 +101,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/advancements"
+                        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.suissegpt.ai/suissai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on LinkedIn"
@@ -102,7 +124,7 @@ export default function Demand() {
                         </svg>
                       </a>
                       <a
-                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/advancements"
+                        href="https://twitter.com/intent/tweet?text=https://www.suissegpt.ai/suisseai"
                         target="_blank"
                         rel="noopener"
                         aria-label="Share on Twitter"
@@ -145,10 +167,53 @@ export default function Demand() {
                     data-triggers="inViewOnce"
                     data-trigger-start="center 100%"
                   >
-                    <a
+                    <Link
                       className="post post-1 stagger-item s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4"
-                      href="https://www.suissegpt.ai/demand"
+                      href="https://www.suissegpt.ai/languagemodels"
                       data-id="144538"
+                      data-categories="company, announcements"
+                    >
+                      <div className="post-info">
+                        <div className="post-category text-label">Company </div>
+
+                        <div className="post-heading h4">
+                          Private, Scalable and Secure
+                        </div>
+
+                        <div className="post-timestamp text-label">
+                          May 16, 2023
+                          <span className="is-bullet">●</span>
+                          56 sec read
+                        </div>
+                      </div>
+                    </Link>
+
+                    <a
+                      className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
+                      href="/suisseblocks"
+                      data-id="144316"
+                      data-categories="company, announcements"
+                    >
+                      <div className="post-info">
+                        <div className="post-category text-label">Company </div>
+
+                        <div className="post-heading h4">
+                          Partnering with Suisseblocks to Bring Generative AI to
+                          Enterprises
+                        </div>
+
+                        <div className="post-timestamp text-label">
+                          May 9, 2023
+                          <span className="is-bullet">●</span>
+                          1 min read
+                        </div>
+                      </div>
+                    </a>
+
+                    <Link
+                      className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
+                      href="/demand"
+                      data-id="143906"
                       data-categories="company, announcements"
                     >
                       <div className="post-info">
@@ -159,54 +224,11 @@ export default function Demand() {
                         </div>
 
                         <div className="post-timestamp text-label">
-                          May 16, 2023
-                          <span className="is-bullet">●</span>
-                          56 sec read
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-2 stagger-item s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                      href="https://www.suissegpt.ai/demand"
-                      data-id="144316"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-category text-label">Company </div>
-
-                        <div className="post-heading h4">
-                            SuisseGPT’s Constitution
-                        </div>
-
-                        <div className="post-timestamp text-label">
-                          May 9, 2023
-                          <span className="is-bullet">●</span>
-                          15 min read
-                        </div>
-                      </div>
-                    </a>
-
-                    <a
-                      className="post post-3 stagger-item s:col-start-1 s:col-span-6 m:col-start-9 m:col-span-4"
-                      href="https://www.suissegpt.ai/languagemodels"
-                      data-id="143906"
-                      data-categories="company, announcements"
-                    >
-                      <div className="post-info">
-                        <div className="post-category text-label">Company </div>
-
-                        <div className="post-heading h4">
-                          Partnering with Scale to Bring Generative AI to
-                          Enterprises
-                        </div>
-
-                        <div className="post-timestamp text-label">
                           Apr 26, 2023
                           <span className="is-bullet">●</span>1 min read
                         </div>
                       </div>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </section>

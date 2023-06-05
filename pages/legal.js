@@ -14,14 +14,14 @@ export default function Product() {
   return (
     <>
       <NextSeo
-        title="SuisseGPT a Generative AI model for the modern Enterprise"
+        title="SuisseGPT for the legal profession"
         description="
-Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterprises, Proudly Hosted in Switzerland."
+Introducing SuisseGPT - For the legal profession a Private trained Generative AI model for Today's Enterprises, Proudly Hosted in Switzerland."
         openGraph={{
           url: "http://suissegpt.ai",
-          title: "SuisseGPT a Generative AI model for the modern Enterprise",
+          title: "SuisseGPT for the legal profession",
           description:
-            "Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterprises, Proudly Hosted in Switzerland.",
+            "Introducing SuisseGPT - For the legal profession a Private trained Generative AI model for Today's Enterprises, Proudly Hosted in Switzerland.",
         }}
       />
       <Header />
@@ -42,16 +42,14 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                           <div className="heading h0">
                             Meet
                             <br />
-                            SuisseGPT
+                            LegalGPT
                           </div>
                         </div>
                       </div>
                       <div className="s:col-start-4 s:col-span-6 m:col-start-5 m:col-span-4">
                         <div className="contentFade" data-triggers="inViewOnce">
                           <p className="description text-b1">
-                            A State-of-the-art AI Assistant Tailored to Your
-                            Tasks, Regardless of Their Magnitude Versatile,
-                            Adaptable, and Personalizable
+                            A State-of-the-art AI Assistant for Legal, multiple languages and across diverse practice areas. Delivering unprecedented efficiency and intelligence
                           </p>
                         </div>
                       </div>
@@ -59,42 +57,42 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                         <button
                           className="btn-request-access cta-1 btn-primary contentFadeUp"
                           data-triggers="inViewOnce"
-                          data-modal="requestAccess"
-                          aria-label="Request Access"
+                          data-modal="Join Waitlist"
+                          aria-label="Join Waitlist"
                         >   <a
-                            href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+                            href="https://form.nativeforms.com/gbPdncK1jZmYTMm5Gca1Db"
 
                             data-triggers="inViewOnce"
                             target="_blank"
                             rel="noopener"
-                            aria-label="Request SuisseGPT on Demand"
+                            aria-label="Join Waitlist"
                         >
                           <span
                             className="btn-label"
-                            aria-label="Request Access"
+                            aria-label="Join Waitlist"
                           >
-                            Request Access
+                            Join Waitlist
                             <span
                               className="btn-anim"
-                              title="Request Access"
+                              title="Join Waitlist"
                               aria-hidden="true"
                             ></span>
                           </span>
                         </a>
                         </button>
                         <a
-                          href="https://usedemand.com/pricing"
+                          href="https://form.nativeforms.com/gbPdncK1jZmYTMm5Gca1Db"
                           className="cta-2 btn-secondary btn-light contentFadeUp"
                           data-triggers="inViewOnce"
                           target="_blank"
                           rel="noopener"
-                          aria-label="Try SuisseGPT on Demand"
+                          aria-label="Talk to Sales"
                         >
                           <span className="btn-label">
-                            Try SuisseGPT on Demand
+                           Talk to Sales
                             <span
                               className="btn-anim"
-                              title="Try SuisseGPT on Demand"
+                              title="Talk to Sales"
                               aria-hidden="true"
                             ></span>
                           </span>
@@ -111,7 +109,9 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                       className="lazyPicture aspect-ratio "
                       style={{ Aspect: "39.0625%" }}
                       data-scroll
-                    ></div>
+                    >
+
+                    </div>
                   </div>
                 </div>
                 <div className="content-block-wrapper wrapper">
@@ -435,6 +435,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                                         className=""
                                         sizes="(max-width: 699px) 100vw, 50vw"
                                         src="search.png"
+                                        srcSet="search.png 1024w, search.png 1056w"
                                         srcSet="search.png 1024w, search.png 1056w"
                                         alt="SuisseGPT Work Search"
                                         style={{ objectPosition: "50% 50%" }}
@@ -1559,8 +1560,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          SuisseAI and Swissblock Private Equity Announce
-                          Strategic Partnership
+                          SuisseAI and Swissblock Private Equity Announce Strategic Partnership
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -1589,7 +1589,7 @@ Introducing SuisseGPT - a Private trained Generative AI model for Today's Enterp
 
                     <div className="s:col-start-1 s:col-span-12">
                       <a
-                          href="https://form.nativeforms.com/XNHej1jZmYTMm5Gca1Db"
+                          href="https://form.nativeforms.com/gbPdncK1jZmYTMm5Gca1Db"
 
                           data-triggers="inViewOnce"
                           target="_blank"
