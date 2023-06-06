@@ -9,6 +9,7 @@ export default function Careers() {
   useEffect(() => {
     setTimeout(() => {
       Script();
+      animation();
     }, 200);
   }, []);
   const animation = () => {
@@ -32,7 +33,7 @@ export default function Careers() {
         }}
       />
       <Header />
-      <div className="page-dom-content" onLoad={() => animation()}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="careers">
             <div className="page-container">
@@ -59,7 +60,8 @@ export default function Careers() {
                       evaluate research ideas, forecasting their potential
                       impact and feasibility in furthering our mission. Our
                       cohesive teamwork ensures an effective approach to
-                      advancing our goals and do what people thought was impossible.
+                      advancing our goals and do what people thought was
+                      impossible.
                     </p>
                   </div>
 
@@ -168,9 +170,6 @@ export default function Careers() {
                           />
                         </div>
                       </div>
-
-
-
                     </div>
                   </div>
                 </div>
@@ -353,9 +352,9 @@ export default function Careers() {
                       <h4>Step 2</h4>
                       <h2>Interview based on Role</h2>
                       <p>
-                        As part of our interview process at SuisseAI, we
-                        arrange a discussion between our staff and the candidate
-                        to delve into their career interests and relevant
+                        As part of our interview process at SuisseAI, we arrange
+                        a discussion between our staff and the candidate to
+                        delve into their career interests and relevant
                         experience. This conversation serves as an opportunity
                         for the candidate to gain deeper insights into SuisseAI
                         as a company and its mission. Simultaneously, it enables
@@ -377,20 +376,20 @@ export default function Careers() {
                           assignment. These typically involve writing responses
                           to several role-relevant questions; they mayFor
                           candidates applying for operations or policy roles at
-                          SuisseAI, a take-home assignment is typically
-                          included as part of the interview process. This
-                          assignment is designed to assess the candidate's
-                          capabilities and suitability for the role. It usually
-                          entails crafting written responses to a set of
-                          role-specific questions, occasionally necessitating
-                          external research. The time commitment for these
-                          assignments typically ranges between 2 to 5 hours,
-                          depending on the particular role. We believe this
-                          allows candidates to showcase their skills and
-                          knowledge effectively while striking a balance with
-                          their existing commitments. occasionally require some
-                          outside research. Assignments usually take between 2-5
-                          hours, depending on the role.
+                          SuisseAI, a take-home assignment is typically included
+                          as part of the interview process. This assignment is
+                          designed to assess the candidate's capabilities and
+                          suitability for the role. It usually entails crafting
+                          written responses to a set of role-specific questions,
+                          occasionally necessitating external research. The time
+                          commitment for these assignments typically ranges
+                          between 2 to 5 hours, depending on the particular
+                          role. We believe this allows candidates to showcase
+                          their skills and knowledge effectively while striking
+                          a balance with their existing commitments.
+                          occasionally require some outside research.
+                          Assignments usually take between 2-5 hours, depending
+                          on the role.
                         </li>
                         <li>
                           The inclusion of a take-home assignment in our
@@ -401,10 +400,10 @@ export default function Careers() {
                           work, we gain valuable insights into their potential
                           performance on the job. Simultaneously, the assignment
                           offers candidates a clearer understanding of the
-                          nature of work they can expect at SuisseAI. We
-                          believe that a candidate's engagement and satisfaction
-                          while working on the take-home assignment can serve as
-                          an indicator of their suitability for the role. If a
+                          nature of work they can expect at SuisseAI. We believe
+                          that a candidate's engagement and satisfaction while
+                          working on the take-home assignment can serve as an
+                          indicator of their suitability for the role. If a
                           candidate demonstrates enthusiasm and enjoys tackling
                           the assignment, it suggests a potential alignment with
                           the responsibilities and challenges of the position.
@@ -466,10 +465,9 @@ export default function Careers() {
 
                     <div className="block-content s:col-start-5 s:col-span-8 text-b2 is-bulleted">
                       <p>
-                        Technical interviews at SuisseAI are broadly
-                        categorized into ‘engineering’ or ‘research’ interviews,
-                        and each candidate is given a mix tailored to their
-                        skillset.
+                        Technical interviews at SuisseAI are broadly categorized
+                        into ‘engineering’ or ‘research’ interviews, and each
+                        candidate is given a mix tailored to their skillset.
                         <br />
                         <br />
                         Engineering interviews are carried out in a shared
@@ -584,10 +582,10 @@ export default function Careers() {
                             experience
                           </div>
                           <p className="text-b2 spacer-micro-mt">
-                            About half of SuisseAI technical staff have a PhD
-                            of some sort; about half had prior experience in ML.
-                            We have several brilliant colleagues who never went
-                            to college.
+                            About half of SuisseAI technical staff have a PhD of
+                            some sort; about half had prior experience in ML. We
+                            have several brilliant colleagues who never went to
+                            college.
                           </p>
                         </div>
 
@@ -717,15 +715,14 @@ export default function Careers() {
                           id="role-content-11"
                           className="role-content s:grid s:grid-12"
                         >
-
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Site Reliability Engineer (Zug)</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We're looking for a Site Reliability Engineer who
-                              can work in the European time zone. You'll ensure the
-                              high availability and performance of our
-                              clusters that power machine learning
-                              research and services…
+                              can work in the European time zone. You'll ensure
+                              the high availability and performance of our
+                              clusters that power machine learning research and
+                              services…
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
@@ -801,10 +798,10 @@ export default function Careers() {
                             <h3>IT Support Specialist</h3>
                             <p className="text-b2 spacer-micro-mt">
                               We are looking for an entry level IT Support
-                              Specialist, who will run the IT asset
-                              management, device configuration and deployment,
-                              and user support. Successful candidates will have
-                              excellent communication skills!
+                              Specialist, who will run the IT asset management,
+                              device configuration and deployment, and user
+                              support. Successful candidates will have excellent
+                              communication skills!
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
@@ -876,15 +873,14 @@ export default function Careers() {
                           id="role-content-9"
                           className="role-content s:grid s:grid-12"
                         >
-
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Research Engineer</h3>
                             <p className="text-b2 spacer-micro-mt">
-                              Note: This is an open role that we keep
-                              open on an ongoing basis. We receive many
-                              applications for this position, and you may not
-                              hear back from us directly if we do not currently
-                              have an open role on any of our teams…
+                              Note: This is an open role that we keep open on an
+                              ongoing basis. We receive many applications for
+                              this position, and you may not hear back from us
+                              directly if we do not currently have an open role
+                              on any of our teams…
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
@@ -893,7 +889,7 @@ export default function Careers() {
                               rel="noopener"
                             >
                               <span className="btn-label">
-                              Opening Soon
+                                Opening Soon
                                 <span
                                   className="btn-anim"
                                   title="Opening Soon"
@@ -927,7 +923,6 @@ export default function Careers() {
                               </span>
                             </a>
                           </div>
-
                         </article>
                       </div>
                       <div id="role-container-8" className="role-container">
@@ -978,7 +973,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                       <div id="role-container-7" className="role-container">
                         <input
@@ -1036,10 +1030,10 @@ export default function Careers() {
                             <h3>Enterprise Account Executive</h3>
                             <p className="text-b2 spacer-micro-mt">
                               SuisseAI’s mission is to create reliable,
-                              interpretable, and steerable AI systems that are Private. We want
-                              AI to be safe and beneficial for our customers and
-                              for society as a whole. Our team is a quickly
-                              growing group of committed business…
+                              interpretable, and steerable AI systems that are
+                              Private. We want AI to be safe and beneficial for
+                              our customers and for society as a whole. Our team
+                              is a quickly growing group of committed business…
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
@@ -1111,16 +1105,15 @@ export default function Careers() {
                           id="role-content-6"
                           className="role-content s:grid s:grid-12"
                         >
-
-
                           <div className="role-post s:col-start-5 s:col-span-6">
                             <h3>Prompt Engineer and Librarian</h3>
                             <p className="text-b2 spacer-micro-mt">
                               SuisseGPTSuisseAI’s mission is to create reliable,
-                              interpretable, and perfect AI systems. We want
-                              AI to be safe for our customers and for society as
-                              a whole (mission driven). SuisseAI’s AI technology is amongst the
-                              most capable and safest in the world…
+                              interpretable, and perfect AI systems. We want AI
+                              to be safe for our customers and for society as a
+                              whole (mission driven). SuisseAI’s AI technology
+                              is amongst the most capable and safest in the
+                              world…
                             </p>
                             <a
                               className="btn-primary spacer-small-mt"
@@ -1138,7 +1131,6 @@ export default function Careers() {
                               </span>
                             </a>
                           </div>
-
                         </article>
                       </div>
                       <div id="role-container-5" className="role-container">
@@ -1189,7 +1181,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                       <div id="role-container-4" className="role-container">
                         <input
@@ -1239,7 +1230,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                       <div id="role-container-3" className="role-container">
                         <input
@@ -1289,7 +1279,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                       <div id="role-container-2" className="role-container">
                         <input
@@ -1339,7 +1328,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                       <div id="role-container-1" className="role-container">
                         <input
@@ -1389,7 +1377,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                       <div id="role-container-0" className="role-container">
                         <input
@@ -1439,7 +1426,6 @@ export default function Careers() {
                             </span>
                           </span>
                         </label>
-
                       </div>
                     </div>
                   </div>

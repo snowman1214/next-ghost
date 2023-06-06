@@ -9,6 +9,7 @@ export default function Home() {
   useEffect(() => {
     setTimeout(() => {
       Script();
+      animation();
     }, 200);
   }, []);
 
@@ -38,7 +39,7 @@ Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterpr
         }}
       />
       <Header />
-      <div className="page-dom-content" onLoad={() => animation()}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="home">
             <div className="page-container">

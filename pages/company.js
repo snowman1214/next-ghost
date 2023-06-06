@@ -9,6 +9,7 @@ export default function Company() {
   useEffect(() => {
     setTimeout(() => {
       Script();
+      animation();
     }, 200);
   }, []);
   const animation = () => {
@@ -27,14 +28,13 @@ export default function Company() {
 Who is SuisseAI? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland."
         openGraph={{
           url: "http://suisseai.com",
-          title:
-            "About SuisseAI - Private AI models for the modern Enterprise",
+          title: "About SuisseAI - Private AI models for the modern Enterprise",
           description:
             "Who is SuisseAI? Introducing SuisseGPT - Advanced, Private AI Models Tailored for Today's Enterprises, Proudly Hosted in Switzerland.",
         }}
       />
       <Header />
-      <div className="page-dom-content" onLoad={() => animation()}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="company">
             <div className="page-container">
@@ -426,8 +426,7 @@ Who is SuisseAI? Introducing SuisseGPT - Advanced, Private AI Models Tailored fo
 
                         <div className="post-timestamp text-label">
                           May 9, 2023
-                          <span className="is-bullet">&#9679;</span>
-                          1 min read
+                          <span className="is-bullet">&#9679;</span>1 min read
                         </div>
                       </div>
                     </Link>

@@ -6,12 +6,12 @@ import { Script } from "./_document";
 import { Animation } from "./_document";
 import { NextSeo } from "next-seo";
 
-
 export default function News() {
   const [isListView, setIsListView] = useState(false);
 
   useEffect(() => {
     setTimeout(() => {
+      animation();
       Script();
     }, 200);
   }, []);
@@ -40,7 +40,7 @@ Learn the latest about SuisseGPT and our research."
         }}
       />
       <Header />
-      <div className="page-dom-content " onLoad={() => animation()}>
+      <div className="page-dom-content ">
         <main data-taxi="">
           <article data-taxi-view="default" data-handle="index">
             <div className="page-container">
@@ -338,25 +338,25 @@ Learn the latest about SuisseGPT and our research."
                     >
                       <div className="post-col post-col-1 s:col-start-1 s:col-span-6 m:col-start-1 m:col-span-4">
                         <Link
-                            className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
-                            href="/legalgpt"
-                            data-id="143906"
-                            data-categories="company, announcements"
-                            style={{ display: "block" }}
+                          className="post post-5  s:col-start-1 s:col-span-6 m:col-start-5 m:col-span-4"
+                          href="/legalgpt"
+                          data-id="143906"
+                          data-categories="company, announcements"
+                          style={{ display: "block" }}
                         >
                           <div className="post-card-photo">
                             <div
-                                className="lazyPicture aspect-ratio "
-                                style={{ Aspect: "100%" }}
-                                data-scroll=""
+                              className="lazyPicture aspect-ratio "
+                              style={{ Aspect: "100%" }}
+                              data-scroll=""
                             >
                               <img
-                                  className=""
-                                  sizes="(max-width: 699px) 100vw, 33vw"
-                                  src="policy.png"
-                                  srcSet="policy.png 1024w, policy.png 1312w"
-                                  alt="Demand Card V2"
-                                  style={{ objectPosition: "50% 50%" }}
+                                className=""
+                                sizes="(max-width: 699px) 100vw, 33vw"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1312w"
+                                alt="Demand Card V2"
+                                style={{ objectPosition: "50% 50%" }}
                               />
                             </div>
                           </div>
@@ -366,11 +366,9 @@ Learn the latest about SuisseGPT and our research."
                               Company{" "}
                             </div>
 
-
-
-
                             <div className="post-heading h4">
-                              SuisseAI Revolutionizes Legal Industry with LegalGPT - More than 10,000 Law Firms on Waitlist
+                              SuisseAI Revolutionizes Legal Industry with
+                              LegalGPT - More than 10,000 Law Firms on Waitlist
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -410,7 +408,7 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                             Demand and SuisseAI set a new standard in Sales
+                              Demand and SuisseAI set a new standard in Sales
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -449,11 +447,10 @@ Learn the latest about SuisseGPT and our research."
                               Company{" "}
                             </div>
 
-
-
-
                             <div className="post-heading h4">
-                              SuisseAI and Swissblock Private Equity Announce Strategic Partnership to Integrate Generative AI Across All Investments
+                              SuisseAI and Swissblock Private Equity Announce
+                              Strategic Partnership to Integrate Generative AI
+                              Across All Investments
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -492,7 +489,9 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                              SuisseGPT's Comprehensive Perspectives on Artificial Intelligence Safety: Timelines, Justifications, Objectives, and Strategies
+                              SuisseGPT's Comprehensive Perspectives on
+                              Artificial Intelligence Safety: Timelines,
+                              Justifications, Objectives, and Strategies
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -501,7 +500,6 @@ Learn the latest about SuisseGPT and our research."
                             </div>
                           </div>
                         </Link>
-
                       </div>
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
                         <Link
@@ -534,7 +532,8 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                              Predictability Versus Surprise: The Paradox of Large Generative Models
+                              Predictability Versus Surprise: The Paradox of
+                              Large Generative Models
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -543,30 +542,28 @@ Learn the latest about SuisseGPT and our research."
                             </div>
                           </div>
                         </Link>
-
-
                       </div>
                       <div className="post-col post-col-2 s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4">
                         <Link
-                            className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
-                            href="/suisseai"
-                            data-id="144353"
-                            data-categories="product, announcements"
-                            style={{ display: "block" }}
+                          className="post post-2  s:col-start-7 s:col-span-6 m:col-start-5 m:col-span-4"
+                          href="/suisseai"
+                          data-id="144353"
+                          data-categories="product, announcements"
+                          style={{ display: "block" }}
                         >
                           <div className="post-card-photo">
                             <div
-                                className="lazyPicture aspect-ratio "
-                                style={{ Aspect: "100%" }}
-                                data-scroll=""
+                              className="lazyPicture aspect-ratio "
+                              style={{ Aspect: "100%" }}
+                              data-scroll=""
                             >
                               <img
-                                  className=""
-                                  sizes="(max-width: 699px) 100vw, 33vw"
-                                  src="policy.png"
-                                  srcSet="policy.png 1024w, policy.png 1312w"
-                                  alt="General Console Improvements Card"
-                                  style={{ objectPosition: "50% 50%" }}
+                                className=""
+                                sizes="(max-width: 699px) 100vw, 33vw"
+                                src="policy.png"
+                                srcSet="policy.png 1024w, policy.png 1312w"
+                                alt="General Console Improvements Card"
+                                style={{ objectPosition: "50% 50%" }}
                               />
                             </div>
                           </div>
@@ -577,7 +574,9 @@ Learn the latest about SuisseGPT and our research."
                             </div>
 
                             <div className="post-heading h4">
-                              Announcing the Launch of Our Private, Swiss-Made Generative AI - Elevating Data Security, Privacy and Innovation for Enterprises
+                              Announcing the Launch of Our Private, Swiss-Made
+                              Generative AI - Elevating Data Security, Privacy
+                              and Innovation for Enterprises
                             </div>
 
                             <div className="post-timestamp text-label">
@@ -586,26 +585,8 @@ Learn the latest about SuisseGPT and our research."
                             </div>
                           </div>
                         </Link>
-
-
-
-
-
-
-
-
                       </div>
-                      <div className="post-col post-col-3 m:col-start-9 m:col-span-4">
-
-
-
-
-
-
-
-
-
-                      </div>
+                      <div className="post-col post-col-3 m:col-start-9 m:col-span-4"></div>
                     </div>
                   )}
 
@@ -654,9 +635,6 @@ Learn the latest about SuisseGPT and our research."
                           </div>
                         </div>
                       </Link>
-
-
-
                     </div>
                   )}
 

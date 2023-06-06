@@ -8,6 +8,7 @@ import Link from "next/link";
 export default function Research() {
   useEffect(() => {
     setTimeout(() => {
+      animation();
       Script();
     }, 200);
   }, []);
@@ -34,7 +35,7 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
         }}
       />
       <Header />
-      <div className="page-dom-content" onLoad={() => animation()}>
+      <div className="page-dom-content">
         <main data-taxi>
           <article data-taxi-view="default" data-handle="research">
             <div className="page-container">
@@ -109,15 +110,42 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                     <div className="principle">
                       <h4>01</h4>
                       <h3>AI as a Rigorous Science</h3>
-                      <p className="text-b2 spacer-micro-mt">Drawing on the principles of universal scaling phenomena from statistical physics, we are committed to devising scaling laws to promote systematic and data-driven research. Our primary focus is to identify and establish uncomplicated relationships between data, computations, parameters, and the performance of large-scale networks. Utilizing these relationships, we aim to optimize the predictability and efficiency of network training, along with improving the effectiveness of our performance assessments. Furthermore, our ongoing research is oriented towards exploring scaling laws relevant to AI system safety, a critical area that will profoundly influence our future research directions.
-                   </p>
+                      <p className="text-b2 spacer-micro-mt">
+                        Drawing on the principles of universal scaling phenomena
+                        from statistical physics, we are committed to devising
+                        scaling laws to promote systematic and data-driven
+                        research. Our primary focus is to identify and establish
+                        uncomplicated relationships between data, computations,
+                        parameters, and the performance of large-scale networks.
+                        Utilizing these relationships, we aim to optimize the
+                        predictability and efficiency of network training, along
+                        with improving the effectiveness of our performance
+                        assessments. Furthermore, our ongoing research is
+                        oriented towards exploring scaling laws relevant to AI
+                        system safety, a critical area that will profoundly
+                        influence our future research directions.
+                      </p>
                     </div>
 
                     <div className="principle">
                       <h4>02</h4>
                       <h3>Resilience and Growth</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        At SuisseAI, we place a premium on safety research pertaining to advanced AI models. With each advancing year, we see the development of increasingly large neural networks that outshine their antecedents. However, this enhanced capacity also presents unique safety challenges. We are committed to thoroughly investigating and proactively addressing safety issues linked to large models, with an objective to bolster their dependability. Additionally, we are dedicated to sharing our findings with the broader community to improve safe deployment practices across the field. Currently, our main focus lies in developing systems that amalgamate these safety techniques with text analysis tools, allowing for a comprehensive safety evaluation and analysis.
+                        At SuisseAI, we place a premium on safety research
+                        pertaining to advanced AI models. With each advancing
+                        year, we see the development of increasingly large
+                        neural networks that outshine their antecedents.
+                        However, this enhanced capacity also presents unique
+                        safety challenges. We are committed to thoroughly
+                        investigating and proactively addressing safety issues
+                        linked to large models, with an objective to bolster
+                        their dependability. Additionally, we are dedicated to
+                        sharing our findings with the broader community to
+                        improve safe deployment practices across the field.
+                        Currently, our main focus lies in developing systems
+                        that amalgamate these safety techniques with text
+                        analysis tools, allowing for a comprehensive safety
+                        evaluation and analysis.
                       </p>
                     </div>
 
@@ -125,7 +153,19 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                       <h4>03</h4>
                       <h3>Tools and Measurements</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        We fundamentally believe in critically evaluating the societal ramifications of our work. Our strategy is centered on creating tools and metrics that allow us to thoroughly assess and understand the capabilities, limitations, and potential societal impacts of our AI systems. We invite you to delve into some of the projects we have led or participated in to gain a deeper understanding of our research direction in this sphere. These initiatives underscore our commitment to comprehending and addressing the wider societal implications of AI technology: AI and Efficiency, Measurement in AI Policy: Opportunities and Challenges, the AI Index 2021 Annual Report, and Microscope.
+                        We fundamentally believe in critically evaluating the
+                        societal ramifications of our work. Our strategy is
+                        centered on creating tools and metrics that allow us to
+                        thoroughly assess and understand the capabilities,
+                        limitations, and potential societal impacts of our AI
+                        systems. We invite you to delve into some of the
+                        projects we have led or participated in to gain a deeper
+                        understanding of our research direction in this sphere.
+                        These initiatives underscore our commitment to
+                        comprehending and addressing the wider societal
+                        implications of AI technology: AI and Efficiency,
+                        Measurement in AI Policy: Opportunities and Challenges,
+                        the AI Index 2021 Annual Report, and Microscope.
                       </p>
                     </div>
 
@@ -133,7 +173,18 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                       <h4>04</h4>
                       <h3>Focused, Collaborative Research Initiatives</h3>
                       <p className="text-b2 spacer-micro-mt">
-                        Collaboration is at the heart of our research projects, and we strive to find a balance between top-down and bottom-up research planning strategies. While adhering to a distinct and focused research agenda, we prioritize inclusivity by involving a diverse set of stakeholders, including researchers, engineers, societal impact specialists, and policy analysts, to guide our work. We are actively seeking collaborations with other laboratories and researchers, acknowledging that the most thorough and insightful research on these systems emerges from a wide, interconnected network of researchers working in unison.
+                        Collaboration is at the heart of our research projects,
+                        and we strive to find a balance between top-down and
+                        bottom-up research planning strategies. While adhering
+                        to a distinct and focused research agenda, we prioritize
+                        inclusivity by involving a diverse set of stakeholders,
+                        including researchers, engineers, societal impact
+                        specialists, and policy analysts, to guide our work. We
+                        are actively seeking collaborations with other
+                        laboratories and researchers, acknowledging that the
+                        most thorough and insightful research on these systems
+                        emerges from a wide, interconnected network of
+                        researchers working in unison.
                       </p>
                     </div>
                   </div>
@@ -417,7 +468,9 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
 
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Our Comprehensive Perspectives on Artificial Intelligence Safety: Timelines, Justifications, Objectives, & Strategies
+                          Our Comprehensive Perspectives on Artificial
+                          Intelligence Safety: Timelines, Justifications,
+                          Objectives, & Strategies
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -434,7 +487,8 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Unveiling Language Model Behaviors through Evaluations Generated by the Model
+                          Unveiling Language Model Behaviors through Evaluations
+                          Generated by the Model
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -451,7 +505,8 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Predictability Versus Surprise: The Paradox of Large Generative Models
+                          Predictability Versus Surprise: The Paradox of Large
+                          Generative Models
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -468,8 +523,8 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Assessing the Self-Awareness of Language Models: A Deeper Understanding of What They Know
-
+                          Assessing the Self-Awareness of Language Models: A
+                          Deeper Understanding of What They Know
                         </div>
 
                         <div className="post-timestamp text-label">
@@ -486,7 +541,8 @@ Find the latest research around AI by SuisseAI - Advanced, Private AI Models Tai
                     >
                       <div className="post-info">
                         <div className="post-heading h4">
-                          Assessing Advancements in Scalable Supervision of Large Language Models
+                          Assessing Advancements in Scalable Supervision of
+                          Large Language Models
                         </div>
 
                         <div className="post-timestamp text-label">
